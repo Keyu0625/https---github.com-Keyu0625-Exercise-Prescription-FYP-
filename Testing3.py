@@ -468,6 +468,8 @@ def prescribe_exercise():
 
     st.subheader('STRENGTHENING EXERCISE PRESCRIPTION', divider='blue')
 
+    st.write("*## You are required to do strengthening exercise for both upper limb and lower limb following the weight , the number of repetitions and number of sets suggested*")
+
     for target_var, predicted_value in zip(targets2, predicted_outputs2[0]):
         unit = ""
         if target_var == 'cleaned_ul_weight':
@@ -484,8 +486,7 @@ def prescribe_exercise():
             st.write(f"Number of sets for strengthening exercise: {int(predicted_value)}{unit}")
         else:
             st.write(f"{target_var}: {int(predicted_value)}")
-
-    st.caption("You are required to do strengthening exercise for both upper limb and lower limb following the weight , the number of repetitions and number of sets suggested")
+    
     st.title("Kindly reminder")
     st.subheader("Please perform warm up 10 mins before the exercise and cool down 10 mins after the exercise")
     st.subheader("Make sure your heart rate does not exceed maximum heart rate")
