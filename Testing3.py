@@ -144,6 +144,7 @@ if 'user_data' not in st.session_state:
     st.session_state.user_data = {}
 
 def submit_button():
+    
     col1, col2 = st.columns(2)
     with col1:
         st.session_state.user_data['hypertension'] = st.radio(
@@ -259,7 +260,16 @@ def submit_button():
         index = None,
         placeholder = "Select your choice",
     )
-    st.button("Submit", on_click=set_state, args=[1])
+
+    required_keys = ['hypertension', 'diabetes', 'familyhx', 'stress', 'smoking', 'diet',
+                     'dyslipidemia', 'ef', 'peak_hr', 'mets', 'marital', 'functional_activity',
+                     'walking', 'gait', 'posture', 'gender', 'age', 'exercise_habit_duration']
+    
+    if not all (key in st.session_state.user_data for key in required_keys):
+        st.warning("Please fill in all the required information.")
+    else:
+        st.button("Submit", on_click=set_state, args=[1])
+    
     
 def risk_and_fill_data():
     user_data = st.session_state.user_data
@@ -475,7 +485,7 @@ def prescribe_exercise():
             st.write(f"{target_var}: {int(predicted_value)}")
 
     st.caption("You are required to do strengthening exercise for both upper limb and lower limb following the weight , the number of repetitions and number of sets suggested")
-
+    st.subheader("Please perform warm up 10 mins before the exercise and cool down 10 mins after the exercise")
 
 
 
