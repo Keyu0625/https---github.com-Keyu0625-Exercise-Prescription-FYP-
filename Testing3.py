@@ -400,7 +400,9 @@ def prescribe_exercise():
     #st.write(sample_input1)
     predicted_outputs1 = multi_output_model1.predict(pd.DataFrame(sample_input1, columns=selected_feature_names1))
     
-    
+    st.title("Kindly reminder")
+    st.subheader("Please perform warm up 10 mins before the exercise and cool down 10 mins after the exercise")
+    st.subheader("Make sure your heart rate does not exceed maximum heart rate")
     st.subheader('RECUMBENT BIKE PRESCRIPTION', divider='blue')
     st.write("*## Recommmend using bike at physio gym*")
     
@@ -488,9 +490,7 @@ def prescribe_exercise():
         else:
             st.write(f"{target_var}: {int(predicted_value)}")
     
-    st.title("Kindly reminder")
-    st.subheader("Please perform warm up 10 mins before the exercise and cool down 10 mins after the exercise")
-    st.subheader("Make sure your heart rate does not exceed maximum heart rate")
+    
 
 
 
