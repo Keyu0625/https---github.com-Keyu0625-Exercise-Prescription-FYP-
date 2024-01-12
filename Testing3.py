@@ -140,6 +140,12 @@ def handle_button():
     if st.session_state.stage >= 2:
         prescribe_exercise()
 
+def check_and_set_state():
+    if all(value is not None for value in st.session_state.user_data.values()):
+        set_state(1)
+    else:
+        st.warning("Please fill in all the required data.")
+
 if 'user_data' not in st.session_state:
     st.session_state.user_data = {}
 
@@ -261,14 +267,9 @@ def submit_button():
         placeholder = "Select your choice",
     )
 
-    required_keys = ['hypertension', 'diabetes', 'familyhx', 'stress', 'smoking', 'diet',
-                     'dyslipidemia', 'ef', 'peak_hr', 'mets', 'marital', 'functional_activity',
-                     'walking', 'gait', 'posture', 'gender', 'age', 'exercise_habit_duration']
     
-    if not all (key in st.session_state.user_data for key in required_keys):
-        st.warning("Please fill in all the required information.")
-    else:
-        st.button("Submit", on_click=set_state, args=[1])
+    if st.button("Submit", on_click=check_and_set_state):
+        check_and_set_state()
     
     
 def risk_and_fill_data():
