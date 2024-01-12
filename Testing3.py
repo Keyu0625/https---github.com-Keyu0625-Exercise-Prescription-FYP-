@@ -8,7 +8,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 
 
-df = pd.read_excel("data\\cleaned_data_removedmoredata.xlsx")
+df = pd.read_excel("data/cleaned_data_removedmoredata.xlsx")
 
 
 selected_columns = ['cleaned_risk_type','cleaned_hypertension','cleaned_diabetes_mellitus','cleaned_familyhx',
