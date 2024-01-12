@@ -211,13 +211,13 @@ def submit_button():
     )
     st.session_state.user_data['alcoholic'] = st.selectbox(
         'Do you drink?',
-        ('No','Occasional drinker','Social drinker'),
+        ('No','Yes Im an occasional drinker','Yes Im a social drinker'),
         index = None,
         placeholder = "Select your choice",
     )
     st.session_state.user_data['functional_activity'] = st.selectbox(
-        'Are you dependant or independant to perform daily activites?',
-        ('Dependant','Independant'),
+        'Are you able to perform daily activites by your own?',
+        ('No (Dependent)','Yes (Independent)'),
         index = None,
         placeholder = "Select your choice",
     )
@@ -275,8 +275,8 @@ def risk_and_fill_data():
             'peak_hr': [0 if user_data.get('peak_hr') == 'Less than 60% APMHR' else (1 if user_data.get('peak_hr') == '60% to 80% APMHR' else 2)],
             'mets': [0 if user_data.get('mets') == 'Lower than 3' else (1 if user_data.get('mets') == '3 to 6' else 2)],
             'marital':[0 if user_data.get('marital') == 'Single' else (1 if user_data.get('marital') == 'Divorced' else 2)],
-            'alcoholic': [0 if user_data.get('alcoholic') == 'No' else (1 if user_data.get('alcoholic') == 'Occasional drinker' else 2)],
-            'functional_activity': [1 if user_data.get('functional_activity') == 'Independant' else 0],
+            'alcoholic': [0 if user_data.get('alcoholic') == 'No' else (1 if user_data.get('alcoholic') == 'Yes Im an occasional drinker' else 2)],
+            'functional_activity': [1 if user_data.get('functional_activity') == 'Independent' else 0], 
             'walking': [1 if user_data.get('walking') == 'Yes' else 0],
             'gait': [1 if user_data.get('gait') == 'Normal' else 0],
             'posture': [1 if user_data.get('posture') == 'Normal' else 0],
@@ -308,8 +308,8 @@ def risk_and_fill_data():
 
 
     ################ FOR RECUMBENT EXERCISE PRESCRIPTION ##################
-        
-    st.write('Fill in to prescribe recumbent bike exercise')
+    st.markdown("**Kindly fill in for exercise prescription**")    
+    
     
     st.session_state.user_data['bmi'] = st.selectbox(
         "BMI",
@@ -336,7 +336,7 @@ def risk_and_fill_data():
         index = None,
         )
                 
-    #for strengthening exercise
+    # for strengthening exercise
     st.session_state.user_data['exercise'] = st.radio(
         "Do you exercise regularly?",
         ("Yes","No"),
@@ -364,8 +364,8 @@ def prescribe_exercise():
                         (1 if user_data.get('lives_with') == "Family" else 
                         2)], 
         'balance': [1 if  user_data.get('balance') == 'Normal' else 0], 
-        'functional_activity': [1 if user_data.get('functional_activity') == 'Independant' else 0],                 
-        'walking': [1 if user_data.get('walking') == 'Yes' else 0],
+        'functional_activity': [1 if user_data.get('functional_activity') == 'Yes (Independent)' else 0],                 
+        'walking': [1 if user_data.get('walking') == 'Yes' else 0], 
         'gait': [1 if user_data.get('gait') == 'Normal' else 0],
         'posture': [1 if user_data.get('posture') == 'Normal' else 0],
         'gender': [1 if user_data.get('gender') == 'Female' else 0],
@@ -383,13 +383,25 @@ def prescribe_exercise():
                                     else 7)],        
         })
 
-    st.write("Exercise")
+    
     #st.write(user_data_recumbent)
     sample_input1 = user_data_recumbent.values.tolist()
     #st.write(sample_input1)
     predicted_outputs1 = multi_output_model1.predict(pd.DataFrame(sample_input1, columns=selected_feature_names1))
+    
+    
+    st.subheader('RECUMBENT BIKE PRESCRIPTION', divider='blue')
+    
     for target_var, predicted_value in zip(targets1, predicted_outputs1[0]):
-        st.write(f"{target_var}: {int(predicted_value)}")
+        unit = ""  
+        if target_var == 'cleaned_recumbentbike_res':
+            st.write(f"Resistance level of Recumbent Bike : {int(predicted_value)}")
+        elif target_var == 'cleaned_recumbentbike_duration':
+            unit = " minutes per session"  # Adjust the unit according to your specific case
+            st.write(f"Duration of Recumbent bike: {int(predicted_value)}{unit}")
+        else:
+            st.write(f"{target_var}: {int(predicted_value)}{unit}")
+
 
     ###################### STRENGTHENING EXERCISE #####################
         
@@ -413,9 +425,9 @@ def prescribe_exercise():
         'lives_with': [0 if user_data.get('lives_with') == "Alone" else 
                         (1 if user_data.get('lives_with') == "Family" else 
                         2)], 
-        'alcoholic': [0 if user_data.get('alcoholic') == 'No' else (1 if user_data.get('alcoholic') == 'Occasional drinker' else 2)],
+        'alcoholic': [0 if user_data.get('alcoholic') == 'No' else (1 if user_data.get('alcoholic') == 'Yes Im an occasional drinker' else 2)],
         'balance': [1 if  user_data.get('balance') == 'Normal' else 0], 
-        'functional_activity': [1 if user_data.get('functional_activity') == 'Independant' else 0],                 
+        'functional_activity': [1 if user_data.get('functional_activity') == 'Independent' else 0],                 
         'gait': [1 if user_data.get('gait') == 'Normal' else 0],
         'gender': [1 if user_data.get('gender') == 'Female' else 0],
         'age': [0 if user_data.get('age') == 'Younger than 40' else 
@@ -443,8 +455,26 @@ def prescribe_exercise():
     sample_input2 = user_data_strengthening.values.tolist()
     predicted_outputs2 = multi_output_model2.predict(pd.DataFrame(sample_input2, columns=selected_feature_names2))
 
+    st.subheader('STRENGTHENING EXERCISE PRESCRIPTION', divider='blue')
+
     for target_var, predicted_value in zip(targets2, predicted_outputs2[0]):
-        st.write(f"{target_var}: {int(predicted_value)}")
+        unit = ""
+        if target_var == 'cleaned_ul_weight':
+            unit = " lbs"
+            st.write(f"Strengthening exercise weight for Upper Limb: {int(predicted_value)}{unit}")
+        elif target_var == 'cleaned_ll_weight':
+            unit = " kg"
+            st.write(f"Strengthening exercise weight for Lower Limb : {int(predicted_value)}{unit}")
+        elif target_var == 'cleaned_strengthening_rep':
+            unit = " repetitions"
+            st.write(f"Number of repetitions for strengthening exercise: {int(predicted_value)}{unit}")
+        elif target_var == 'cleaned_strengthening_set':
+            unit = " sets"
+            st.write(f"Number of sets for strengthening exercise: {int(predicted_value)}{unit}")
+        else:
+            st.write(f"{target_var}: {int(predicted_value)}")
+
+    st.caption("You are required to do strengthening exercise for both upper limb and lower limb following the weight , the number of repetitions and number of sets suggested")
 
 
 
