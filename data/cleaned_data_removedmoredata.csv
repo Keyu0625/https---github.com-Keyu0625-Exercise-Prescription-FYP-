@@ -1,0 +1,1461 @@
+patient id,background_history,risk_factors_hypertension,risk_factors_diabetes_mellitus,risk_factors_familyhx,risk_factors_exercise,risk_factors_stress,risk_factors_smoking,risk_factors_diet,risk_factors_bmi,echo_ef,peak_hr,mets,risk_type,diagnosis,gender,age,marital_status,lives_with,living_environment,alcoholic,exercise_habit_frequency,exercise_habit_duration,muscle_power_ul_right,muscle_power_ul_left,muscle_power_ll_right,muscle_power_ll_left,balance_sitting_and_standing,functional_activity,walking,gait,posture,basic_adl,recumbentbike_res,recumbentbike_duration,recumbentbike_mhr,recumbentbike_rpe,strenghthening,strengthening_rep,strengthening_set,ul_weight,ll_weight,strenghthening_rpe,cleaned_hypertension,cleaned_diabetes_mellitus,cleaned_familyhx,cleaned_exercise,cleaned_stress,cleaned_smoking,cleaned_diet,cleaned_bmi,ischemia,dyslipidemia,ejection_fraction,cleaned_peak_hr,cleaned_mets,cleaned_marital,cleaned_lives_with,cleaned_living_environment,cleaned_alcoholic,cleaned_exercise_habit_frequency,cleaned_exercise_habit_duration,cleaned_balance,cleaned_fucntional_activity,cleaned_walking,cleaned_gait,cleaned_posture,cleaned_gender,cleaned_age,cleaned_risk_type,cleaned_recumbentbike_duration,cleaned_recumbentbike_res,cleaned_ul_weight,cleaned_ll_weight,cleaned_strengthening_rep,cleaned_strengthening_set
+983454,"IHD with 3VD
+Dyslipidemia
+Covid-19 Cat 2 
+DM
+HPT",yes u/l hypertension,HbA1c 6.7% ,yes father passed away due to cardiac disease at 70+ yo,"daily walking at park /house
+
+regular","yes, financial worries","20 packed years , has been stopped for 6 months",acceptable,,0.4,121 (72% APMHR) ,7.5,moderate ( EF 40%),,M,54,married,family,Stairs : 2 FOS / Steps,social alcoholic drinker,7 times/week,,3,2,5,5,good,independent,independent,normal,normal,indepenent,3,10 mins,109 bpm,11,"(15x1set)
+ - both LL 1kg (5exs) 
+ - RPE:11",15,1,,1kg (5exs),11,1,1,1,1,1,0,0,1,1,1,2,1,2,2,1,2,2,0,0,1,1,1,1,1,0,1,1,10,3,2,1,15,1
+1588010,HPT Dyslipidemia IHD Spine fracture T3- L,yes 20 years. HMBP 110/70mmHg,HbA1c 5.7%,"No family h/o IHD,cardiac problem","Brisk walking 30mins/day
+regular",,nil,strict healthy meal (home cooked),25kg/m2 (normal),0.69,133 ( 88% from age predicted MHR),9.7,low,,F,70,married,family,single storey house,nil,7 times/week,30 mins per session,5,5,5,5,good,independent,independent,normal,normal,indepenent,2,10 mins,106 bpm,13,,,,,,,1,0,0,1,0,0,0,0,1,1,0,2,2,2,1,2,0,0,3,1,1,1,1,1,1,2,0,10,2,2,1.1,15,1
+1664468,Seropositive RA  Hyperlipidemia  Closed volar plate avulsion fracture of PIPJ L little finger Osteopenia ,nil,HbA1c: 5.7%,nil,"daily walking around house 30 minutes
+regular",yes worried about her condition,nil,"claims controlled, more vege, less meat, no milk",19.92,0.59,126bpm (83% of APMHR),7.6,moderate,,F,70,married,family,Stairs : 2 FOS / Steps,,7 times/week,30 mins per session,5,5,5,5,normal,independent,independent,normal,normal,indepenent,3,10 mins,99 bpm,12,,,,,,,0,0,0,1,1,0,1,1,0,0,0,2,2,2,1,2,0,0,3,1,1,1,1,1,1,2,1,10,3,2,1.1,15,1
+1766376,Bronchial asthma  Dyslipidaemia IHD  ,"no known hypertension, BP 120-130/70-80mmHg","no known DM, FBS June 2022 5.1",no known Fhx of CVD,"walking half an hour, every other day (before Angiogram)",nil,non smoker,"home-cooked food: chicken, fish (less fried food), more soup recipe, sometimes take outside food",23.5,0.59,150bpm (100% of APMHR),10.1,,CAD,M,71,married,family,,,7 times/week,30 mins per session,5,5,5,5,good,independent,independent,normal,normal,indepenent,3,10 mins,118 bpm,13,,,,,,,0,0,0,0,0,0,0,1,1,0,0,2,2,2,1,2,0,0,3,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+1817124,HPT Gout Hyperlipidemia L1 compression fracture  BPH ,BP controlled,Non DM HbA1c 6.3%,nil,Stopped exercise 3 years ago,nil,"Ex smoker for 3 years, quit 40+ years",Not on restriction,26.9,0.62,122 ( 82% from age predicted MHR),6.2,moderate,"Acute myocardial infarction (New Case) (Provisional);
+Gouty arthritis",M,75,married,family,Stairs : 2 FOS / Steps,non alcoholic,7 times/week,10 mins per session,5,5,5,5,good,independent,independent,normal,normal,indepenent,2,10 mins,91 bpm,13,"Strengthening exs (15x1set)
+ - both UL - sandbag 1kg 4exs
+ - both LL - 1KG 4exs",15,1,1lbs 4exs,1KG 4exs,,0,0,0,0,0,0,0,2,0,0,0,2,2,2,1,2,0,0,1,1,1,1,1,1,0,2,1,10,2,1,1,15,1
+1976648,HPT T2DM CAD with history of PCI (2 stents) on 19/2/2020  ,yes on medication,hba1c 5.8%,yes father has CAD,no formal exercise,yes stressor from work; poor relationship with supervisor,"started smoking at 14 years old. 2 packs/day. Still smoking, 1-2 sticks/day. Craving badly esp at 9pm. Will get tense, irritable and unable to sleep. Has the intention to quit smoking. (70 pack years)
+
+yes",no restriction,22.2,0.47,123 (72% of APMHR),4.8,moderate,,M,52,single,family,lift landing,no,,,5,5,5,5,stable,independent,independent,normal,normal,indepenent,3,10 mins,100 bpm,12,,,,,,,1,0,1,0,1,1,0,1,0,0,1,1,1,0,1,2,0,0,0,1,1,1,1,1,0,1,1,10,3,2,1.1,15,1
+2903954,T2DM HPT Dyslipidaemia Retinal detachment BPH,yes,HBA1c - 6.9,No family H/O CVD,previously does regular brisk walking work out & stretching,nil,non smoker,Not restricted,23.9,0.68,100 bpm (64% of APMHR),10.1,moderate,"Acute ischaemic heart disease, unspecified (New Case) (Provisional):- Coder by MRU",M,67,,,,,7 times/week,30 mins per session,5,5,5,5,good,independent,independent,normal,normal,indepenent,3,10 mins,84 bpm,13,,,,,,,1,1,0,1,0,0,0,1,0,0,0,1,2,2,2,2,0,0,3,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+3397297,IHD HPT NSTEMI with cardiac asthma 3VD ,yes BP 135/70,HbA1c 5.8,No,"Walking 2-3km per day
+regular",no,Ex-smoker - stopped more tjan 20 years ago,balanced diet,23,0.59,133 bpm (88% of APMHR),8,moderate,Acute subendocardial myocardial infarction (New Case) (Provisional):- Coder by MRU,M,71,,family,Stairs : 2 FOS / Steps,,7 times/week,"2-3 km
+24 minutes",5,5,5,5,good,independent,independent,normal,good,indepenent,3,10 mins,102 bpm,13,,,,,,,1,0,0,1,0,0,0,1,1,0,0,2,2,2,1,2,0,0,2,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+3580253,HPT Dyslipidaemia Vocal cord carcinoma IHD - 2VD ,yes present,"nil
+HbA1c 5.8% August 2021",father has hx of sudden death,"weekly golf 1x/week 2 hours in the gold course
+- 1-2 hours 3-4x/week in the driving range
+regular",yes present,"quit for 34 years, before that smoked for ~10 years about 4-5 cigarettes/day",reduced carbohydrates and red meat,25.7,0.59,139bpm (91% of MHR),7,moderate,"Chronic ischaemic heart disease, unspecified (Follow Up) (Confirmed)",M,70,married,family,Stairs : 2 FOS / Steps,,2 times/week,60 - 120 minutes per session,5,5,5,5,good,independent,independent,normal,normal,indepenent,4,10 mins,115 bpm,11,"Strengthening exs (15x1set)
+ - both UL 4lbs (5exs)
+ - both LL 4lbs (4exs)",15,1,4lbs (5exs),4lbs (4exs),,1,0,0,1,1,0,0,2,1,0,0,2,2,2,1,2,0,2,6,1,1,1,1,1,0,2,1,10,4,4,1.1,15,1
+3834018,Benign incidentaloma Fatty liver Bilateral renal cyst DM HPT Dyslipidaemia HFmrEF,yes BP 127/87,HbA1c 8,"yes Father and younger brother & sister died due heart disease,",sedentary,manageable,ex smoker - stopped 40 years ago,claimed balanced,33,0.44,129 bpm (85% of APMHR),9.5,moderate,"Heart failure,unspecified (New Case) (Provisional):- Coder by MRU",M,71,married,family,Stairs : 2 FOS / Steps,,,,5,5,5,5,stable,independent,independent,normal,normal,indepenent,3,10 mins,100 bpm,13,,,,,,,1,0,1,0,0,0,0,3,0,0,1,2,2,2,1,2,0,0,0,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+3861562,Coronary artery disease BPH Hypertension  ,no,"yes, Hba1c 4/2/22",yes mother has IHD - CABG done at 50s,"plays golf, 1-2x/week, previously did brisk walking & exercises, but no more do it since MCO
+regular",nil,nil,not on restriction,24,0.59,129 (82% of MHR),13,moderate to high,,M,65,married,family,,no,2 times/week,,5,5,5,5,stable,independent,independent,normal,normal,indepenent,3,10 mins,95 bpm,13,,,,,,,0,1,1,1,0,0,0,1,0,0,0,2,2,2,1,2,0,2,0,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+4152417,Severe MR with prolapsed PMVL COVID 19 (Cat 1) Post Mitral Valve Repair and Tricuspid Annuloplasty   ,yes,HbA1c 6.5,None,"walking everyday 2km
+regular",None,Not smoking,,20,0.65,107 (68% of APMHR),8.8,low,,M,65,married,family,,,7 times/week,"2 km
+
+24 minutes",5,5,5,5,good,independent,independent,normal,normal,indepenent,3,10 mins,90 bpm,13,,,,,,,1,1,0,1,0,0,0,1,0,0,0,1,2,2,1,2,0,0,2,1,1,1,1,1,0,2,0,10,3,2,1.1,15,1
+4768744,DM HTN Right Optic neuropathy IHD ,yes,HbA1c 5.9% (18/10/2021),nil,"started doing exercise taught during CRP phase 1, once daily",nil,stopped 40 years ago,no dietary restrictions,normal,0.59,118bpm (74% of APMHR),9.1,moderate,"Acute myocardial infarction, unspecified (New Case) (Provisional):- Coder by MRU",M,64,,,,,7 times/week,,5,5,5,5,good,independent,independent,normal,good,indepenent,1,10 mins,86 bpm,13,"Strengthening exs (15x1set)
+ - both UL 2lbs (5exs)
+ - both LL 1kg (4exs)",15,1,2lbs (5exs),1kg (4exs),,1,0,0,0,0,0,0,1,1,0,0,1,2,2,2,2,0,0,0,1,1,1,1,1,0,2,1,10,1,2,1,15,1
+5148430,DM NAFLD Inferolateral STEMI with posterior and RV extension  ,nil,latest HbA1c 24//3 6.5%,"yes family h/o IHD- yes, parents & siblings",rare,Nil,Nil,Not on restriction,34.1,0.54,157 (96% of APMHR),7,moderate,,F,60,married,family,Stairs : 2 FOS / Steps,nil,rarely,,5,5,5,5,good,independent,independent,normal,normal,indepenent,3,10 mins,110,13,Knee strengthening exs (pamphlet given),,,,,,0,1,1,0,0,0,0,3,0,0,0,2,2,2,1,2,0,0,0,1,1,1,1,1,1,2,1,10,3,2,1.1,15,1
+5180996,Ingiunal hernia IHD - Two vessels disease (LAD + LCX)   ,,,"yes Father died with MI at 69
+- Younger brother died of MI at 54","Brisk walking - 45 minutes ; Almost daily
+regular",No stressor at the moment,Non smoker,"Not hard on meat ( 2-3 times / week)
+- Recently started intermittent fasting (7pm - 9am)",22.9,0.45,137 bpm (88% of Age predicted MHR),10.2,low,"IHD - Two vessels disease (LAD + LCX)
+",M,68,married,family,,social alcoholic drinker,7 times/week,45mins per session,5,5,5,5,stable,independent,independent,normal,normal,indepenent,4,10 mins,111,12,Resisted exercise 10 exercises 2lb and 1kg 1 set,,1,2lbs,1kg,,0,0,1,1,1,0,0,1,1,0,1,2,2,2,1,2,2,0,4,1,1,1,1,1,0,2,0,10,4,2,1,15,1
+5389674,"HPT
+ Asthma  NSTEMI  Dyslipidemia Gout
+CKD Stage 3 - ",yes,Pre-DM HbA1c 6.2,yes FHx: Father,"Static bike 1 hour 4x per week
+regular",None,None,Home cooked. Less salt/sugar/oily.,,0.59,181 bpm (123% of APMHR),7,moderate,,M,76,married,family,Stairs : 2 FOS / Steps,,4 times/week,60 mins per session,5,5,4,5,good,independent,independent,limping,normal,indepenent,,,,,"Strengthening exs (15x2set)
+ - SLR Straight leg raise with 1.5kg",15,2,,1.5kg,,1,0,1,1,0,0,0,1,0,1,0,2,2,2,1,2,0,4,6,1,1,1,0,1,0,2,1,10,3,2,1.5,15,2
+5774454,Diabetes on insulin Dyslipidemia Left ureteric stone   ,,HbA1C 8%,no,Active lifestyle,No stress,Stopped smoking >10 yrs ago,,clinically not obese,0.65,129 (79% APMHR),7,low,"CAD, multiple vessel (New Case) (Confirmed):- angiogram;",M,60,,family,,,,,5,5,5,5,good,independent,independent,normal,,,3,10 mins,106 bpm,13,,,,,,,0,0,0,0,1,0,0,1,0,1,0,1,2,2,1,2,0,0,0,1,1,1,1,1,0,2,0,10,3,2,1.1,15,1
+6309410,"HTN
+right LL fracture (?tibia/fibula aVR STEMI NYHA 1",yes,No HbA1c 5.8,yes Mother has disease. and brother died due to heart disease.,No exercise,yes related to work - due to many night shifts and reversed sleep wake cycle. no heavy lifting only a lot of walking 6-7 hours a day,stopped 6 years ago. Used to smoke 1 pack/day,Imbalance diet,38,0.67,139 (78% APMHR),5.5,moderate,"post Acute myocardial infarction, unspecified (New Case) (Confirmed)",M,48,divorced,friends,Stairs : 1 FOS / Steps,Occasional alcohol,,,5,5,5,5,good,independent,independent,limping,normal,indepenent,3,10 mins,111 bpm,13,,,,,,,1,0,1,0,1,0,0,3,0,0,0,1,1,1,2,2,1,0,0,1,1,1,0,1,0,1,1,10,3,2,1.1,15,1
+6354580,NKMI COVID-19 CAT 3   ,,,,,,,,,0.53,133 ( 71% from age predicted MHR),4.6,low,,F,37,married,family,Stairs : FOS / Steps,no,,,5,5,5,5,stable,independent,independent,normal,normal,indepenent,3,10 mins,103 bpm,13,,,,,,,0,0,0,0,0,0,0,1,0,0,0,1,1,2,1,2,0,0,0,1,1,1,1,1,1,0,0,10,3,2,1.1,15,1
+6553931,"HTN moderate-severe OSA- AHI  Chronic rhinitis Dyslipidemia BPH under urology
+Torn left ACLB/L knees OA","within range with medications, compliants",Hba1c 5.5 (jan 21),none,"Slow walking 2-3times/week (since lockdown)
+regular",,nil,no restrict,32.7,0.59,142 (90% APMHR),5.4,moderate,,M,68,married,family,,nil,2-3times/week,,5,5,4,4,"Moderate in risk of fall.
+ BBS (34/56)",independent,Aided : Walking stick,limping,Slight khyotic,indepenent,3,10 mins,110 bpm,11,,,,,,,0,0,0,1,0,0,0,3,0,1,0,2,1,2,1,2,0,2,0,0,1,0,0,0,0,2,1,10,3,2,1.1,15,1
+6670580,"DM On insulin and OHA Dyslipidemia CAD, post PCI to LAD (1/7/2022)  Antero-lateral STEMI Killip 1",no known HPT previously,) Hba1c: 16 (27/6/22),"yes Brother has IHD, now 76 years old",Occasionally does walking at own pace - 1/2 hourly,"yes Working as a real estate agent, needs to drive occasionally to meet clients, working hours are not fixed",Ex smoker - 1/2 box per day,"High calorie, high carbohydrate intake",Height not available,0.59,93 (63% of APMHR),5,moderate,,M,75,married,family,Stairs : 2 FOS / Steps,,occacionally,30 mins per session,5,5,5,5,stable,independent,independent,normal,normal,indepenent,3,10 mins,75 bpm,13,,,,,,,0,0,1,0,1,0,0,1,0,1,0,1,1,2,1,2,0,0,3,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+7882394,DM HPT Dyslipidaemia  ,"claims compliant
+- BP at home systolic 130 - 140, diastolic 80 - 90",Hba1c: 9.5% (May 2022),yes father IHD ,nil,claims nil,non smoker,uncontrolled,26.2,0.65,171(104% APMHR),10.1,low,Atherosclerotic heart disease (New Case) (Provisional):- Coder by MRU,M,57,married,family,lift landing,,,,5,5,5,5,good,independent,independent,normal,normal,indepenent,3,10 mins,128 bpm,12,,,,,,,0,1,1,0,0,0,0,2,0,0,0,2,2,2,1,2,0,0,0,1,1,1,1,1,0,1,0,10,3,2,1.1,15,1
+8191123,"Dyslipidemia
+DM
+3VD Stroke HPT
+ESRF",claims compliant to meds,Hba1c: March 2021: 5.8%,"yes Family hx
+- has strong family hx","used to go for morning walks 30 mins per day prior to CABG
+- post CABG no ex",nil,nil,controlled,26.3,0.56,126 (84% of APMHR),4.6,moderate,,M,71,,,,,no,,5,5,5,5,good,independent,independent,normal,normal,indepenent,1,10 mins,115 bpm,11,,,,,,,0,0,1,0,0,0,1,2,0,1,0,2,1,2,2,2,0,0,0,1,1,1,1,1,0,2,1,10,1,2,1.1,15,1
+8965072,OSA with ? BA HPT DM Triple VD ,BP 138/67,HbA1c 7.2%,"yes Family Hx - parent,","stretching only, does not do any walking ex",none,Non smoker ,quite balance,32,0.69,108 (67% of APMHR),10.1,moderate,,M,61,,,,nil,,,5,5,5,5,good,independent,independent,normal,,indepenent,3,10 mins,75 bpm,13,,,,,,,0,1,1,0,0,0,0,3,0,0,0,1,2,2,2,2,0,0,0,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+9063048,"HTN
+ History of CVA with right hemiparesis  History of treated as ACS Nasal polyps  Cervical spondylosis at with mild spinal canal stenosis at C5/C6 and C6/C7
+
+HPL 
+NASH with liver cirrhosis 
+Bronchial asthma
+IFG
+BPH",BP 140/77,HbA1c 6.9,Nil,"walking 4km 6x per week
+regular",Nil,stopped 40 years ago,"Mostly home cooked, controlled",27,0.63,142 bpm (95% of APMHR),4.6,moderate,Mild CAD,M,72,,,,,6 times/week,"4km
+
+48 minutes",5,5,5,5,good,independent,independent,normal,good,indepenent,3,10 mins,87 bpm,13,"Strengthening exs (15x1set)
+ - both LL - 1kg (SLR)
+ - RPE:13",15,1,,1kg (SLR),13,0,1,0,1,0,0,1,2,0,0,0,2,1,2,2,2,0,6,4,1,1,1,1,1,0,2,1,10,3,2,1,15,1
+9242120,"IHD
+ Hyperlipidemia HPT
+ COVID CAT 1  Severe OSA under ENT",,HbA1c 6,yes Strong family Hx of heart disease,"walking 8km twice a week
+regular",manageable,non smoker,uncontrolled/ not balanced,27,0.64,121(75% of APMHR),13.4,low,HX of CABG (Confirmed);,M,61,married,family,Stairs : 2 FOS / Steps,no,2 times/week,"8 km
+
+96 minutes",5,5,5,5,good,independent,independent,normal,normal,indepenent,4,10 mins,96 bpm,12,,,,,,,0,0,1,1,0,0,0,2,1,0,0,1,2,2,1,2,0,2,6,1,1,1,1,1,0,2,0,10,4,2,1.1,15,1
+9383336,2 VD HPT  DM Smear positive PTB  Inferior MI ,,,,,,1 packet/day for 20 years ,,,0.59,104 (66%),7,low,CAD,M,66,,,,,,,5,5,5,5,good,independent,independent,normal,good,indepenent,3,10 mins,91 bpm,13,"Strengthening (15x1set)
+ - both UL 3lbs (5exs)
+ - both LL 1.5kg (4exs)",15,1,3lbs (5exs),1.5kg (4exs),,0,0,0,0,0,0,0,1,0,0,0,1,2,2,2,2,0,0,0,1,1,1,1,1,0,2,0,10,3,3,1.5,15,1
+12763320,"HPT T2DM  NASH  Gout HPT
+CHD - CABG 
+CKD 2
+dyslipidemia",BP 139/92,HbA1c 7.3%,yes Family history - 2 elders brothers,"walking 15mins 5x per week
+regular","yes mostly related to job as policeman, also has anxiety episode affecting sleep",non smoker,"taking less sugar now, less oily/fatty food",31,0.48,97 bpm (58% of APMHR),4.6,moderate,"Chronic ischaemic heart disease, unspecified (New Case) (Provisional):- Coder by MRU",M,56,married,family,lift landing,,5 times/week,25 minutes per session,5,5,5,5,,independent,independent,normal,normal,indepenent,1,10 mins,74 bpm,13,,,,,,,0,1,1,1,1,0,0,3,0,1,1,0,1,2,1,2,0,5,2,1,1,1,1,1,0,1,1,10,1,2,1.1,15,1
+13774449,"Left breast carcinoma with local recurrence 
+ Osteoporosis Covid 19 CAT 2 Valvular heart disease","nil, claims BP low at home, only high during clinic/hosp visit",Hba1c: 5.3%,"yes Father had IHD, passed away at the age of 44 years old due to heart disease
+- Mother had lung fibrosis and Dm
+- Siblings: HPT",nil,yes financial,nil,home cooked food,24.33,0.74,115 bpm ( 75% APMHR),4.8,moderate,,F,69,married,family,,,no,,5,5,5,5,good,independent,independent,normal,normal,indepenent,3,10 mins,107 bpm,9,"Strengthening exs (15x1set)
+ - both UL 2lbs (5exs)
+ - both LL 1kg (4exs)
+ - RPE:13",15,1,2lbs (5exs),1kg (4exs),13,0,0,1,0,1,0,0,1,0,0,0,1,1,2,1,2,0,0,0,1,1,1,1,1,1,2,1,10,3,2,1,15,1
+14114671,NKDA/NKFA Essential thrombocythaemia  Slipped disc urinary calculus Non-obstructive CAD,"No HPT 115-125/75-80, PR 56-60","Not Diabetic HbA1c no result, fasting glucose 5.3",yes father and brother heart disease,"brisk walking 3-4x/week each 45min
+regular",nil,Non smoker,controlled,25.65,0.59,142 bpm (87% of Max age predicted HR),9,low,,M,60,,,,,,,5,5,5,5,good,independent,independent,normal,,indepenent,3,10 mins,114 bpm,12,"Strengthening exs (15x1set)
+ - both UL 3lbs (5exs)
+ - both LL 1.5kg (4exs)
+ - RPE:11",15,1,3lbs (5exs),1.5kg (4exs),11,0,0,1,1,0,0,1,2,0,0,0,2,2,2,2,2,0,0,0,1,1,1,1,1,0,2,0,10,3,3,1.5,15,1
+14538668,"non- Hogkin's lymphoma  HPT ED CAD Dyslipidemia
+Gout",no BP monitoring at home,Non DM (Hba1c 5.2% at CAD diagnosis),yes Strong family hx (father died 30 yrs ago from MI),No regular exs - walking around the neighborhood area,at home; marital issues --> resolved recently,Non smoker,,30,0.59,137 beats/min(82% of APMHR),13.4,moderate,,M,55,,,,,no,,5,5,5,5,good,independent,independent,normal,,,4,10 mins,113 bpm,13,"Strengthening exs (15x2sets)- NOT DONE
+ - both UL 3lbs (5exs)
+ - both LL 1.5kg (4exs)",15,2,3lbs (5exs),1.5kg (4exs),,0,0,1,0,0,0,0,3,0,1,0,2,2,2,2,2,0,0,0,1,1,1,1,1,0,1,1,10,4,3,1.5,15,2
+14641124,"HTN
+ AVM Anteroseptal MI (6/1/22)
+- Killips I ",120-130/70-80,latest HbA1c 5.5(Jan 22),yes IHD- father and brother has IHD,"daily jog 30 min morning (2km) and 30 min evening (2km), palys golf regularly
+
+regular",nil,"ex-smoker (stopped 20 years ago)- used to be a chain smoker, used nicotine patch","takes care of his diet, reduce sugar, no 3 in 1",247.1,0.59,137bpm (81% of APMHR),12.1,moderate,MI,M,53,married,family,Stairs : 2 FOS / Steps,,7 times/week,30 minutes per session,5,5,5,5,good,independent,independent,normal,normal,indepenent,3,10 mins,95 bpm,9,,,,,,,0,0,1,1,0,0,0,3,0,0,0,2,2,2,1,2,0,0,3,1,1,1,1,1,0,1,1,10,3,2,1.1,15,1
+14687264,"HTN Dyslipidemia
+ bilateral hernia repair Triple vessel disease with cardiogenic shock CABG 
+",124/60,No HbA1c 6,no,low intensity exercise i.e. stretching. Previously do gardening,"Previously, mostly related to job. Current stress much reduced after retired",No,Home cooked/ outside food. Imbalance diet,20,0.58,115 bpm (82% of APMHR),7,moderate,Post CABG,M,81,,,,,,,5,5,5,5,good,independent,independent,normal,normal,indepenent,3,10 mins,86bpm,13,,,,,,,0,0,0,0,1,0,0,1,0,1,0,2,2,2,2,2,0,0,0,1,1,1,1,1,0,3,1,10,3,2,1.1,15,1
+14856171,"IHD 
+ HPT
+ T2DM  CABG",controlled,Hba1c 6.6%,yes father passed away from MI,"previously active with badminton and futsal, stopped playing 2 years after the IHD","minimal, tolerable. in court case due to divorce with wife, wants to get children custody, but not really stress out",non smoker,"homecooked , low salt, low sugar",not overweight,0.59,177 (85% APMHR),10.1,low,"CAD, multiple vessel (New Case) (Provisional);
+Acute non ST elevation MI (New Case) (Confirmed);",M,46,divorced,,stairs : FOS / Steps,no,,,5,5,5,5,good,independent,independent,normal,good,indepenent,4,10 mins,43bpm,11,,,,,,,0,1,1,0,1,0,0,1,1,0,0,2,2,1,2,2,0,0,0,1,1,1,1,1,0,1,0,10,4,2,1.1,15,1
+14950445,"IHD
+ HPT
+ CABG 
+anterior MI Feb 2015 NSTEMI",yes,no (HbA1c 18/1/22 : 6),,,,stopped in 2015,normal diet,24,0.43,144 (79% of APMHR),7.4,moderate,,M,41,married,family,,,,,5,5,4,4,stable,independent,independent,normal,normal,indepenent,3,10 mins,100-120bpm,11,,,,,,,1,0,0,0,0,0,0,1,1,0,1,1,2,2,1,2,0,0,0,1,1,1,1,1,0,1,1,10,3,2,1.1,15,1
+17414652,"Pre-diabetes
+ 2VD Acute inferior STEMI Killip 1",present,"Pre-diabetes
+HbA1c 6.2% (28/6)",nil,once a week badminton for 2 hours,yes present due to work,"chronic smoker since 1998, changed to vape in 2016
+yes",not restricted,26.97,0.59,160 (89% of MHR),12.1,low,Follow-up examination after combined treatment for other conditions (New Case) (Provisional);,M,43,married,family,lift landing,,1 times/week,120 minutes,5,5,5,5,good,independent,independent,normal,normal,indepenent,4,10 mins,122 bpm,13,"Strengthening exs (15xset)
+ - Both UL 4lbs 5exs
+ - both LL 1.5kg 4exs
+ - RPE:11",15,1,4lbs 5exs,1.5kg 4exs,11,0,0,0,0,1,1,0,2,0,0,0,2,2,2,1,2,0,1,6,1,1,1,1,1,0,1,0,10,4,4,1.5,15,1
+18108229,"intermittent chest discomfort Long standing dyspepsia 
+ Single vessel disease
+ Esophagitis and iron deficiency anemia",no,no - Hba1c 4.4,yes IHD-parents & siblings,"jogging regularly until now, last time can jog up to 3KM without any problems, but now has tiredness
+regular",nil,no,"Regular indian diet, not on restriction",22,0.69,123 bpm (77% of APMHR),4.6,moderate,CAD (Coronary artery disease) (Provisional),M,63,married,family,Stairs : FOS / Steps,no,7 times/week,20-30 minutes per session,5,5,5,5,stable,independent,independent,normal,normal,indepenent,3,10 mins,93 bpm,13,,,,,,,0,0,1,1,0,0,0,1,0,0,0,1,1,2,1,2,0,0,3,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+18259570,"Acute Anteroseptal MI Killip 1 Central chest pain 
+ HPT
+ ","yes	
+	
+	
+	
+	",HbA1c: 8.0,Nil,nil,yes - mostly related to work,"Used to smoke 20 pack years, consumed alcohol 1 can/ day. Stopped smoking for 1 months after MI. However patient re-smoking again. 1 pack for 4-5days now
+
+yes",Mostly home cook.ed Try to take healthier food,33,0.5,115 (63% of APMHR),8.6,low,Acute Anteroseptal MI Killip 1,M,42,married,family,lift landing,consumed alcohol 1 can/ day,no,,5,5,5,5,good,independent,independent,normal,normal,indepenent,,,,,,,,,,,1,1,0,0,1,1,0,3,0,0,0,1,2,2,1,2,0,0,0,1,1,1,1,1,0,1,0,10,3,2,1.1,15,1
+18355102,dyslipidaemia  CAD  central chest pain ,nil,Non DM Hba1c 5.%,yes IHD - mother,No regular exs - walking around the neighborhood area,nil,"Stopped smoking 2 years ago, was smoking for >20 years",,,0.59,137 (79% of APMHR),8.7,moderate,,M,49,married,family,,,No regular exs,,5,5,5,5,good,independent,independent,normal,nil,indepenent,3,10 mins,100 bpm,13,,,,,,,0,0,1,0,0,0,0,1,0,0,0,1,2,2,1,2,0,0,0,1,1,1,1,0,0,1,1,10,3,2,1.1,15,1
+18436560,"HPT BPH
+ Dyslipidemia IHD 3 VSD",yes,DM nil HbA1c 5.7%,yes elder brother passed away for heart problem,"2x/week normal walk on threadmill for 10 minutes
+regular",nil,never,"home cooked meal, not controlled",3225,0.4,142 (96%),7,moderate,,M,73,,,,,2 times/week,10 minutes per session,5,5,5,5,good,independent,independent,normal,normal,,3,10 mins,110 bpm,11,,,,,,,1,0,1,1,0,0,0,3,1,1,2,2,2,2,2,2,0,2,1,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+18727972,"HPT depression 
+ Ant vaginal prolapse","10 years ., on T amlodipin 5mg OD -under RUKA follow up.",No DM : HbA1c march 2021: 6.1,"yes Mother has DM, elder brother has IHD.",": Brisk walk and Yoga 1-2x per week.
+
+regular","yes Depression, under PSY PPUM, on T sertraline 25mg ON",Non smoker,,23,0.78,131 bpm (88% of APMHR),3.4,moderate,,F,76,married,family,lift landing,rarely,1-2x per week.,,5,5,5,5,good,independent,independent,normal,good,indepenent,1,10 mins,98 bpm,13,,,,,,,0,0,1,1,1,0,0,1,0,0,0,2,1,2,1,2,0,1,0,1,1,1,1,1,1,2,1,10,1,2,1.1,15,1
+20959214,Dyslipidemia  CAD ,No Hypertension : HBPM within range (69bpm); BP 112/74,"pre-DM, Hbaic 6.2","Mother high blood pressure ;diabetes, Father high cholestrol","2km of walking (2-3 x in a week)
+regular",yes Work (Quantity Surveryor) ; fulffiling deadline,Non smoker,,,0.53,139bpm(85% of MHR),10.1,low,,M,60,,,,,3 times/week,,5,5,5,5,good,independent,independent,normal,normal,indepenent,3,10 mins,115 bpm,13,,,,,,,0,0,0,1,1,0,0,1,0,1,0,2,2,2,2,2,0,3,0,1,1,1,1,1,0,2,0,10,3,2,1.1,15,1
+22072683,"DM
+ IHD with 3VD  HPT",116-136/63-84 mmHg,HbA1c 7.7% (Jan 2022),"yes IHD- nil, mother has DM,HPT and stroke, father had CA","daily 30-45 min walk around housing area (at least 5000 steps), remains asymptomatic, denies MSK pain
+regular",nil,non smoker,home cooked meals with occasional take outs,27.3,0.69,136 (85% of APMHR),4.6,moderate,,M,63,,,,no,7 times/week,30 minutes per session,5,5,5,5,good,independent,independent,normal,normal,indepenent,3,10 mins,108 bpm,11,,,,,,,0,1,1,1,0,0,0,2,1,0,0,2,1,2,2,2,0,0,3,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+22955747,"IHD  Childhood BA
+ Hypercholesterolemia OSA CAD post-CABG 24/6/22
+GERD",Not known hypertension,No HbA1c in EMR as patient has regular follow up in UMSC,"yes Father has IHD
+- Brothers have IHD","almost daily walking at own pace outdoors for 1/2 to 1 hour, ""Qigong"" at night
+regular","Consultant/ advisor for private company
+- freelancing
+- stress free",Stopped smoking 15 years ago,Still high carbohydrate diet,35,0.64,132bpm (86% of Age predicted MHR),7,low,CAD post CABG 24/6/2022,M,67,married,family,lift landing,Social drinker consumer- Beer,7 times/week,30 to 60 mins per session,5,5,5,5,stable,independent,independent,normal,normal,indepenent,3,10 mins,110 bpm,13,,,,,,,0,0,1,1,1,0,0,3,1,0,0,2,2,2,1,2,2,0,6,1,1,1,1,1,0,2,0,10,3,2,1.1,15,1
+23291001,"T2DM 
+ HTN
+ Dyslipidemia
+ perianal abscess",125-130/70-90mmHg,latest HbA1c 7.9 (Dec 21),nil,sedentary,yes financial burden,ex-smoker (stopped 18 years ago),eat outside food most of the time,30.1,0.67,141 ( 81% from age predicted MHR),4.6,low,1VD - successful PCI to LAD with DES,M,48,,,,non alcohol consumer,,,5,5,5,5,good,independent,independent,normal,Slight khypotic,indepenent,3,10 mins,116 bpm,13,,,,,,,0,1,0,0,1,0,0,3,0,1,0,2,1,2,2,2,0,0,0,1,1,1,1,0,0,1,0,10,3,2,1.1,15,1
+23442069,"DM
+ Extensive antero-septal STEMI complicated with ventricular arrhythmias (VT/VF) Dyslipidemia Childhood bronchial ashtma",nil,HbA1c: 7.6%,nil,doing walking about 10 mins per day in the morning prior to starting work,nil,"ex-smoker
+- started smoking since 1998, 10 sticks per day, stopped in 2020
+- denies withdrawal",uncontrolled diet,31.4 --> 27.2,0.42,117 bpm (65% of APMHR),6.6,Moderate,,M,43,,,,,,,5,5,5,5,good,independent,independent,normal,normal,indepenent,3,10 mins,96 bpm,10,,,,,,,0,1,0,0,0,0,0,2,0,1,1,1,2,2,2,2,0,0,0,1,1,1,1,1,0,1,1,10,3,2,1.1,15,1
+24058335,CAD,nil,FBS: 5.8,nil,"4-5 times a week-full body workout
+(1 hour)
+regular",Not much,"has 10 years hx of smoking, 4 sticks per day
+Quit 5 years ago",No dietary restrictions,24.4,0.59,"210 (artefacts from machine,) --> calculated Max HR from ECG 150 (83% of MHR)",10.1,low,,M,41,,,,Social drinker,4-5 times/week,60 mins minutes per session,5,5,5,5,good,independent,independent,normal,nil,indepenent,3,10 mins,123 bpm,7,"Strengthening exs (15x1set)
+ - both UL 3 lbs (5exs)
+ - both LL 1.5 kg (4exs)",15,1,3 lbs (5exs),1.5 kg (4exs),,0,0,0,1,0,0,0,1,0,0,0,2,2,2,2,2,2,4,6,1,1,1,1,0,0,1,0,10,3,3,1.5,15,1
+25756583,"HPT
+ Tripple vessel disease post CABG  RE CRAO  BE POAG with pseudophakia",diagnosed 30 years ago,Hba1c: pre diabetic 5.8%,yes both parents had IHD at the age of 80,"walking daily, 30min to 60 mins
+regular",nil,never,"home cooked food
+- seen by cardiac dietitian in clinic on 24/5/2022",22.2,0.67,108 (73% of APMHR) --on bisoprolol 2.5mg OD,7.3,low,,M,75,married,family,Stairs : 2 FOS / Steps,no,7 times/week,30 to 60 minutes per session,5,5,5,5,good,independent,independent,normal,normal,indepenent,,,,,,,,,,,0,0,1,1,0,0,0,1,0,0,0,1,2,2,1,2,0,0,6,1,1,1,1,1,0,2,0,10,3,2,1.1,15,1
+26825236,Seronegative RA Post menopause  Mild CAD NSTEMI  ,Controlled,"nil , HbA1c 4%",,does regular brisk walking,Manageable,Nil,Not on restriction,17.8,0.63,157 (103%),7,moderate,,F,67,married,family,,nil,4-5 times/week,30 minutes per session,5,5,5,5,stable,independent,independent,normal,normal,indepenent,3,10 mins,115 bpm,12,,,,,,,0,0,0,1,0,0,0,0,0,0,0,2,2,2,1,2,0,4,3,1,1,1,1,1,1,2,1,10,3,2,1.1,15,1
+27586626,"DM
+ Dyslipidemia
+ Gastritis
+ IHD - TVD",BP ward <140/90 (usually check at home 110/70),"HBA1c 7%, claims reflo pre meal < 10, post meal: ~ 10","yes father IHD, younger brother has IHD.",no proper routine,manageable,"Ex smoker - Stopped 30 years ago, started since 20 years old",controlled but not very well controlled,24,0.59,122 (78% of MHR),7,moderate,"CAD, multiple vessel (Follow Up) (Confirmed):- angiogram",M,66,married,family,,,,,5,5,5,5,stable,independent,independent,normal,normal,indepenent,,10 mins,99 bpm,12,,,,,,,0,0,1,0,0,0,1,1,1,1,0,1,2,2,1,2,0,0,0,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+29207363,"HPT
+ DM
+ NSTEMI Dyslipidemia",BP 130-160/80-90mmHg,"HbA1c 6.7% (June 2022), newly diagnosed DM in June 2022",yes father had IHD at age 60 year-old,"prior to pandemic, does cycling activities for 50lm",sometimes stressful at work but manageable,"stopped smoking since June 2022, previously smoked 1-2 cigarettes per week, since age 40","home-cooked food and outside food, usually eats curry gravy with meat",30.5,0.59,131 (80% of APMHR),10.4,low,,M,60,married,family,lift landing,,,50 m per session,5,5,5,5,good,independent,independent,normal,normal,indepenent,3,10 mins,112 bpm,13,,,,,,,0,1,1,0,1,0,0,3,0,1,0,1,2,2,1,2,0,0,5,1,1,1,1,1,0,2,0,10,3,2,1.1,15,1
+31363581,Coronary artery disesae post CABG  NSTEMI    ,100-130/60-80mmHg,not known to have DM HbA1c (July 2022): 5.4,yes late father and brother with heart disease,nil,nil,nil,"home-cooked food, usually takes gravy and fried food, less vegetables",,0.69,113bpm ( 66% of APMHR),7.3,low,,M,51,married,family,lift landing,,7 times/week,10 minutes per session,5,5,5,5,good,independent,independent,normal,normal,indepenent,3,10 mins,91 bpm,12,,,,,,,0,0,1,0,0,0,0,1,0,0,0,1,2,2,1,2,0,0,1,1,1,1,1,1,0,1,0,10,3,2,1.1,15,1
+32188474,"T2DM
+ SCC gluteal cleft : pT2N0M0 MVA HPT
+ Valvular heart disease and single vessel disease
+
+Dyslipidemia","BP now systolic 106 - 123, diastolic 61 - 65 mmHg","no HbA1c available in EMR
+- reflo ranging from 5.1 - 7.6","denies family hx of IHD/stroke
+"," unable to run or jump since post MVA in 2007 --> feels imbalance
+- now post CABG: going for walks 30min/day daily
+",yes work related,claims stopped smoked for past 20 years,claims stopped smoked for past 20 years,24.7,0.47,137 (84% of MHR),7,Moderate,Atherosclerotic heart disease (New Case) (Provisional):- Coder by MRU;,M,60,married,family,"Stairs : FOS / Steps,",,7 times/week,30 min/day,5,5,5,5,stable,independent,independent,normal,normal,indepenent,3,10 mins,110 bpm,13,,,,,,,0,1,0,0,1,0,0,1,0,1,1,2,2,2,1,2,0,0,3,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+32562490,"DM
+ HPT
+ Erectile dysfunction NSTEMI","120/80, compliance to meds","HbA1C : 8.5% (21/9/21), on insulin, at home reflo 7-10","yes brother k/c/o heart attack
+","cycling, swimming, treadmill jogging 90 - 120min per week, but after cardiac event, 30-60min per week
+regular",able to cope,Non smoker,controlled,24.5,0.59,137 (87% APMHR),12.3,Moderate,,M,65,,,,,"30-60 min per week
+
+1",30-60min per week,5,5,5,5,good,independent,independent,normal,normal,indepenent,3,10 mins,104 bpm,13,,,,,,,0,1,1,1,0,0,1,1,0,0,0,2,2,2,2,2,0,1,6,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+32728593,MIS MV repair ,no,no,,,,Ex smoker >70 pack years (quit in 2016),,,0.5,142 bpm (95% of APMHR),4.6,moderate,Post redo MVR,M,73,married,family,,no,,"3miles
+
+48 minutes",5,5,5,5,stable,independent,independent,normal,thoracic kyphosis postural while walking,indepenent,1,10 mins,105 bpm,13,,,,,,,0,0,0,0,0,0,0,1,0,0,0,2,1,2,1,2,0,0,4,1,1,1,1,0,0,2,1,10,1,2,1.1,15,1
+32838436,"HPT
+ NSTEMI ",on medication - HBPM in April 2022: 98-123/76- 85,no DM: hba1c 5.8,no family history of cardiac disease,"daily exercise (walking)
+regular",nil,nil,"low calorie, low carbohydrate diet",25,0.73,137 (86% of MHR),10,low,,M,63,married,family,lift landing,no,7 times/week,,5,5,5,5,good,independent,independent,normal,normal,indepenent,3,10 mins,105 bpm,13,"Strengthening exs (15x2sets)
+ - both LL 1.5kg (4exs)
+ - RPE:13",15,2,,1.5kg (4exs),13,0,0,0,1,0,0,0,2,0,0,0,2,2,2,1,2,0,0,0,1,1,1,1,1,0,2,0,10,3,2,1.5,15,2
+32993832,"HTN
+ DM
+ CKD 3B  IHD",120-140/80-90mmg Hg,latest HbA1c 8.2 (Feb 22),yes IHD- mother has IHD,"no routine exercise, only does his gardening",nil,"ex-smoker, stopped smoking since 8 years ago","does not take sweet drinks, usually food bought from outside",24.6,0.63,126 bpm (81% of APMHR),10.1,moderate,HX of CABG (Follow Up) (Confirmed),M,68,married,family,Stairs : 2 FOS / Steps,denies drinking,,,5,5,5,5,good,independent,independent,normal,normal,indepenent,,,,,,,,,,,0,1,1,0,0,0,0,1,1,0,0,2,2,2,1,2,0,0,0,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+33325545,"DM
+ Dyslipideamia HTN
+ IHD Stage 2 CKD",newly dx few months ago,Latest Hba1c 6.8% (Dec 21),nil,active in sports previously,nil,stopped smoking & vaping,on restriction,30,0.66,126 bpm (71% of APMHR),10.1,low,Acute subendocardial myocardial infarction (New Case) (Provisional):- Coder by MRU,M,44,,,,,,,5,5,5,5,good,independent,independent,normal,,indepenent,3,10 mins,107 bpm,13,,,,,,,0,1,0,0,0,0,0,3,1,0,0,1,2,2,2,2,0,0,0,1,1,1,1,1,0,1,0,10,3,2,1.1,15,1
+33503579,"HPT
+ Dyslipidemia
+  3VD
+ CABG",,Hba1c : 5.4,yes father has IHD,jogging once a week,,"quit smoking since March 2021, used to smoke 1 pack per day since 17 years old",,24,0.66,151bpm (81% of APMHR),11.8,moderate,Post CABG,M,37,,,,,1-2 times/week,40 minutes per session,5,5,5,5,good,independent,independent,normal,normal,indepenent,3,10 mins,108 bpm,13,,,,,,,0,0,1,0,0,0,0,1,0,1,0,2,2,2,2,2,0,1,4,1,1,1,1,1,0,0,1,10,3,2,1.1,15,1
+34667531,"HPT
+ Dyslipidemia
+ Gout
+  3VD + LMS, post CABG",140-153/ 80-90mmHg,HbA1c: 5.8% (pre diabetic range),"yes father had haemorrhagic stroke, mother had heart attack and passed away at the age of 70's",daily walking around 20 mins,nil,"chronic smoker 40 years, 20-40 cigarettes per day
+- stopped for the past 1 month since July 2022 (post CABG)",claims controlled post CABG,24.55 --> 22.3,0.72,127bpm (76% of APMHR),6.6,"moderate	
+	
+	
+	",,M,57,married,,,,7 times/week,20 min per session,5,5,5,5,good,independent,independent,normal,normal,indepenent,3,10 mins,94 bpm,13,,,,,,,0,0,1,0,0,0,1,1,0,1,0,1,2,2,2,2,0,0,2,1,1,1,1,1,0,1,1,10,3,2,1.1,15,1
+35776816,postpartum cardiomyopathy Decompensated CCF secondary to non-compliance to ROF  Congestive hepatitis   ,,,,,,,,,0.54,150 (80% of MHR),13.4,low,"peri partum cardiomyopathy in faliure (New Case) (Confirmed);
+",F,34,,,,,,,5,5,5,5,good,independent,independent,normal,normal,indepenent,3,10 mins,120 bpm,13,"Strengthening (15x1set)
+ - both UL dumbell 2lbs (5exs)
+ - both LL sandbag 1kg (4exs)",15,1,dumbell 2lbs (5exs),sandbag 1kg (4exs),,0,0,0,0,0,0,0,1,0,0,0,1,2,2,2,2,0,0,0,1,1,1,1,1,1,0,0,10,3,2,1,15,1
+35928924,"IHD Coronary artery disease 2 vessel disease Dyslipidaemia HPT
+ Obesity",120-130/80-90mmHg,no hbA1c in EMR,yes IHD- mother has IHD,"not doing any exercise, busy with work","yes has 2 wives, 2nd wife always gives him pressure (financial, emotional)",ex-smoker (stopped 7 months ago),eat outside food most of the time,32.7,0.59,105bpm (62% of APMHR),7.6,moderate,"CAD post PCI 2012, 2015, 2021",M,54,married,family,lift landing,no,no,,5,5,5,5,good,independent,independent,Limping,normal,indepenent,3,10 mins,90 bpm,6,,,,,,,0,0,1,0,1,0,0,3,1,0,0,1,2,2,1,2,0,0,0,1,1,1,0,1,0,1,1,10,3,2,1.1,15,1
+36026346,"DM
+ HPT NSTEMI  Acute heart failure",,HbA1c 6.6,yes Father has heart disease,"treadmill 1-2x per week for 40min, normal daily housechore activities
+regular",no,non smker ,balance,29,0.59,150 (86% of MHR),10.1,low,Chronic ischemic heart disease (Follow Up) (Provisional);,F,47,married,family,Stairs : 2 FOS / Steps,,1-2 times/week,40 mins minutes per session,5,5,5,5,stable,independent,independent,normal,normal,indepenent,3,10 mins,,13,,,,,,,0,1,1,1,0,0,0,2,0,0,0,2,2,2,1,2,0,1,4,1,1,1,1,1,1,1,0,10,3,2,1.1,15,1
+36123304,Post CABG (8/6/2021)  Triple Vessel Disease with CTO transient paralysis  ,"Claimed normotensive, 116- 147/ 56-77",pre- DM: hbaic 6.2 ,yes Brother passed away at 40s due to heart disease,slow walking 10minutes,nil,"ex smoker, last smoke March 21 (cold turkey), 100 Pack-years",Non healthy diet,28 to 26.5,0.69,92(59% of APMHR),4.8,"moderate	
+	
+	
+	",HX of CABG (Follow Up) (Confirmed);,M,69,married,family,,,,10 minutes per session,5,5,5,5,good,independent,independent,normal,good,indepenent,2,10 mins,75 bpm,11,"Strengthening exs (15x1set)
+ - both UL 2lbs (5exs)
+ - both LL 1kg (4exs)
+ - RPE: 11",15,1,2lbs (5exs),1kg (4exs),11,0,0,1,0,0,0,0,2,0,0,0,0,1,2,1,2,0,0,1,1,1,1,1,1,0,2,1,10,2,2,1,15,1
+36186088,"IHD
+ anteroseptal MI  unstable angina  IVUS guided PCI done to pLAD",newly dx,"nil
+HbA1c 5.5% J","yes present
+Older brother. Parents have HPT","30 minutes jogging, 1x/week",nil,non smker ,low cholesterol especially during dinner time.,23.15,0.59,162 (87% APMHR),13.7,low,"CAD, double vessel (New Case) (Confirmed):- angiogram;
+",M,37,single,alone,lift landing,,1 days per week,30 minutes per session,5,5,5,5,stable,independent,independent,normal,normal,indepenent,4,10 mins,117 bpm,12,,,,,,,0,0,1,0,0,0,0,1,1,0,0,2,2,0,0,2,0,1,3,1,1,1,1,1,0,0,0,10,4,2,1.1,15,1
+36187555,"NKMI 
+ COVID-19, CAT 5, ",Not hypertensive,"Impaired fasting glucose, home reflo(fasting) = 6.3
+HbA1c 6.1","yes father k/c/o heart disease, brother - polycythemia vera, mother and sister diabetic
+",No regular exercise,Able to cope stress,non smker ,No proper diet control,30,0.59,148 (87% APMHR),8.1,low,CAD,M,52,married,family,lift landing,,,,5,5,5,5,stable,independent,independent,normal,normal,indepenent,,10 mins,,,,,,,,,0,0,1,0,1,0,0,3,0,0,0,2,2,2,1,2,0,0,0,1,1,1,1,1,0,1,0,10,3,2,1.1,15,1
+36255111,Inferior STEMI with RV involvement KIllip 1 ,nil,nil,yes Family hx of heart disease,walking 3-4 days a week,Nil,"Stopped smoking in August
+hx of smoking 30 pack years",started restricting his diet,overweight,0.59,144 (86% APMHR),10.1,"moderate	
+	
+	
+	",,M,56,,,,,3-4 times/week,30 mins minutes per session,5,5,5,5,good,independent,independent,normal,normal,,3,10 mins,118 bpm,13,,,,,,,0,0,1,0,0,0,0,1,0,0,0,2,2,2,2,2,0,3,3,1,1,1,1,1,0,1,1,10,3,2,1.1,15,1
+36324902,"HPT
+ Anterior myocardial infarction Killip I myocardial infarction chest pain","BP 140/90 on medication(dx 1 year ago, not investigated for young HPT)",No DM. HbA1c 5.9,no family history of heart disease father has DM,No regular exercise,No stressful event recently,Non smoker,Poor diet control,23,0.53,155 (87%),10.1,low,Old myocardial infarction (New Case) (Provisional),M,42,married,family,Stairs : 2 FOS / Steps,,,,5,5,5,5,good,independent,independent,normal,normal,indepenent,4,10 mins,122 bpm,11,,,,,,,0,0,0,0,1,0,0,1,0,0,0,2,2,2,1,2,0,0,0,1,1,1,1,1,0,1,0,10,4,2,1.1,15,1
+36338275,"HPT
+ NSTEMI Right knee RA right femur fracture  3VD",120/70-130/80,latest HbA1c 5.1(Jan 22),yes o IHD- ? father has IHD,"does daily walking- gradually increasing from 500m to 700m (does 3 times/week), 30 minutes
+",nil,nil,home cooked meals,25.8,0.67,109bpm (71% of APMHR),6.8,"moderate	
+	
+	
+	",TVD,F,69,married,family,"Stairs : FOS / Steps,",no,2-3 times/week,30 min per session,5,5,5,5,stable,independent,independent,normal,normal,indepenent,,2 mins,,15,strengthening exercises LL 3exs 15x - RPE13,15,,,,13,0,0,1,0,0,0,0,2,0,0,0,1,2,2,1,2,0,2,3,1,1,1,1,1,1,2,1,2,3,2,1.1,15,1
+36385207,Coronary Artery Disease 3VD Post CABG ,"since 1 year ago, self purchased meds at pharmacy.","since 1 year ago.
+was not on proper follow up and medications","Parents have diabetes, no IHD in family",Cycling 30min a day since 1 year ago.,Nil,"40 years, 10-15 sticks per day.
+yes",,,0.59,163 (79% of APMHR),10.1,low,"Coronary Artery Disease ,(3VD)",M,59,married,family,,,7 times/week,20-30 minutes per session,5,5,5,5,stable,independent,independent,normal,good,indepenent,4,10 mins,100 bpm,13,,,,,,,0,0,0,0,0,1,0,1,0,0,0,1,2,2,1,2,0,0,3,1,1,1,1,1,0,1,0,10,4,2,1.1,15,1
+36386631,HTP Dyslipidaemia Glaucoma Unstable angina ,"compliant
+- BP today 151/71","No DM
+- HbA1c 6.2%",yes Younger brother died the age <50yo due to heart attack,"Jogging 4x per week, 30min with break in between.
+- After cardiac event: Brisk walk everyday for 30mins
+regular",no,non smker ,outside meal,22 --> 21.87,0.59,130 bpm ( 91% of APMHR),10.1,moderate,,M,79,,,,no,7 times/week,30 mins minutes per session,5,5,5,5,good,independent,independent,normal,Kyphotic,indepenent,3,10 mins,91 bpm,12,,,,,,,0,0,1,1,0,0,0,1,0,0,0,2,2,2,2,2,0,0,3,1,1,1,1,0,0,2,1,10,3,2,1.1,15,1
+36396288,"DM
+ Dyslipidemia Left gluteal lymphadenitis suppurative High risk NSTEMI  Left gluteal lymphadenitis suppurative",150/71,HbA1c 6.2 ( Nov 2021),NIL,Not doing regular exercise,yes Stress at workplace,"Smoke 10 cigarette/day for the past 10 years. Stop smoking prior to this admission. Planned to stop smoking after discharge from the hospital, restarted smoking 1-2 cigarettes a day",Normal ,25,0.71,130bpm (73% of APMHR),10.1,moderate,three vessel disease post CABG,M,46,married,family,lift landing,Social Drinker,,,5,5,5,5,good,independent,independent,normal,normal,indepenent,2,10 mins,98 bpm,11,,,,,,,0,0,0,1,1,0,0,2,0,1,0,1,2,2,1,2,2,0,0,1,1,1,1,1,0,1,1,10,2,2,1.1,15,1
+36408168,HPT Dyslipidaemia CAD ischemic stroke,controlled on medication,Hba1c: 6%,yes  father has IHD - passed away 60+ due to cardiac cause,"not adequate
+",yes stressor from work,non smoker,"still high calorie, high carbohydrate intake",32.63,0.59,134 (76% of MHR),7,moderate,,M,46,single,staying with colleague,lift landing,,,,5,5,5,5,good,independent,independent,normal,good,indepenent,3,10 mins,108 bpm,13,,,,,,,0,0,1,0,1,0,0,3,0,0,0,1,2,0,2,2,0,0,0,1,1,1,1,1,0,1,1,10,3,2,1.1,15,1
+36416487,"T2DM
+ CKD- baseline creat 140 acute inferior MI LV clot- resolved Bilateral TTA","120-130/70-80	
+	
+	",HbA1c 9.1% (July 2020),parents hpt/dm,nil,no stress,no smoking ,home cooked food,,0.42,114 (78% APMHR),5.7,moderate,"Amputation below knee (New Case) (Confirmed);
+",F,76,,,,no,,,4,4,3,3,"sitting good
+ standing (unable to assess d/t TTA)",independent,Aided : wheel chair ambulation,,Slight khpotic,indepenent,3,10 mins,79 bpm,13,"Both UL strengthening exs (1lbs)
+ - 15x1set (5exs)
+ - RPE:13",15,1,,,13,0,1,0,0,1,0,0,1,0,0,1,1,1,2,2,2,0,0,0,1,1,0,1,0,1,2,1,10,3,2,1.1,15,1
+36422397,"DM
+ Dyslipidemia
+ Erectile Dysfunction  IHD - TVD",nil,HbA1c (23/12/21 - 6.7),nil,nil,,"previously smoke for 40 pack/years, quit smoking last November 2021","rarely take fried food or fast food, usually eat soups and boiled protein, occasionally will indulge Nasi Kandar",,0.6,110 bpm (69% of APMHR),4.3,moderate,Post CABG,M,63,,,,nil,,,5,5,5,5,good,independent,independent,normal,normal,indepenent,3,10 mins,112 bpm,11,"Strengthening (15x1set)
+ - both LL 1kg (4exs)
+ - RPE:11",15,1,,1kg (4exs),11,0,1,0,0,0,0,0,1,1,1,0,1,1,2,2,2,0,0,0,1,1,1,1,1,0,2,1,10,3,2,1,15,1
+36428937,T2DM HPT CCF with ischemic cardiomyopathy ,yes,Hba1c improving (Dec 2021) 10.1 --> (Feb 2022) 8.5%,nil,rarely done,nil,"never, but + second hand smoker","on restriction, home cook",28,0.59,142 bpm (81% of APMHR),3.5,moderate,Congestive heart failure (New Case) (Provisional):- Coder by MRU,F,63,married,family,,,,,5,5,5,5,stable,independent,independent,normal,good,indepenent,3,10 mins,110 bpm,13,,,,,,,1,1,0,0,0,0,0,2,0,0,0,2,1,2,1,2,0,0,0,1,1,1,1,1,1,2,1,10,3,2,1.1,15,1
+36439541,"T2DM
+ Inferior Myocardial infarction  AKI",,latest HbA1c: 6%,yes IHD-both grandparents passed away due to IHD,"gadoes daily yoga with swimming 3 times/week
+regular",nil,"ex-smoker, stopped (since admission),40 packs years",home cooked food however still takes high carb diet,28.1,0.59,153 ( 83% from age predicted MHR),10.5,low,,M,39,married,family,"Stairs : FOS / Steps,",,7 times/week,,5,5,5,5,stable,independent,independent,normal,normal,indepenent,,,,,,,,,,,0,0,1,1,0,0,0,2,0,0,0,2,2,2,1,2,0,0,0,1,1,1,1,1,0,0,0,10,3,2,1.1,15,1
+36441204,"NSTEMI 
+ HTN
+ DM",130-140/80-90 mmHg,latest HbA1c 8.1 (March 22),IHD- nil,"indoor static cycling about 45min to 1hour daily
+regular",yes financial stress,"active smoker, 1 pack per day
+yes","no restrictions in diet, home cooked meals but mostly fried food",31.2,0.59,123 bpm (71% of APMHR),11.6,Moderate,"CAD post stenting. H/o NSTEMI. Pre-CRP2. Moderate risk.
+
+",M,49,married,family,lift landing,denies alcohol intake,7 times/week,45 mins minutes per session,5,5,5,5,stable,independent,independent,normal,normal,indepenent,,,,,,,,,,,0,1,0,1,1,1,0,3,0,0,0,1,2,2,1,2,0,0,4,1,1,1,1,1,0,1,1,10,3,2,1.1,15,1
+36525493,NKMI Inferior MI with right sided involvement  2VD ,"105/110/65-80mmHg	
+	",latest HbA1c 6.4 (Feb 22),yes IHD- sister has IHD,daily exercise (slow walk),yes financial status and worries about her wife's wellbeing when he is not around,non smoker,home cooked meals,33.1,0.59,137 (85% of APMHR),7,low,,M,60,married,family,lift landing,takes alcohol occasionally,7 times/week,,5,5,5,5,stable,independent,independent,normal,normal,indepenent,3,10 mins,107 bpm,12,,,,,,,0,0,1,0,1,0,0,3,0,0,0,2,2,2,1,2,1,0,0,1,1,1,1,1,0,2,0,10,3,2,1.1,15,1
+36551792,"HPT
+ DLP central chest pain",kco hypertension,DM - no recent hba1c,yes family hx of CVD - father first MI at age 60+,previously not engaging in regular exercise,nil,no smoking ,,27.2,0.55,125 (79% of APMHR),6.4,low,,M,65,married,family,Stairs : 3 FOS / Steps,,no,,5,5,5,5,normal,independent,independent,normal,normal,indepenent,3,10 mins,100 bpm,13,,,,,,,0,0,1,1,0,0,0,2,0,0,0,1,2,2,1,2,0,0,0,1,1,1,1,1,0,2,0,10,3,2,1.1,15,1
+36561139,NKMI COVID 19 Acute extensive anterior STEMI  ,100-110/60-70 mmHg,HbA1c 5.5% (March 2022),h/o IHD- nil,no routine exercises since busy with work,"yes a lot of stress from work, daily routine too hectic",non smker ,home cooked meals with occasional take outs,21.3,0.59,99 (57% of MHR),4.8,moderate,Acute coronary syndrome (New Case) (Provisional),M,42,,,,no,,,5,5,5,5,good,independent,independent,normal,normal,indepenent,1,10 mins,80 bpm,13,"Strengthening exs (15x1set)
+ - both LL - 1kg SLR
+ - RPE:13",15,1,,1kg SLR,13,0,0,0,0,1,0,0,1,0,0,0,0,1,2,2,2,0,0,0,1,1,1,1,1,0,1,1,10,1,2,1,15,1
+36570629,"3VD 
+ NKMI prior to cardiac event",nil,HbA1c: 6.2% (April 2022) --> pre diabetic range,"yes mother: DM
+- siblings: IHD","goes for walk 1 hour a day in the morning (brisk walking)
+- now post CABG goes for normal paced walking",nil,non smoker,"homecooked food
+- but also previously ate nasi lemak 3 - 4 times a week",19,0.51,139(89% of APMHR),11.4,low,CAD (Coronary artery disease) (New Case) (Provisional),M,66,married,family,Stairs : 3 FOS / Steps,,7 times/week,60 mins minutes per session,5,5,5,5,good,independent,independent,normal,normal,indepenent,,,,,,,,,,,0,0,1,0,0,0,0,1,0,0,0,2,2,2,1,2,0,0,6,1,1,1,1,1,0,2,0,10,3,2,1.1,15,1
+36610004,NKDA DM on OHA HPT IHD  internal watershed infarcts post CABG,well controlled ,no HBGM,nil,nil,nil,nil,"home cooked food, still taking mainly rice in his diet",23.56,0.64,101 (68% of APMHR),3.6,,,M,75,,,,nil,,,5,5,5,5,good,independent,independent,normal,normal,indepenent,3,10 mins,88 bpm,12,,,,,,,0,0,0,0,0,0,0,1,1,0,0,1,1,2,2,2,0,0,0,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+36622798,STEMI TVD with heavily calcified vessels  CKD Stage 2 CVA with full recovery BPH with frequent AUR on treatment,"usually normal range, not on antihypertensive",HbA1c 5% ( 15/6/22),not significant,"Golfing at least once a week , now just walks around the house",none,non smker ,"Patient claims regularly on low fat, low salt diet, home cooked food",23,0.5,,,moderate,,M,77,married,family,Stairs : 2 FOS / Steps,no,1 times/week,,5,5,5,5,good,independent,independent,normal,normal,indepenent,3,10 mins,99 bpm,9,,,,,,,0,0,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0,1,0,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+36651993,"NKDA/FA HPT
+ Acute inferior with right side involvement STEMI Killip I.",home BP 120-130/80-90mmHg,no known DM HbA1c (27/6/2022): 5.3%,no known family history of heart disease or sudden death,"once in two weeks, football game (before STEMI), currently brisk walking every day 30 minutes",manageable,"smoking, 20 cigarettes per day --> 3 cigarettes per week",mostly take outside food,29,0.62,157bpm (85% of Age predicted MHR),8.3,moderate,Acute inferior with right side involvement STEMI Killip I. Successful thrombolysis,M,38,married,family,,,7 times/week,30 mins minutes per session,5,5,5,5,good,independent,independent,normal,normal,independent,3,10 mins,124 bpm,10,,,,,,,0,0,0,0,0,0,0,2,0,0,0,2,2,2,1,2,0,0,3,1,1,1,1,1,0,0,1,10,3,2,1.1,15,1
+1697846,"Double vessel disease
+Gout
+ Gastritis
+HPT",Yes,Not diabetic - hba1c 6.1%,No family history of vascular disease,"30mins 2-3x/week of leisure walking
+
+regular",Nil,"Ex heavy smoker
+- stopped 3 years ago
+- started since 30 years old
+- 1 pack /day",No specific control,,0.59,149 ( 98 % from age predicted MHR),7,Moderate risk ,Double vessels disease. PCI done,M,71,Married,Family,Stairs : 2 FOS / Steps,,2-3x/week,30 mins,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,2,10 mins,105,13,"(15x1set)
+ - both UL 2lbs (5exs)
+ - both LL 1KG (4exs)",15,1,2lbs (5exs),1KG (4exs),,1,0,0,1,0,0,0,1,0,0,0,2,2,2,1,2,0,2,3,1,1,1,1,1,0,2,1,10,2,2,1,15,1
+2784980,"DM
+
+Hypertension
+
+IHD - stented 2011 at KPJ Damansara
+
+Renal cell CA- resected 2008",Home BP range in ward 110-120/70-80,Hba1c 7.2%(21/3/2021),No family history of cardiac problem,"3-4x per week, walking for 30-45min (denies chest pain, sob, dizziness)
+
+regular",Nil,Non smoker ,"No specific diet control, usually home cook ",23.7 -> 20.9,0.59,169,10.1,Moderate,,M,68,Married,Familly,Stairs : 1 FOS / Steps,No,3-4x per week,30-45min,5,5,5,5,Stable,Independent,Independent,Normal,Normal,Independent,3,10 mins,119,12,,,,,,,0,1,0,1,0,0,0,1,1,0,0,2,2,2,2,2,0,3,4,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+2941465,"DM
+HPT
+Dyslipidemia
+OSA",yes,yes,,,,,,,0.59,115 bpm (70% of age predicted max HR),4.6,Moderate,NSTEMI,M,59,Married,Familly,Stairs : FOS / Steps,No,,,5,5,5,5,Stable,Independent,Independent,Normal,Normal,Independent,3,8 mins,87,13,,,,,,,1,1,0,0,0,0,0,1,0,1,0,1,1,2,2,2,0,0,0,1,1,1,1,1,0,1,1,8,3,2,1.1,15,1
+2997916,"Conn Syndrome
+HPT
+GERD / dyspepsia ","On medications, controlled","Nil, HbA1C (Aug/2017): 4.1%-->4.3 (2019)",No,"No regular exercise despite post CRP program, blame it in COVID-19",,Non smoker,"Home cooked food, takes fibres daily, likes fried food and sweet",22 > 21.55,0.66,137 (90% of APMHR),10.1,Moderate ,CAD,M,72,,,,No,Did exercises at home w mini own g,,5,5,5,5,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1,0,0,0,2,2,2,2,2,0,0,0,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+3111229,"HPT
+DM
+Hyperlipidemia
+PAD",Normal SBP <140mmHg,"Yes, no latest HbA1c, eye screening done for this year",,"Nil for the past 2 months due to left foot pain, now no more pain",Nil,"Quit for almost 25 years, in maintenance phase","Home cooked food, take fibers, less sugar/salt/fat",,0.59,67 (43% apmhr),7,Low,Chronic ischemic heart disease,M,69,,,,,,,5,5,5,5,Good,Independent,,Normal,Normal,Independent,1,10 mins,56,14,"Strengthening exs both UL/LL (15x2sets)
+ - UL (2lbs) - 5exs RPE:12
+ - LL (1Kg) - 2exs RPE:11",15,2,(2lbs) - 5exs, LL (1kg),2024-12-11 00:00:00,0,1,0,0,0,0,0,1,0,0,0,0,2,2,2,2,0,0,0,1,1,1,1,1,0,2,0,10,1,2,1,15,2
+3630080,"DM
+HPT
+CKD",BP range 135-165/80-90,HbA1c 6.3%,,"Brisk walking for 30 - 60 per day
+regular",Nil,Nil,Low salt low cholesterol,22.1,0.59,130 bpm (87% of maximal age predicted heart rate),7.3,Low,3VD post CABG,M,73,Married,Familly,Stairs : 2 FOS / Steps,Nil,7 times/week,30-60 mins,5,5,5,5,Stable,Independent,Independent,Normal,Normal,Independent,3,10 mins,88,13,,,,,,,0,0,0,1,0,0,0,1,0,0,0,2,2,2,2,2,0,0,6,1,1,1,1,1,0,2,0,10,3,2,1.1,15,1
+4374274,"Recurrent pericarditis with underlying CAD
+
+GI polyp
+
+Right sensorimotor lacunar stroke- July 2018
+
+Trigger point over left rhomboid and levator scapula ",BP well controlled,16.1% HbA1c July 2019 to 15.7% in August 2020-->11.7% (Under OHA and insulin),Nil,"Exercise 3 X per week cycling at around house 30 minutes
+regular",Nil,Nil,"On strict diet, only take fish",45.1,0.59,141(87%) -> 152(95%),7,Low,,M,62,,,,,,,5,5,5,5,,,,,,,3,10 mins,90,13,"Resisted exercises 2lb dumbbell 4 exses UL (not done due to left shoulder pain?) , LL 1kg 4exercises ( 1 to 2 sets) ( not done)",,1,2lbs 4exs,1kg 4exs,,0,1,0,1,0,0,0,3,0,0,0,2,2,2,2,2,0,0,0,1,1,1,1,1,0,2,0,10,3,2,1,15,1
+4565401,"HPT
+ Dyslipidemia",BP controlled in ward,No DM - HBA1c 6.4,yes Brother history of IHD,Walking 30 mins daily,Minimal,"Ex- smoker, quit ~ 10 years ago (1 pack /year)",Control,32,0.59,146 (87% of APMHR),10.1,Low,Acute anteroseptal MI,M,56,Married,,,,7 times/week,30 mins per session,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,3,10 mins,113,11,"Strengthening exs (15x1set)
+ - both LL 1kg (5exs)",15,1,,1kg (5exs),,0,0,1,0,0,0,0,3,0,1,0,2,2,2,2,2,0,0,3,1,1,1,1,1,0,1,0,10,3,2,1,15,1
+4883519,"Dyslipidemia
+HPT","Well controlled , compliant to medications",,yes Sudden cardiac arrest in father at age of 55,No,Nil,Non smoker,Home cooked food,Not overweight,0.59,139(92% of max predicted),7,Moderate ,TVD post angiogram,F,74,Married,Familly,Stairs : FOS / Steps,Nil,5-6 times/week,60 minutes per session,4,4,4,4,Good,Independent,Independent,Normal,,Independent,,,,,"Strengthening exs both UL
+ - 1 lbs (5exs) 10x1set",10,1,1 lbs (5exs),,,0,0,1,0,0,0,0,1,0,1,0,2,2,2,2,2,0,5,6,1,1,1,1,1,1,2,1,10,3,1,1.1,10,1
+5569311,"Anteroseptal MI, killip 
+ST up V2 - V4, T inv V2 - V6
+CKinase 1208, CKMB 84.4, Trop I 10.14
+LVH. Diastolic dysfunction unable to grade due to AF",,,,,,,,,0.42,180 (achieved >80% HR reserved),4.6,Moderate,Chronic ischaemic heart disease (Confirmed);,M,67,,,,,,,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,3,10 mins,179,13,"Strengthening exs (15x1set)
+ - both LL 1.5KG",15,1,,1.5KG,,0,0,0,0,0,0,0,1,0,0,1,1,1,2,2,2,0,0,0,1,1,1,1,1,0,2,1,10,3,2,1.5,15,1
+6448038,"T2DM
+Dyslipidemia",Well controll,Latest HbA1c 7.5%,Not significant,Not achieved 150 minutes per month,manageable ,Non smoker,Healthy and balanced diet,26.5,0.61,121 (74% max predicted),7,Low,Post PCI,M,61,,,,,,,,,,,,,,,,,3,10 mins,92,12,Strengthening exs UL 3lbs/ LL 1kg (5exs-15x1set),15,1,3lbs 5exs,1kg 5exs,,0,1,0,0,0,0,0,2,0,1,0,1,2,2,2,2,0,0,0,1,1,1,1,1,0,2,0,10,3,3,1,15,1
+7253079,"HTN
+DM
+Dyslipidemia
+Left breast CA","Yes, currently on T Perindopril 4mg OD, T Bisoprolol 3.75mg OD",HBA1C 8.3% (Oct 2020),"yes Father, brother died due to IHD but at age > 55
+
+ Sister has IHD, planned for CABG soon, age < 60
+","Prior to operation, she was able walk around her apartment for 1 hour daily, > 2km
+regular",Nil for social/ financial stressor,Nil,"Controlled, rarely takes dinner",21,0.63,121 (73% APMHR),4.8,Moderate,"CAD, multiple vessel (Follow Up) (Confirmed);",F,57,,,,,,,5,5,5,5,Good,independent,independent,normal,Good,indepenent,,,,,,,,,,,1,1,1,1,1,0,1,1,0,1,0,1,1,2,2,2,0,0,0,1,1,1,1,1,1,1,1,10,3,2,1.1,15,1
+7649550,"CAD
+Perimenopausal DUB - under gynae
+PUD - OGDS 24/7/17 - F3 ulcer",Normal SBP reading 140-150mmHg,HbA1c 6.3,yes CABG twin brother ,Nil,Nil,Nil,"Not well controlled, taking deep fried food almost daily",30.5,0.59,148bpm (89% of APMHR),6.7,Moderate,Mild CAD,F,56,,,,,,,5,5,5,5,,,,,,,6,10 mins,138,13,"Strengthening exs :
+ UL - 5 exs, 3lbs, 15 reps x 2 sets, RPE 11
+ LL - 5 exs, 1.5KG, 15 reps x 2 sets, RPE 12",15,2,"5 exs, 3lbs","5 exs, 1.5KG","11,12",0,0,1,0,0,0,1,3,0,0,0,2,2,2,2,2,0,0,0,1,1,1,1,1,1,1,1,10,6,3,1.5,15,2
+7690983,"CAD
+DM
+HPT","BP 110/70, BP in ward 150-170/80-90, not on antihpt meds","Taking insulin, reflo 5-6. usually check by wife, HbA1c 8.0",Not significant,"Exercises daily as per CRP1 suggestion
+regular",Nil,Ex-smoker since 2013,"Reduce rice amount, reduce sugar, no reduce fatty food",25.83,0.59,118 beats/min(78% of APHR),6.6,Moderate ,Acute coronary syndrome (New Case) (Provisional),M,72,Married,,,,7 times/week,,5,5,5,5,Good,independent,Independent,Normal,Slight khypotic,indepenent,2,10 mins,90,10,"Strengthening exs (15x1set)
+ - both UL 2lbs
+ - both LL 1kg",15,1,2lbs,1kg,,0,1,0,1,0,0,0,2,0,0,0,1,2,2,2,2,0,0,0,1,1,1,1,0,0,2,1,10,2,2,1,15,1
+7702582,"Severe AR
+AVR on 21/10/20 (Medtronic ATS - 26mm)",No,"No, HbA1c: 5.2% (Oct 2020)",Nil,Nil,On and off but manageable,"Smoke about 1-2 sticks/day for the past 3-6 months after quit for years,, stopped smoking since October 2020",Not really controlled his diet,20,0.35,135 bpm ( 72% of max predicted 187 bpm),10.1,Moderate to high,"HX of aortic valve replacement, mechanical (New Case) (Provisional)",M,36,Married,family,lift landing,,1-2 times/week,10 mins per session,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,,,,,". UL & LL strengthening exs
+ *UL(5exs ) 15 x 2set , RPE 10
+ *LL(4exs) 15 x 2 set , RPE 10",15,2,5exs,4exs,10,0,0,0,0,0,0,1,1,0,0,2,1,2,2,1,2,0,1,1,1,1,1,1,1,0,0,1,10,3,2,1.1,15,2
+8232113,"IHD 
+HTN
+Dyslipdemia",,,,,,,,,0.62,150 (88%),7,Low,"IHD
+- 3 VD , post CABG in January 2020",M,54,,,,,3-5 times/week,30-45min minutes per session,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,3,10 mins,114,13 - 14,,,,,,,0,0,0,0,0,0,0,1,1,0,0,2,2,2,2,2,0,3,4,1,1,1,1,1,0,1,0,10,3,2,1.1,15,1
+8410151,"IHD
+Eczema
+BPH
+Dyslipidemia
+Actinic keratosis under derm
+Cataract
+Hx of peptic ulcer",,,,,,,,,0.59,147 (101% of APMHR),4.6,Moderate,"IHD
+",M,77,,,,,3 times/week,20 minutes per session,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,2,10 mins,107,14,"Strengthening exs (15x1set)
+ - both UL 2lbs (5exs)
+ - both LL 1kg (4exs)",15,1,2lbs (5exs),1kg (4exs),,0,0,0,0,0,0,0,1,1,1,0,2,1,2,2,2,0,3,2,1,1,1,1,1,0,2,1,10,2,2,1,15,1
+8435731,Valvular Heart Disease ,Nil,Nil,Nil,Regular exercise ,"Yes, work related ",Nil,Imbalanced,20,0.62,106 (58% of MHR) - on bisoprolol,4.8,Moderate,Valvular heart disease,F,43,Single,alone,,Nil,3 times/week,,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,2,10 mins,92,13,"Strengthening exs (15x1set)
+ - both LL- 1kg (4exs)",15,1,,1kg (4exs),,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,2,0,3,0,1,1,1,1,1,1,1,1,10,2,2,1,15,1
+8676070,"NKMI
+Posterior MI (12/9/2020)",Nil. started ACEi and BB post Mi,HbA1c: 7.3%. claims well controlled. blood sugar ranges 4-6,,"Doing regular exercise, physically active",No,Non smoker,"Controlled, home cooked",30.52,0.43,139 bpm ( 85% of max predicted 163 bpm),7.2,Moderate,Acute myocardial infarction (STEMI (posterior)) (New Case) (Confirmed),M,60,Married,family,,,Doing regular exercise,,5,5,5,5,Good,Independent,Independent,Normal,Good,Independent,3,10 mins,110,11,"Strengthening exs (15x1set)
+ - both UL - 4lbs",15,1,4lbs,,,0,1,0,1,0,0,1,3,0,0,1,2,2,2,1,2,0,0,0,1,1,1,1,1,0,2,1,10,3,4,1.1,15,1
+8791759,"Type 2 DM
+SLE with APLS - h/o TIA
+Acute anterior myocardial infarction 17 Aug 2019
+PCI to LAD with a long DES ",No,,,Light intensity -> tai-chi like 1x/week pre-MI,Usually work-related; currently on MC -> stress-free at the moment,Non smoker,Home cooked,,0.43,148 (87% of MHR) - on bisoprolol,7,Low,IHD,F,54,Married,family,,Nil,3 times/week,10 mins minutes per session,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,,,,,"Strengthening exs
+ UL- 1lbs (4exs), 10 reps x 1 set, RPE 12
+ LL- 1 kg (2exs), 10 reps x 1 set, RPE 13",10,1,1lbs (4exs),1 kg (2exs),"12,13",0,0,0,0,1,0,0,1,0,0,1,2,2,2,1,2,0,3,1,1,1,1,1,1,1,1,0,10,3,1,1,10,1
+8981698,"IHD -3VD
+Premorbid NKMI
+CABG on 12/05/20",Nil,HbA1c - 6 ( 9/2/2020),,Infrequent ,denies stress,,"Home cooked - less oil, less fat, less salt",17,0.71,96 (63% of MHR),4.8,Moderate ,"IHD - 3VD
+- post CABG",M,71,,,,,,,5,5,5,5,Good,,,,,Independent,,,,,"Strengthening exs (15x1set)
+ - LL 1kg (4exs)
+ - RPE: 11",15,1,,1kg (4exs),11,0,0,0,0,1,0,0,0,1,0,0,1,1,2,2,2,0,0,0,1,1,1,1,1,0,2,1,10,3,2,1,15,1
+9049053,"DM
+Recurrent CVA (2010) with residual mild left hemiparesis
+CAD-3VD
+MI on 24/10/19",Well controlled ,HbA1c 7.3,yes Both parents had MI in their 50s,"Walking exercise 15min /day
+regular",Nil,Non smoker,"Home-cooked, taking more steamed food",25.7,0.46,85,2.5,Moderate,Atherosclerotic heart disease (Provisional),F,65,,,,,,,3,3,3,3,Good,Independent,Independent,Limping,Normal,Independent,,,,,"Strengthening exs (15x1set)
+ - both LL 3exs
+ - RPE:11",15,1,,3exs,11,0,1,1,1,0,0,0,2,0,0,1,2,0,2,2,2,0,0,0,1,1,1,0,1,1,2,1,10,3,2,1.1,15,1
+9225528,"Inferior MI post PCI 
+Hyperlipidemia",Nil,HbA1c 5.9%,yes Strong FH ,"Brisk walking daily 2000-3000 steps/day
+regular",Nil,Quit 12 years ag,Better control now,26.76,0.51,136 ( 86% from age predicted MHR),7,Low,"Chronic ischemic heart disease (Provisional); Acute myocardial infarction (New Case) (Provisional);
+",M,64,Married,family,,Denies alcohol,7 times/week,"2000-3000 steps per day
+
+33 mins",5,5,5,5,Stable,Independent,Independent,Normal,Normal,Independent,3,15 mins,107,12,,,,,,,0,0,1,1,0,0,0,2,0,0,0,2,2,2,1,2,0,0,3,1,1,1,1,1,0,2,0,15,3,2,1.1,15,1
+9338926,"HPT
+Dyslipidemia
+BPH
+Renal calculi - done lithotripsy",BP within range,Non-DM - HBA1C 6%,yes Father had stroke,,Nil,Non smoker,Taking care of his diet now,27.3,0.69,115 (79% of max predicted),7,Low,"CRP 3
+- low risk CRP 3 (Mets 7, EF 69%)
+2)Anxiety
+3) Bilateral knee OA",M,78,,,,,3-4 times/week,30 minutes per session,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,3,10 mins,106,13,"Strengthening exs 15x2sets
+ - UL: 2lbs (5exs)
+ - LL: 1kg (4exs)",15,2,2lbs (5exs),1kg (4exs),,0,0,1,0,0,0,0,2,0,1,0,1,2,2,2,2,0,3,3,1,1,1,1,1,0,2,0,10,3,2,1,15,2
+9634380,"T2DM 
+HPT/dyslipidaemia
+CAD",Yes,"Yes, Hba1c 7.5% (1/4/21)",Nil,Nil,Nil,Non smoker,"Home cooked food, on restriction, referred by endocrine and s/b dietitian before- not keen to see dietitian again",20.93,0.43,142 (88% of APMHR),10.1,Moderate,CAD,M,61,,,,,,,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,3,10 mins,110,11,"Strengthening exs (15x1set)
+ - both UL (5exs) 3lbs
+ - both LL (4exs) 1.5kg",15,1,(5exs) 3lbs,(4exs) 1.5kg,,1,1,0,0,0,0,0,1,0,0,1,2,2,2,2,2,0,0,0,1,1,1,1,1,0,2,1,10,3,3,1.5,15,1
+9638466,"CAD
+NSTEMI
+DM
+Hypertension
+Dyslipidemia",Yes,"Yes, hba1c 6.1%",yes Patient's uncle has IHD- angiogram done,"Cycling 3x/week, 15-20mins each time; slow and brisk walking in neighborhood and on treadmill machine daily
+regular",Nil,Non smoker,"On restriction, home cooked food",30.7,0.65,132 (79% of MHR),10.1,Low,,M,56,Married,family,stairs : FOS / Steps,Nil,3-4 times/week,15-20 minutes per session,5,5,5,5,Good,Independent,Independent,Nornal,Normal,Independent,4,10 mins,116,12,"Strengthening exs: 15x 1 set
+ - UL ( 3lbs ) , 5 exs , RPE : 12
+ - LL ( 1.5kg ) , 4 exs : RPE : 12",15,1,"( 3lbs ) , 5 exs ","( 1.5kg ) , 4 exs",12,1,1,1,1,0,0,0,3,0,1,0,1,2,2,1,2,0,3,2,1,1,1,0,1,0,1,0,10,4,3,1.5,15,1
+11226843,"Type 2 DM
+IHD
+HPT
+Stroke - no residual weakness
+History of UGIB in 2018 ",119/65,HbA1c 6.7% (July 2020),"yes Siblings all have cardiac issue, mother has diabetes","Dancing - enjoys line dancing every friday, stopped now due to MCO. no regular exercises",No,Non smoker,"Outside food, no diet control",26.7,0.59,136 bpm (100% of APMHR),4.8,Moderate,NKDA,F,88,,,,No,1 times/week,,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,,,,,"Strengthening exs (15x1set)
+ - both LL 1kg (5exs)",15,1,,1kg (5exs),,0,1,1,0,0,0,0,2,1,0,0,2,1,2,2,2,0,1,0,1,1,1,1,1,1,3,1,10,3,2,1,15,1
+11776304,"HPT
+DM
+HPL
+IHD",Yes,Hba1c 8.4%,Nil,No regular exercise,Nil,"Chronic smoker for 30 years+, 20 sticks/day. Stopped in May 2021","Currently restriced. Reduced carbs, sugar and cholesterols. Increased consumption of vegetables",25.6,0.59,115 (69% of age predicted max HR),7,Low,,M,57,Widower,Family,lift landing,,,,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,3,10 mins,105,13,"Strengthening exs (15x1set)
+ - both UL 3lbs (5exs)
+ - both LL 1.5kg (4exs)",15,1,3lbs (5exs),1.5kg (4exs),,1,1,0,0,0,0,0,2,1,0,0,1,2,2,1,2,0,0,0,1,1,1,1,1,0,1,0,10,3,3,1.5,15,1
+12276500,"Peptic ulcer disease in May 2019
+Acute inferior STEMI with posterior and RV infarct, Killip 1 
+Angiogram and stenting done on 8/12/2020
+OCT showed mRCA ruptured plaque
+Fatty liver with hypercholesterolemia",BP ranging - 128-149/70-98mmhg,5.8% (4/12/2020),"yes IHD- father (70y/o, stented x1)","Playing badminton 2x/week, 2H; cycling 1x/week,1H
+regular",Nil,"Smoker for 6-7 years, 26 cigarettes in a week- already stopped smoking",Controlled,27.1,0.59,162 (88 % from age predicted MHR),12.8,Low,"Acute inferior STEMI with posterior and RV infarct, Killip 1",M,38,Married,Family,Stairs : 2 FOS / Steps,"During MCO period (work from home), taking 5 canned of alcohol daily, Carlsberg for 8-9 months. - already stopped alcohol",2x/week,120 mins per session,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,4,10 mins,122,11,"Strengthening exs (15x1set)
+ - both UL 2lbs (5exs)
+ - both LL 1kg (4exs)",15,1,2lbs (5exs),1kg (4exs),,0,0,1,1,0,0,1,2,0,0,0,2,2,2,1,2,0,2,6,1,1,1,1,1,0,0,0,10,4,2,1,15,1
+12377594,"Dyslipidemia
+BPH under Urology
+Post PCI to proximal RCA and Myocardial bridging on 9/10/2020",Well controlled ,Non DM HbA1c 5.7%,yes Father and grandma,Before this dong running and hiking,Nil,,"Healthy diet , home cooked food",22,0.59,133 bpm (84% of APMHR),11.2,Moderate ,,M,66,Married,Family,Stairs : FOS / Steps,Occasional alcohol,"Every morning and evening times/week
+7",30 minutes per session,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,2,10 mins,77,12,"Strengthening exs:
+ - UL , 2lbs , 10x
+ - LL , 1 kg , 10x",,,"2lbs , 10x","1 kg , 10x",,0,0,1,0,0,0,0,1,0,1,0,2,2,2,1,2,1,0,3,1,1,1,1,1,0,2,1,10,2,2,1,15,1
+12385414,"NKMI
+NSTEMI
+Angiogram done 9/3/21",BP controlled in ward,HbA1c 6%,yes Father IHD,Slowjog in the morning about 20 mins,Nil,Non smoker,"Home-cooked, diet control - low salt, low sugar, low cholesterol diet
+",29.4,0.59,155 (92% of age predicted maximum HR),10.1,Low,Acute coronary syndrome (Provisional),M,56,,,Stairs : 2 FOS / Steps,,,20 mins per session,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,3,10 mins,120,13,"Strengthening exs (15x1set)
+ - both UL 4lbs (5exs)
+ - both LL 4lbs (4exs)",15,1,4lbs (5exs),4lbs (4exs),,0,0,1,0,0,0,0,2,0,0,0,2,2,2,2,2,0,0,2,1,1,1,1,1,0,1,0,10,3,4,1.1,15,1
+12648628,"Dyslipidemia
+Anxiety - diagnosed 20 years ago
+Bilateral Knee OA
+Inferior MI 
+coronary angiogram+ PCI",No,No DM - HbA1c 5.5 % July 2020,Nil,Stopped for past 1 year due to right knee pain,Anxiety + stress at work,Non smoker,"Some fried food, usually home cooked",24.55,0.59,"146 (88% from age predicted MHR)
+",10.1,Low,"CAD
+- post PCI
+- preCRP2 EST
+Anxiety
+Bilateral knee OA",M,59,Married,Family,Stairs : 2 FOS / Steps,No,,,5,5,5,5,Stable,Independent,Independent,Normal,Normal,Indepenent,4,10 mins,83,12,,,,,,,0,0,0,0,1,0,0,1,0,1,0,2,2,2,1,2,0,0,0,1,1,1,1,1,0,1,0,10,4,2,1.1,15,1
+13222470,"HPT
+Childhood bilateral LL paralytic poliomyelitis
+CAD since 2017
+History of admission in HRPB in November 2019 for NSTEMI with Hypertensive emergency",Yes,Non- T2DM HbA1c 6.3%,No family hisotry of IHD,No regular exercise,Denied stress,"Chronic smoker, just quit smoking this year ",Cook on his own,BW 68kg,0.4,142 (84% of MAPHR),4.8,Moderate,"CAD, multiple vessel (Severe triple vessels disease) (New Case) (Confirmed)",M,53,,,,,,,4,5,2,2,Good,Independent,Aided : pt using light wheelchair,Others : pt unable to walk,Normal,Independent,,,,,"Strengthening exs (15x2sets)
+ - dumbell 2lbs (5exs)",15,2,2lbs (5exs),,,1,0,0,0,1,0,0,3,0,0,2,2,1,2,2,2,0,0,0,1,1,0,0,1,0,1,1,10,3,2,1.1,15,2
+13778193,"DM
+HPT
+Smear positive TB -maintainance phase, under IPR","Yes, 9 years",4 years HbA1c: 6.5,Unsure of CVD,,No,"Nil, stopped since Dec 2019",No specific,28,0.54,139 (85% of max predicted),9.3,Low,Inferior MI,M,60,,,,,,,5,5,5,5,,,,,,,3,10 mins,115,13,Resisted exs -UL 4lb 4exses 15rep. and LL 1kg 4exs alternately,15,, 4lb 4exs,1kg 4exs,,1,1,0,0,0,0,0,2,0,0,0,2,2,2,2,2,0,0,0,1,1,1,1,1,0,2,0,10,3,2,1,15,1
+14855388,"Mild CAD
+T2DM diagnosed early 2019
+Dyslipidaemia
+H/O Right TKR",No,HbA1c 6.3% ( Feb 2020),"yes Strong family history of IHD
+- parents and sister passed away due to heart attack","Doing static cycling at home, 1 hr , everyday for 6 days/week
+regular",No,Non smoker,"Eat home cooked meal
+- less oily food, use air fryer to fry",30,0.59,118 (77%),6.8,Low,Mild Coronary artery Disease,F,70,Married,Family,Stairs : FOS / Steps,No,5 times/week,20 minutes per session,5,5,5,5,Stable,Independent,Independent,Normal,Normal,Independent,3,10 mins,92,12,,,,,,,0,0,1,1,0,0,0,3,0,0,0,1,2,2,1,2,0,5,2,1,1,1,1,1,1,2,0,10,3,2,1.1,15,1
+15006201,"HPT
+Dyslipidemia
+DM
+IHD","Controlled, under ACEi and bisoprolol","Yes, HbA1c: 6.6%, not on medication","yes Brothers, mother has stroke","Not doing any, used to go gym last time",Minimal but able to cope,Non smoker,"Outside food more, better controlled for the past 6 months, takes fibers, seen dietitian before, not keen for further referral",27,0.59,126 (77% of maximal age predicted heart rate),4.6,Moderate,"IHD
+",M,61,Single,Family,,Social drinker,No,,5,5,5,5,Stable,Independent,Independent,Normal,Normal,Independent,3,10 mins,95,13,,,,,,,0,1,1,0,0,0,1,2,1,1,0,1,1,0,1,2,2,0,0,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+16454090,"Anterolateral MI (Kilip I)
+Triple vessel disease
+HPT
+DM",Yes,"Yes, HbA1c 8.5",yes Maternal grandfather died from ACS,Irregular 1x week,Work related stress,Stopped smoking 3-4 months,Partially controlled,28.2,0.59,153,7,Low,CAD (Coronary artery disease) (Confirmed),M,48,Married,,,,1 times/week,15 minutes per session,5,5,5,5,Stable,Independent,Independetn,Normal,Normal,Independent,,,,,,,,,,,1,1,1,1,1,0,1,2,0,0,0,2,2,2,2,2,0,1,1,1,1,1,1,1,0,1,0,10,3,2,1.1,15,1
+16647238,"3VD
+Post CABG 2/12/2019",Within range ,HbA1C 8.4,Unsure,,Work related stress,Smoker,Not on die control,25,0.66,141bpm (80% of maximal age predicted heart rate),4.6,Moderate ,,M,48,Married,Family,,Nil,3-4 times/week,30 minutes per session,5,5,5,5,Good,Independent,Independent,Normal,Normal,Indepenent,2,10 mins,101,11 - 12,"Strengthening exs
+ UL- 1bs (5exs), 10 reps x 2 sets",10,2,1bs (5exs),,,0,1,0,0,1,0,0,2,0,0,0,1,1,2,1,2,0,3,3,1,1,1,1,1,0,1,1,10,2,2,1.1,10,2
+16698983,"HPT
+Hypercholesterolemia
+BE POAG
+Achalasia of cardia",Controlled,Nil - HbA1c: 5.3%,Nil,"Brisk walking about 40mins ; 2 -3 x a week
+regular",Nil,"Quit for 20 years, in maintenance phase","Home cooked food more, takes most fish and vegetables
+- seen by dietitian",23.64,0.42,123 (90% of APMHR),7,Moderate,Chronic ischemic heart disease (New Case) (Provisional),M,86,Married,Family,Stairs : FOS / Steps,Nil,2-3 times/week,30-40 minutes per session,5,5,5,5,Good,Independent,Independent,Normal,Slightly kyphotic,Independent,3,10 mins,100,11,,,,,,,0,0,0,1,0,0,0,1,0,0,1,2,2,2,1,2,0,2,4,1,1,1,1,0,0,3,1,10,3,2,1.1,15,1
+16939220,"NKDA
+IHD- angioplasty done
+Dyslipidemia
+Depression under PSY
+Erectile Dysfunction and possible hypogonadism under URO",No,"IGT, HbA1c: 6.1 (22/10/2020)",yes Strong FH of IHD. has FH of HPT and DM,"Yoga half an hour per day everyday
+regular","Stressor: recent job retrenchment, has occasional suicidal thought, no sucidial attempt previously under PSY f/p, patient keen to see psy",Ex-smoker (Quit 10 years ago),"Controlled, mostly steam and light fry with olive oil",23.7,0.67,103 (60% of APMHR),7,Low,Triple vessel disease - post CABG,M,51,Single,Alone,Lift landing,"Social drinker for 15 yrs, stopped for 7 mths",3-4 times/week,20-30 minutes per session,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,3,10 mins,96,12,"Strengthening exs
+ - UL (5exs) - 2lbs , 15reps x 2 sets - RPE10
+ - LL (4 exs) - 1 kg , 15 reps x 2 sets - RPE10",15,2,(5exs) - 2lbs,(4 exs) - 1 kg,,0,0,1,1,1,0,1,1,1,1,0,1,2,0,0,2,2,3,3,1,1,1,1,1,0,1,0,10,3,2,1,15,2
+55,"Premorbid NKMI
+Anterior MI Killip 1 July 2020
+Angiogram (7/7/2020
+Unstable angina 28/8-1/9/2020",Nil,Nil HbA1c: 5.4,Nil of IHD,Prior to MCO exercise 120min/week,Nil," Ex smoker, stopped in March 2020 (previously 6 packed years)","Claim taking care of his diet - less meaty food, taking fried food and oats",20,0.59,166 (93% of APMHR),7,Moderate,IHD,M,44,,,,,"120 min/week
+
+2",,5,5,5,5,Good,Independent,Independent,Normal,Good,Independent,2,10 mins,128,9,"Strengthening exs (15x1set)
+ - both UL 5exs
+ - both LL 4exs",15,1,5 exs,4exs,,0,0,0,0,0,0,0,1,0,0,0,2,2,2,2,2,0,2,0,1,1,1,1,1,0,1,1,10,2,2,1.1,15,1
+16988795,"Unstable angina 
+GERD
+Dyslipidemia",Home BP around 130/80,No DM-fasting blood glucose: 4.47 (27/10/2020),"yes Father has IHD, hypertension, mother has DM, no family history of dyslipidemia","Brisk walking 5 times /week (50 mins per session)
+regular",Nil,Non smoker,No diet control,22,0.65,162 (76% of age predicted max HR),12.8,Low,,M,61,,,,Occasional social drinker for 5 yrs,5 times /week,50 mins per session,5,5,5,5,Good,Independent,Independent,Normal,Good,Independent,5,10 mins,122,12,"Strengthening exs (15x2sets)
+ - both UL 5lbs 5exs
+ - both LL 4lbs 4exs",15,2,5lbs 5exs,4lbs 4exs,,0,0,1,1,0,0,0,1,0,1,0,1,2,2,2,2,2,5,5,1,1,1,1,1,0,2,0,10,5,5,1.1,15,2
+17229847,"HPT
+Dyslipidemia
+DM - on OHA
+IHD - Severe 3VD",Controlled,HBA1c: 6.1%,yes Both parents has IHD,Nil,"Stress at workplace, mainly due to lack of rest (mainly rest once/week), coping with it so far","Still smoking, reducing from 16 stick/day-->8 stick/day,contemplation stage, smoked for about 32 years, main obstacle to quit: smoke when boring","Controlled 
+",24.5,0.66,140 (83% of max predicted HR),10.1,Low to moderate,,M,56,Married,Familly,Stairs : FOS / Steps,Nil,7 times/week,10-15 minutes per session,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,,,,,"Strengthening exs
+ UL- 1 lbs (5exs), 10 reps x 1 set, RPE 12
+ LL- 1 kg (3exs), 10 reps x 1 set, RPE 12",10,1,1 lbs (5exs),1 kg (3exs),12,0,0,1,0,1,0,1,1,1,1,0,2,2,2,2,2,0,0,1,1,1,1,1,1,0,1,0,10,3,1,1,10,1
+17782341,"IHD- 3VD
+BPH
+CKD stage 2
+Left cerebellar hemorrhage with intraventricular extension causing acute hydrocephalus (21-24/9/2020)","On T. amlodipine 10mg OD, T. perindopril 8mg OD, T. bisoprolol 7.5mg OD",HbA1C (5/10/20): 5.3%,No family history of cardiac issue. hypertension - mother. no family history of diabetes ,"Training - jogging 1.5km for twice a week during training. Gym one hour a week - cycling and treadmill
+regular",Nil, Non smoker,"Taking outside food mostly, no diet control",29.79,0.59,139(85% of age predicted MHR),7,Low,"IHD -3VD with ISR
+- post PCI Feb 2020",M,60,Married,Familly,Lift landing,,2 times/week,60 mins per session,5,5,5,5,Stable,Independent,Independent,Normal,Normal,Indepenent,4,10 mins,108,12,,,,,,,0,0,0,1,0,0,0,2,1,0,0,2,2,2,2,2,0,2,6,1,1,1,1,1,0,2,0,10,4,2,1.1,15,1
+18219373,"Acute inferior posterior MI, Killip 1
+DM
+Spinal stenosis over L4-S1
+CKD Stage 3A 
+HPT","Yes, Systolic range 110-127. Diastolic range 73-84",HbA1c 7.3%,"yes Strong Family history of IHD or cardiac problem
+- two brothers passed away due to heart attack",Gardening ,None,Non smoker,Eat home cooked meal with lot of vegetables and fruit,27,0.56,138 (94%),4.9,Moderate,"Chronic ischaemic heart disease, unspecified (PCI to LAD (2 stents)) (New Case) (Provisional",M,76,Married,Familly,"Stairs : FOS / Steps,",Nil,5 times/week,60 minutes per session,5,5,4,5,Good,Independent,Independent,Normal,Normal,,1,10 mins,105,11,"Strengthening exs
+ - UL- 1lbs (5exs)
+ - LL- 1kg (2exs)",,,1lbs (5exs),1kg (2exs),,1,1,1,0,0,0,0,2,0,0,0,2,1,2,2,2,0,5,6,1,1,1,1,1,0,2,1,10,1,1,1,15,1
+18634079,"DM
+Anteroseptal Lateral MI, Killip 1
+",Nil,Type 2 DM HbA1C: 9.8 % on OHA,yes IHD: Brother,Golfing EOD,Nil,"Ex-smoker for 10 years, stopped smoking in 1987",Not compliant to diet control,24.8,0.5,127 (81% of age predicted max HR),12.8,Low,,M,66,,,,,,,5,5,5,5,Good,Independent,Independent,Normal,Normal,,2,10 mins,112,11,"Strengthening exs 15x1set
+ - Both LL 1kg (4exs)",15,1,,1kg (4exs),,0,1,1,0,0,0,0,1,0,0,0,2,2,2,2,2,0,0,0,1,1,1,1,1,0,2,0,10,2,2,1,15,1
+20868405,"CAD
+TVD with failed RCA CTO
+DM
+Stroke",BP today 173/86 ( at rest),HbA1C : 9.6 (21/2/2020) from 11.3 (6/8/2019) on insulin BD regime,Nil,Not exercising,Nil,Nil,Not compliant to diabetic diet,29.67,0.44,104(71% of age predicted MHR) - patient on bisoprolol,7,Moderate,"CAD with ISR
+- post PCI to RCA on October 2019",M,78,,,,,No,,4,4,4,4,Good,Independent,Independent,Normal,Normal,Indepenent,3,,,,,,,,,,0,1,0,0,0,0,0,2,0,0,1,1,2,2,2,2,0,0,0,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+21248125,"DM
+HPT
+Dyslipidemia
+CABG 
+Ankylosing spondylosis",Yes,Hba1c 7.4% Nov 2021,yes Has second degree family H/O CVD -IHD & stroke,Brisk walking 250m,Nil,"Stopped smoking 3 months ago, no cravings",On home cooked meals,26.9,0.62,116 (67% APMHR),7,Moderate,Post CABG,M,50,Single,Family,Lift landing,,,,5,5,5,5,Stable,Independent,Independent,Normal,Normal,Independent,3,10 mins,100,13,,,,,,,1,1,1,0,0,0,0,2,0,1,0,1,2,0,1,2,0,0,0,1,1,1,1,1,0,1,1,10,3,2,1.1,15,1
+21255105,"DM
+HPT
+Dyslipidemia",Yes,HbA1c 1/9/21: 10.2,Nil,Does not exercise,Nil ,Nil,"Controlled, reduces consumption of snacks and sugar
+",,0.59,139 (87% of max predicted),6.2,Moderate,Pre CRP 2,F,64,Married,Family,"Stairs : FOS / Steps,",,No,,5,5,5,5,Good,Independent,Independent,Normal,Normal,Indepenent,2,10 mins,105,9,"Strengthening exs (15x1set)
+ - both UL (2lbs) -5exs
+ - both LL (1KG) - 2exs",15,1,(2lbs) -5exs,(1KG) - 2exs,,1,1,0,0,0,0,1,1,0,1,0,2,2,2,1,2,0,0,0,1,1,1,1,1,1,2,1,10,2,2,1,15,1
+21518939,"Hypothyroid post thyroidectomy
+T2DM >30 years
+HTN
+Post CABG on 6/10/20",Home BP : 126-130/68-77,Latest HbA1c - 7.9% (July 2020),"yes Elder brother has IHD, elder sister has IHD and done CABG","Brisk walking 30 minutes 2X / day
+regular",Nil,Ex smoker (stopped 30 years ago),"Not compliant on diet control, seen by dietitian previously",29.8> 27.,0.73,129 (86% of age predicted max HR),4.6,Moderate,,M,73,Married,Family,"Stairs : FOS / Steps,",Non alcoholic,2 times/day,30 minutes per session,5,5,5,5,Good,Independent,Independent,Normal,Normal,Indepenent,2,10 mins,100,11,"Strengthening exs (15x1set)
+ - both LL 1kg 4exs",15,1,,1kg 4exs,,0,1,1,1,0,0,0,2,0,0,0,2,1,2,1,2,0,2,3,1,1,1,1,1,0,2,1,10,2,2,1,15,1
+21926255,"HPT
+DM
+Dyslipidemia
+right sided STEMI,
++typical angina",Controlled,HbA1c 7.1% in 18/12/2020,Nil,"Since 40yo has been going to gym 3x a week, cycling, treadmill, free weights & lifted weight ~ 15kg. has gym equipments at home
+regular",Lot of stress on deadlines for publishing work,Non smoker,"Controlling diet, low sugar, low cholesterol, low salt",23.29,0.64,150 (101% of APMHR),11.2,Moderate,,M,75,,,,No,3 times / week,Lifted weight ,5,5,5,5,Fair in standing,Independent,Independent,Limping,Normal,Indepenent,2,10 mins,115,13,"Strengthening exs (15x1set)
+ - both LL 1kg (5exs)",15,1,,1kg (5exs),,0,1,0,1,1,0,0,1,0,1,0,2,2,2,2,2,0,3,0,1,1,1,0,1,0,2,1,10,2,2,1,15,1
+21970173,"Acute inferoposterior MI, Kilip 1 (single vessel disease-RCA; stented)
+DM",Nil,DM - Hba1c: 6.2 (30/10/2020) on OHA,yes First degree relative IHD (father),"Brisk walking half an hour everyday
+regular",manageable ,"Ex smoker quit 10 years ago (started at 14 years old, max 2 packs a day but as he got older","On diet control, seen dietitan already, on weight loss diet",32,0.49,140 (79% of age predicted max HR),7,Moderate,,M,46,Married,Family,"Stairs : FOS / Steps,",Denies,7 times/week,30 minutes per session,5,5,5,5,Stable,Independent,Independent,Normal,Normal,Independent,5,10 mins,110,12,,,,,,,0,0,1,1,0,0,0,3,0,0,1,1,2,2,1,2,0,0,3,1,1,1,1,1,0,1,1,10,5,2,1.1,15,1
+22186263,"Acute anterior and inferior MI (Killip 1)
+Post thrombolysis on 14/3/21
+Angiogram (17/3/21)",No known to have hypertension,HbA1c 5.2%,Nil,"Daily, plays soccer ~ 2hr, used to join league soccer tournament
+regular","Due to family issue, does not have good relationship with children","Heavy smoker, 20 sticks/day - keen on quitting",Not on restriction,,0.7,148 bpm (86% of Max age predicted HR),10.1,Low,,M,50,Married,Family,"Stairs : FOS / Steps,",Nil,6-7 times/week,30 - 40 min/day,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,3,10 mins,127,13,"Strengthening exs : 15x x 1set
+ - UL (2lbs) , 5exs
+ - LL (1.5kg) , 4exs",15,1,"(2lbs) , 5exs","(1.5kg) , 4exs",,0,0,0,1,0,0,0,1,0,0,0,2,2,2,1,2,0,6,4,1,1,1,1,1,0,1,0,10,3,2,1.5,15,1
+22214771,"DM
+HPT
+CCF with IHD (under ROF 1L/day)
+Henioplasty","Borderline, off perinopril on Jun",HbA1c 6.3,"yes Mother had IHD, father has IHD",Walking and cycling,Non specific,Non smoker,"Vegetarian, less salt",20,0.45,120/min (79% of APMHR),9.4,Moderate ,Chronic ischemic heart disease (Follow Up) (Provisional);,M,72,,,,,7 times/week,30 minutes per session,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,2,10 mins,95,13,,,,,,,0,0,1,0,0,0,0,1,1,0,1,1,2,2,2,2,0,0,3,1,1,1,1,1,0,2,1,10,2,2,1.1,15,1
+22248595,"Acute inferior STEMI with posterior involvement
+Typical angina at 6.30pm on 17/5/2021 while watching television
+pain score 6/10
+Angiogram (19/5/21)",Nil,DM - HbA1c 5.5%,,,Coping,"Quit cigarette smoking 3 years ago, stopped vaping 1 year ago",Has started practicing healthy diet,24,0.59,137 (84% of age predicted max HR),10.4,Moderate,Acute myocardial infarction (New Case) (Provisional);,M,60,Married,Family,"Stairs : FOS / Steps,",,Nil,,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,3,10 mins,107,13,"Strengthening exs (15x1set)
+ - both UL 3lbs (5exs)
+ - both LL 1.5kg (4exs)",15,1,3lbs (5exs),1.5kg (4exs),,0,0,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0,0,0,1,1,1,1,1,0,2,1,10,3,3,1.5,15,1
+22261869,"NSTEMI
+Acute Inferior STEMI with Right and Posterior wall involvement (Killip I)
+Dyslipidemia",Controlled,"No DM, Hba1c- 5.5% (3/4/2020)",Nil of IHD,"Jogging 2x/week, each time 45 minutes
+regular",Nil,"Smoke for 26 years, now gradually reducing amount of cigarettes/day, currently smoke 10 cigarettes/day, keen to be referred to stop-smoking clinic",Less fried food ,28.61,45,150 (87% of APMHR),10.1,Moderate,Acute coronary syndrome (Provisional);,M,51,Married,Family,,Nil,2 times/week,45 minutes per session,5,5,5,5,Good,Independent,Independent,Normal,Normal,,4,10 mins,121,11,"Strengthening exs
+ - UL ( 5exs ) 3lbs - 15x 2set
+ - LL ( 4exs ) 1.5kg - 15x x 2set",15,2,( 5exs ) 3lbs,( 4exs ) 1.5kg,,0,0,0,1,0,0,0,2,0,1,0,2,2,2,1,2,0,2,4,1,1,1,1,1,0,1,1,10,4,3,1.5,15,2
+22527192,"HPT
+BPH
+Dyslipidemia
+IHD",,,,,,,,,0.59,142 (95%),12.8,Low,Missed Anterior MI,M,75,,,,,,,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,3,10 mins,112,13,,,,,,,0,0,0,0,0,0,0,1,1,1,0,2,2,2,2,2,0,0,0,1,1,1,1,1,0,2,0,10,3,2,1.1,15,1
+22638601,"NKDA/NKFA
+HPT 
+Dyslipidemia 
+Hemorrhoids
+Right knee ligament injury under ortho and physio
+Right sided Inguinal hernia operation in July 2020","Yes, diagnosed early this year, compliant to meds",Nil,"Nil
+",Since Sept been walking 10 000 step a day,Nil ,Nil,Previously unrestrained,23,0.65,137(87% APMHR),8.1,Moderate,CAD (Coronary artery disease) (New Case) (Provisional);,M,66,Married,Family,"Stairs : FOS / Steps,",Nil,3-5 times/week,20 minutes per session,5,5,5,5,Stable,Independent,Independent,Normal,Normal,Independent,3,10 mins,113,12,,,,,,,1,0,0,0,0,0,0,1,0,1,0,2,2,2,1,2,0,3,2,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+22751343,"T2DM
+HPT
+Dyslipidaemia
+CKD
+Triple vessel dise
+IDA",Controlled,HbA1c:6.7 (17/2/2020),No family hisotry of IHD,"Brisk walking (10 mins session, everyday)","Retired, working part time in tourism sector, slight stress due to project",Non smoker,"Claim compliant to low fat, low salt diet, taking vegetables, not keen to see dietitian",18.5,0.4,90,4.6,Moderate,"CAD, multiple vessel (Provisional);",M,74,Married,Family,Stairs : 2 FOS / Steps,Non alcoholic,7 times/week,10 mins minutes per session,5,5,5,5,Stable,Independent,Independent,Normal,Normal,Independent,1,10 mins,67,12,,,,,,,0,1,0,0,1,0,0,1,0,0,2,2,1,2,1,2,0,0,1,1,1,1,1,1,0,2,1,10,1,2,1.1,15,1
+23259833,"HPT
+Dyslipidemia
+NSTEMI","Since 10 years ago, already TRO secondary caused on KJMC",(borderline) Hbaic 6.3 (9/2021) currently on T. Metformin,"yes Both parents had IHD (father sudden deaths/ACS at father 50s, mother at 60's)","Playing badminton 2times/week, started about 2/12 ago, previously nil exercise",Manageable ,"Active smoker 10 pack-years, curently reduced to 5 cigarrtes/day, planned","High carb, high fat, high salt and sugar",36.08,0.59,185 (76% of APMHR),13.4,Low,,M,37,,,,,2 times / week,,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,3,10 mins,119,15,,,,,,,0,0,1,0,0,0,0,3,0,1,0,1,2,2,2,2,0,2,0,1,1,1,1,1,0,0,0,10,3,2,1.1,15,1
+25121553,"NKMI
+NKDA
+Acute extensive anterior ST elevation MI Killip ",,Yes,yes Family history of IHD (father),"Daily hiking 3km last one mth
+regular",Nil,Non smoker,No restriction,,0.59,160 (85% of MHR),7,Moderate,"IHD - 1 VD
+- post PCI to LAD",M,35,,,,,5 times/week,Slow jogg & walking but not monitoring HR,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,3,10 mins,110,11,,,,,,,0,1,1,1,0,0,0,1,0,0,0,2,2,2,2,2,0,5,0,1,1,1,1,1,0,0,1,10,3,2,1.1,15,1
+25130641,"HPT
+Acute inferior MI with posterior involvement killip I
+Primary PCI done to mid to distal LCx","BP around 140++/80, compliant to meds",Non diabetic -latest HbA1c 5.5,"Father, yes","Daily walk - 40 minutes per session, also playing golf
+regular",Nil,Stopped smoking >40years ago,"Balanced - low salt, less oil. occasionally eat outside food",24.5,0.59,115 (74% of MHR),7,Low,"CAD (Coronary artery disease) (Confirmed);
+Post PCI to prox to distal LAD with DES and POBA to diagonal 1 (New Case) (Confirmed);",M,67,,,,,,,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,4,10 mins,106,13,"Strengthening exs (15x1set)
+ - UL 3lbs -5exs
+ - LL 1kg - 4exs",15,1,3lbs -5exs,1kg - 4exs,,0,0,1,1,0,0,0,1,0,0,0,1,2,2,2,2,0,0,0,1,1,1,1,1,0,2,0,10,4,3,1,15,1
+28540689,2 vessel disease ,Controlled ,HbA1c: 5.2,No FHx of IHD,No,,Non smoker,Good dietary habits,,0.59,96bpm (67%),7,Low,CAD (Coronary artery disease) (Provisional);,F,80,,,,,,,5,5,5,5,Good,Independent,Aided : Walking stick,Normal,,Independent,2,10 mins,95,12,"Strengthening exs (15X1set)
+ - UL 2lbs (5exs) RPE:12
+ - LL 1kg (4exs) RPE:12",15,1,2lbs (5exs),1kg (4exs) ,12,0,0,0,0,0,0,0,1,0,0,0,1,2,2,2,2,0,0,0,1,1,0,1,1,1,3,0,10,2,2,1,15,1
+28843622,"Post kidney transplant 
+Coronary angiogram",Nil ,Nil,Nil,Already went for hill climbing,Nil,"Ex-smoker quit many years ago, ",Unrestrained ,25,0.69,153 (84% of APMHR),10.1,,,M,40,Marriage,Family,,Drinks alcohol 1 glass/month,,,5,5,5,5,Stable,Independent,Independent,Normal,Normal,Independent,5,10 mins,115,12,Warm up with stretching exercises,,,,,,0,0,0,0,0,0,0,2,0,0,0,2,2,2,1,2,0,0,0,1,1,1,1,1,0,1,1,10,5,2,1.1,15,1
+29224497,"HPT
+Dyslipidemi
+IHD
+NSTEMI ",BP: 107-119/58-69,"Pre-diabetes, HbA1c: 6.1% (Jan 2020)",yes IHD: Father,"Brisk walking 30 mins per day everyday
+regular","Stressful work, working almost everyday, manage to cope so far","Quit smoking since July, active smoker since 9 years old before this","Outside food more, takes fibers, has already seen dietitian",31,0.65,116 (67% of age predicted max HR),7,Low,,M,50,Married,Family,"Stairs : FOS / Steps,",Nil,7 times/week,30 minutes per session,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,3,10 mins,90,12,,,,,,,0,0,1,1,1,0,0,3,1,0,0,1,2,2,1,2,0,0,3,1,1,1,1,1,0,1,0,10,3,2,1.1,15,1
+31531554,"HPT
+Dyslipidaemia",Controlled,HbA1c: 5.8%,yes Strong family h/o IHD (brothers),"Nil, previously do brisk walking 5 times/week before MI",Nil,Nil,"Home cooked food, taking fibers",26.9,0.48,91,10.7,Moderate,"Acute ST elevation MI, inferior wall (with posterior involvement) (New Case) (Provisional);",M,67,Married,Family,"Stairs : FOS / Steps,",No,Nil,,5,5,5,5,Stable,Independent,Independent,Normal,Normal,Independent,3,10 mins,78,12,,,,,,,0,0,1,0,0,0,0,2,0,0,1,2,2,2,1,2,0,0,0,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+32906239,"IHD with 3 VD
+HPT
+Dyslipidaemia
+BPH",BP controlled,Pre diabetic,Nil,"Swimming, and brisk walking",No stressor,Non smoker,Not particular about diet,20,0.69,120bpm (82%),10.1,Low,,M,76,Married,Family,,Not consume alcohol,,,5,5,5,5,Stable,Independent,Independent,Normal,Normal,Independent,,10 mins,95,12,,,,,,,0,0,0,0,1,0,0,1,1,0,0,2,2,2,1,2,0,0,0,1,1,1,1,1,0,2,0,10,3,2,1.1,15,1
+33815075,"DM
+Myasthenia Gravis",BP: 129/67,"HbA1c on 25 Aug 2020 - 11.9, Glucometer at home 5-6","Father has DM, no family history of IHD","Brisk walking 30mins everyday
+regular",Nil,,"Compliant to diet control, seen by dietitian previously
+",23.58,0.47,133 bpm ( 86% of max predicted 154 bpm),4.6,Moderate,Post CABG on 7/10/2020 (Follow Up) (Confirmed);,M,69,Married,Family,Stairs : FOS / Steps,Nil,"Every morning times/week
+7",30 minutes per session,5,5,5,5,,Independent,Independent,Normal,,Independent,2,10 mins,,,"Resistence exs -
+ UL - 2lbs - 15reps x 1set
+ LL - 1kg - 15reps x 1set",15,1,2lbs,1kg ,,0,1,0,1,0,0,0,1,0,0,1,2,1,2,1,2,0,0,3,1,1,1,1,1,0,2,1,10,2,2,1,15,1
+33927860,"NKDA
+Anteroseptal MI
+anterior STEMI",No HPT-BP: 106/62,Claim no DM-reflo:5.1-5.4,"No family history of DM, HPT, IHD","Walking for 1 hr/ week
+",Nil,"Stopped smoking since admission till now, second hand smoker during working hours
+",No specific control,17,0.4,147bpm (82% APMHR),10,Moderate,CAD,M,42,Married,Family,Lift landing,Nil,1-2 times/week,15-30 minutes per session,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,4,10 mins,109,10,"Strengthening exs (15x1 set)
+ - UL (5 exs) - 2lbs : RPE: 10
+ - LL (2 exs) - 1kg : RPE :10",15,1,(5 exs) - 2lbs,(2 exs) - 1kg,10,0,0,0,0,0,0,0,0,0,0,2,2,2,2,1,2,0,1,3,1,1,1,1,1,0,1,1,10,4,2,1,15,1
+33947861,"NKFDA
+
+Mitral valve prolapse secondary to CRHD",Nil,"DM denied, no latest HbA1c",Nil,Unable to exercise for the past 1 year due to dyspnoea,Nil,Nil,Claimed to be taking healthy diet,26.1,0.62,158 (86% APMHR),7,Moderate,Rheumatic mitral valve stenosis (Follow Up) (Confirmed);,F,40,Married,Family,Stairs : 2 FOS / Steps,Nil,,,5,5,5,5,Stable,Independent,Independent,Normal,Normal,Independent,3,10 mins,123,12,,,,,,,0,0,0,0,0,0,0,2,0,0,0,2,2,2,1,2,0,0,0,1,1,1,1,1,1,1,1,10,3,2,1.1,15,1
+34224795,"IHD
+T2DM
+HPT
+AF/ Atrial flutter
+Dyslipidemia",Yes,"Yes, HbA1C 9.5% (6/4/21)",Nil,Nil,Nil,Ex-smoker - stopped since March 2021,"On restriction - low fat/sugar/salt, not keen for dietitian referral",24,0.53,90 bpm (57% of Max age predicted HR),3.5,Moderate,,M,63,,,,Nil,Nil,,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,2,10 mins,84,13,,,,,,,1,1,0,0,0,0,0,1,1,1,0,0,1,2,2,2,0,0,0,1,1,1,1,1,0,2,1,10,2,2,1.1,15,1
+34344008,"BPH - TURP
+TKR
+Severe AS with single vessel disease  ",130/70mmHg,"No, HbA1c: 5.3%",Nil,"Doing stretching about 40 min/day and walking about 30 minutes
+regular",Nil,"Ex smoker, quit about 40 years ago","Home cooked food, more steam food, takes fibres",22.8,0.4,102 (69% of APMHR),7,Moderate,"IHD
+- Post CABG",M,76,Married,Family,Lift landing,No,7 times/week,"40 min/day, walking about 30 minutes",5,5,5,5,Stable,Independent,Independent,Normal,Normal,Independent,,10 mins,77,13,,,,,,,0,0,0,1,0,0,0,1,0,0,2,1,2,2,1,2,0,0,4,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+34364352,"DM
+HPT
+Dyslipidemia
+BPH
+NSTEMI",BP at home: 126-150/70-80,HbA1c 6.8%,yes Brother had IHD,"Brisk walking 30mins everyday
+regular",Nil,Previously passive smoker (colleague smoking at workplace),Diet cotrol,30.9,0.45,112 (73% APMHR),4.6,Moderate,,M,69,Married,Family,,Nil,1-2 times/week,20-30 minutes per session,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,5,10 mins,110,11 - 12,"Strengthening exs :
+ - UL (5exs ), 3lbs : 15x x 2set
+ - LL(4exs) , 1.5kg : 15x x 2set",15,2,"(5exs ), 3lbs","(4exs) , 1.5kg",,0,1,1,1,0,0,0,3,0,1,1,1,1,2,1,2,0,1,3,1,1,1,1,1,0,2,1,10,5,3,1.5,15,2
+34545966,"HPT
+BPH
+Anteroseptal STEMI Killip I",Home BP: 130-140/80-90,"Pre-diabetes, HbA1c:6%",No IHD,"Walking about 4000 steps/day for 5 days/week
+regular",No,Non smoker,"Mostly talking steam food, more vegetables now",24.55,0.59,139(90% of MHR),7,Low,Acute myocardial infarction (New Case) (Provisional);,M,68,Married,Family,,Nil,5-6 times/week,60 mins minutes per session,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,4,10 mins,111,12,"Strengthening exs : 15x x 1set
+ - UL (5exs) 2lbs
+ -LL (4exs) 1.5kg",15,1,(5exs) 2lbs,(4exs) 1.5kg,,0,0,0,1,0,0,0,1,0,0,0,2,2,2,1,2,0,5,6,1,1,1,1,1,0,2,0,10,4,2,1.5,15,1
+35169056,"T2DM on OHA for 10 years
+HPT
+Rght thalamic bleed
+OSA
+Right thalamic hemorrhagic with intraventricular extension and midbrain infarct 
+Left foot wound debridement and left little toe ray amputation for left little toe infection",Well controlled ,T2DM Reflo at home single digit HbA1c 5.3%,Nil,"Only did walking very minimally, very minimal distance covered as patient had left hemiparesis and walks with walking frame",manageable ,Nil,"Trying to avoid rice, taking fruits and dry crackers. takes more fish than other poultry",39,0.43,114 (65% of max predicted HR) --> 98 (56%max predicted HR),7.7,Moderate,,M,48,,,,,,,5,4,5,2,Reduce standing balance d/t pain,Assisted,,Limping,Normal,Independent,5,20 mins,,11,"Strengthening exs (15x2set)
+ - both UL - 2lbs dumbell (5exs)
+ - 1.5kg sandbag both UL for punching exs",15,2,2lbs dumbell (5exs),1.5kg sandbag,,0,0,0,0,0,0,0,3,0,0,1,1,2,2,2,2,0,0,0,0,0,1,0,1,0,1,1,20,5,2,1.5,15,2
+35581535,"Dyslipidemia
+CAD
+",No,No,yes IHD (mother and brother),No regular exercise,Nil,"Ex-smoker
+(45yr, 5-6 sticks/day)",No specific restriction,Not clinically obese,0.59,133,4.6,Moderate,Atherosclerotic heart disease (Confirmed);,M,70,,,,,3-4 times/week,10 minutes per session,5,5,5,5,,,,Normal,,,3,10 mins,93,13,,,,,,,0,0,1,0,0,0,0,1,0,1,0,2,1,2,2,2,0,3,1,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+35597711,"HPT
+Dyslipidaemia
+DM
+IHD -3VD",Well controlled 120-130 / 80,6-7 at home,yes Family history of IHD,"Walking and stretching 1H perday
+regular",Own a firm. Works as Pesuruhjaya Sumpah before,Non smoker,Has tight control,23.6,0.65,123 (80% of MHR),5.5,Moderate,"IHD - 3VD
+- post CABG",M,72,,,,,3-4 times/week,20 minutes per session,4,4,5,5,Good,Independent,Independent,Normal,Good,Independent,2,10 mins,97,13,,,,,,,0,0,1,1,0,0,0,1,1,0,0,1,1,2,2,2,0,3,2,1,1,1,1,1,0,2,1,10,2,2,1.1,15,1
+35605681,"STEMI 
+Deconditioning
+Left upper arm NF: post SSG
+Pressure injury: healing stage 4 sacral sore and occipital wound",No,"No DM
+- HbA1c 5.9 %",No family history of IHD,Doing to gym for strengthening exercise,"Nil
+",nil,"Ex-smoker, stopped since had MI in Nov 2019",24,0.44,146 (86% of age predicted max HR),13.7,Moderate,,M,54,,,,"Casual drinker, drink red wide 2 glasses once or twice a months",,,5,5,5,5,Good,Independent,Independent,Normal,Good,Independent,3,10 mins,110,13,"Strengthening exs
+ UL- 3lbs (5exs), 15 reps x 1 sets RPE 9
+ LL- 1.5kg (4exs), 15 reps x 1 sets RPE 9",15,1,3lbs (5exs),1.5kg (4exs),9,0,0,0,0,0,0,0,1,0,0,1,2,2,2,2,2,0,0,0,1,1,1,1,1,0,1,1,10,3,3,1.5,15,1
+35622821,"HPT
+CAD with 2VD
+Newly diagnosed DM
+Left knee OA
+Slipped disc - but currently denies LBP
+COPD","Well controlled , with medication",HbA1c latest in record 6.6 --> 6,yes Strong family history of IHD,"Claimed does light gardening work, walking - 20mins/day
+regular",Nil,"Ex-heavy smoker
+-stopped smoking 10 years ago","Has reduced sugar, coffee intake, tends to munch",,0.65,142 (91% APMHR) --> 144,7,Moderate,CAD (Coronary artery disease) (New Case) (Confirmed);,M,68,,,,,,,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,2,10 mins,105,12,"Strengthening exs (15x2sets)
+ - both LL 1kg (5exs)
+ - both UL 2lbs (4exs)",15,2,2lbs (4exs),1kg (5exs),,0,1,1,1,0,0,0,1,0,0,0,2,2,2,2,2,0,0,0,1,1,1,1,1,0,2,1,10,2,2,1,15,2
+35633527,"Muscular VSD (asymptomatic)
+Bicuspid aortic valve",No,"No DM
+HbA1c - 5",No family Hx of IHD or cardiac problem,"Walk around 1 hr/day everyday
+regular",None,Non smoker,Mixed of home cooked and buy outside food,21.8,0.67,171 (89% of APMHR),3.5,Moderate,"Muscular VSD
+-Post VSD closure",F,31,Married,Family,Stairs : 2 FOS / Steps,,7 times/week,60 mins minutes per session,,,,,,,,,,,2,10 mins,130,11,"Strengthening exs (15x1set)
+ - both UL 2lbs
+ - both LL 1KG",15,1,2lbs,1KG,,0,0,0,1,0,0,0,1,0,0,0,2,1,2,1,2,0,0,6,1,1,1,1,1,1,0,1,10,2,2,1,15,1
+35634500,"Left MCA Infarct (cardioembolic stroke) 
+LV clot, diagnosed in Dec 2019
+Impression - 3VD",Well controlled,No T2DM HbA1c 5.9%,Nil,Only walking 30 minutes,Nil,"Stopped smoking since stroke, started smoking since aged 16",Sometimes outside food,23.29,0.5,160,7,Moderate,,M,52,Single,alone,"Stairs : FOS / Steps,",,,#0 mins minutes per session,5,5,5,5,Stable,Independent,Independent,Normal,Normal,,3,10 mins,110,12,,,,,,,0,0,0,0,0,0,0,1,0,0,0,2,2,0,0,2,0,0,0,1,1,1,1,1,0,1,1,10,3,2,1.1,15,1
+35668920,"DM
+Diabetic nephropathy (eGFR<30)
+Cataract 
+HPT
+Dyslipidemia
+2VD",145-153/80-91mmHg (Under Amlodipine 10mg OD/Perindopril 8mg OD),HbA1c: 7% (Feb 2020),yes Both brother and 1 sister have IHD,Brisk walking every day about 30 minutes,Nil,"Ex smoker, quit about 20 years ago","Home cooked food, 1 cup of Nescafe/day, takes fibers, less oily and fatty food",29.7,0.45,134,5.9,Moderate,"CAD, double vessel (Follow Up) (Confirmed):- LAD and LCx;",M,67,Married,Family,Stairs : 2 FOS / Steps,Social drinker but rarely,7 times/week,30 mins minutes per session,5,5,5,5,Stable,Independent,Independent,Normal,Normal,Independent,1,10 mins,110,13,,,,,,,0,0,1,0,0,0,0,2,0,1,1,2,1,2,1,2,2,0,3,1,1,1,1,1,0,2,1,10,1,2,1.1,15,1
+35694755,"BPH
+Dyslipidaemia
+Gastritis - under gastro
+Two vessel disease",Claims BP is less than 140/90,Nil. Hba1c 5.4%,yes Strong family history of IHD - brothers,No regular exercise,Nil,Non smoker,"Not on diet control
+",24.46,0.5,132,10,Low,,M,66,,,,,,,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,3,10 mins,104,13,"Strengthening exs (15x1set)
+ - both UL 3lbs (5exs)
+ - both LL 1.5 (4exs)",15,1,3lbs (5exs),1.5 (4exs),,0,0,1,0,0,0,0,1,0,0,0,2,2,2,2,2,0,0,0,1,1,1,1,1,0,2,0,10,3,3,1.1,15,1
+35725362,"HPT
+IHD",,HB11c: 5.8%,yes Mother has IHD,"Playing tennis once every 2-3 week, each time about 40 minutes, started since end of June",At work due to lack of rest,"Still smoking, 2-3 sticks/day, smoking for about 15 years","Home cooked food, less oily/sugar/salty food, takes fibers, not seen dietitian before",24.9,0.59,153 (85% of MHR,10.1,Low,"IHD - single vessel disease
+- post PCI to LAD (March 2020)",M,45,Married,Family,,Nil,3-4 times/week,40 minutes per session,5,5,5,5,Good,Independent,Independent,Normal,Good,Independent,3,10 mins,131,8,"Strengthening exs (15x1set)
+ - both UL -1.5kg 4exs",15,1,1.5kg 4exs,,,0,0,1,0,0,0,0,1,1,0,0,2,2,2,1,2,0,3,4,1,1,1,1,1,0,1,0,10,3,2,1.1,15,1
+35726650,"DM
+HPT
+NSTEMI",Yes,"Yes, Hba1c 6.7% (30/3/21)",Nil,"3x/ week, slow walking for 1 HOUR(",nil,nil,"More to home cooked food, on restriction",20.8,0.65,113 (74% of APMHR),3.5,Moderate,"HX of CABG (Follow Up) (Provisional);
+CAD, multiple vessel (Follow Up) (Confirmed);",M,70,Married,Family,Apartment no lift,Nil,2-3x/ week,60 mins pers session,3,3,4,4,Fair in standing (dynamic),Independent,Independent,Normal,Normal,Independent,2,10 mins,101,13,"Strengthening exs (15x1set)
+ - both UL 2lbs (5exs)
+ - both LL 1kg (4exs)",15,1,2lbs (5exs),1kg (4exs),,1,1,0,0,0,0,0,1,0,0,0,1,1,2,1,2,0,2,6,1,1,1,1,1,0,2,1,10,2,2,1,15,1
+35726923,IHD ,Nil,"Nil, HbA1c 5.8",Nil,Daily 10-15 minutes,Nil,"Yes--> smoked daily about 3-4 stick/day, smoked for past 36 years, already stopped smoking now","Home cooked food, takes fiber, santan food once/week",22.6-->24,0.59,139 (85% of APMHR),10.1,Low,Acute Inferoposterior RV Infarction with sinus arrest (New Case) (Confirmed),F,60,,,,,,,5,5,5,5,Good,,,,,,3,10 mins,109,12,"Strengthening exs 
+(UL - 5 exs, 1lbs),
+(LL- 1kg-4exs), 15 reps, 1 set",15,1,"5 exs, 1lbs",1kg-4exs,,0,0,0,0,0,1,0,1,1,0,0,2,2,2,2,2,0,0,0,1,1,1,1,1,1,2,0,10,3,1,1,15,1
+35729316,"HPT
+NSTEMI",Yes,Not know to be diabetic (HbA1C 4.3%),yes Father has IHD,"already started brisk walking and jogging at park 180min per week (3 times, hourly each session)
+
+regular",Tolrerable,"Already stopped smoking since Feb 2020, previously 30 pack years",Just started to control diet,32,0.59,144 (83% of peak age predicted HR),11.7,Moderate,,M,50,Married,Family,,Nil,3-4 times/week,60 minutes per session,5,5,5,5,Good,Independent,Independent,Normal,Good,Independent,3,10 mins,108,13,"Strengthening exs (15x1set)
+ - both UL 3lbs (5exs)
+ - both LL 1kg (4exs)",15,1,3lbs (5exs),1kg (4exs),,1,0,1,1,0,0,0,3,0,0,0,2,2,2,1,2,0,3,6,1,1,1,1,1,0,1,1,10,3,3,1,15,1
+35840791,"DM
+HPT
+Acute inferior STEMI","Controlled, <130/80mmHg",Yes. HbA1C: 6.4%,Nil IHD,Nil,denied,"Yes, smoking for the past 30 years, 30 pack year, in contemplation phase of quit smoking","Home cooked home more, taking fibres",Not weight yet,0.59,106 ( 65% from age predicted MHR),3.5,Moderate,"CAD (Coronary artery disease) (New Case) (Provisional);
+
+Acute ST elevation MI, inferior wall (New Case) (Provisional);",M,59,,Family,,,Nil,,5,5,5,5,Stable,Independent,Independent,Normal,Normal,Independent,3,,82,11,,,,,,,0,1,0,0,0,1,0,1,0,0,0,1,1,2,1,2,0,0,0,1,1,1,1,1,0,1,1,10,3,2,1.1,15,1
+35843234,"Dyslipidemia
+Acute lateral STEMI ",Well controlled,HbA1c 5.4%,Nil IHD,"Brisk walking at least 4x/week, each time about 1 hour
+regular",Nil,Nil,"Home cooked food more, less oily food, takes fibre",20.4,0.59,122 bpm (81% of APMHR),8,Low,,F,73,Married,Family,,Nil,4 times/week,60 minutes per session,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,3,10 mins,95,12,"Strengthening exs
+ - UL , 1 lbs , 15x 1 set
+ - LL , 1 kg , 15x 1 set",15,1,1 lbs,1 kg,,0,0,0,1,0,0,0,1,0,1,0,2,2,2,1,2,0,4,6,1,1,1,1,1,1,2,0,10,3,1,1,15,1
+35860498,"NKDA
+HPT
+DM
+",Usually 140/90,HbA1C 19/7/2020 : 7.3%-> 6.4% march 2021,yes Grandfather had heart problem,No regular exercise,Not excessive,"Smoker for 20 years (half pack a day), now vaping a lot, cut down to 8 cigarettes",No diet control. only tries to control sugar intake,28.44,0.5,133 (73% APMHR),11.2,Low,IHD - completed CRP2,M,41,,,,,,,5,5,5,5,Good,,,Normal,,,5,10 mins,124,13,"Strengthening exs 15x x 1set
+ - UL 4lbs (5exs)
+ - LL 1.5kg (5exs",15,1,4lbs (5exs),1.5kg (5exs,,0,1,1,0,0,0,0,2,0,0,0,1,2,2,2,2,0,0,0,1,1,1,1,1,0,1,0,10,5,4,1.5,15,1
+35866364,"NKDA/NKFA
+HPT
+Post anterolateral STEMI",,Non DM HbA1c 5.5%,Nil,Plays table tennis before MCO,Nil,"Non smoler
+",Advised by dietitian,23.7,0.51,"148 ( 103% from age predicted MHR)
+",7,Moderate,"CAD (Coronary artery disease) (New Case) (Confirmed);
+Acute ST elevation MI, anterolateral wall (New Case) (Provisional);",M,79,,,,,,,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,2,10 mins,116,11,"Strengthening exs (15x1set)
+ - both UL 2lbs 5exs
+ - both LL 1kg 4exs",15,1,2lbs 5exs,1kg 4exs,,0,0,0,0,0,0,0,1,0,0,0,2,2,2,2,2,0,0,0,1,1,1,1,1,0,2,1,10,2,2,1,15,1
+35873514,"DM 
+HPT
+Dyslipidaemia
+Acute SDH secondary to fall ","Since 3-4 years ago, on valsartan under KK Cheras, HMBP:","Diagnosed 1 year ago, hba1c 6.3%, on metformin 1gm BD","yes Father: HPT, stroke; mother: DM and HPT","Brisk walking 30-40 mins (3-4 days per week)
+regular","High stress level pre-IHD, now manageable","Active smoker 30 - 40 sticks/day past 35 years, now 3-6 sticks/day","Does not take rice mon - friday, evening: thosai",23.53,0.45,125 (73% of age predicted max HR),10.1,Moderate,,M,54,Married,Family,Lift landing,,3-4 days per week,30-40 mins per session,5,5,5,5,Stable,Independent,Independent,Normal,Normal,,3,10 mins,98,12,,,,,,,0,0,1,1,1,0,0,1,0,0,1,1,2,2,1,2,0,3,4,1,1,1,1,1,0,1,1,10,3,2,1.1,15,1
+35875177,"HPT
+Single functioning kidney since birth
+Adhesion capsulitis of right shoulder
+NSTEMI",Controlled,Nil (HBA1C- 5.8% Jan 2021),yes Father had heart attack at age 50s subsequently went for CABG,"Sedentary currently post CABG, restriction from family members (worried of recurrence)",Nil,"Stopped since 10 years ago, previously 30 pack year","Already seen dietician, already changed his diet since August 2020",30,0.68,147 (94% of age predicted max HR),7,Low,"CAD, multiple vessel (Post CABG) (New Case) (Confirmed);",M,67,Married,Family,,Consumed alcohol 1 pint in couple of months (very occasionally,7 times/week,30 mins per session,5,5,5,5,Stable,Independent,Independent,Normal,Normal,Independent,3,10 mins,114,13,,,,,,,0,0,1,0,0,0,0,3,0,0,0,2,2,2,1,2,1,0,3,1,1,1,1,1,0,2,0,10,3,2,1.1,15,1
+35901487,"HPT
+Gout
+Dyslipidemia",Controlled,No,"nilFather has HPT, elder sister has IHD","Brisk walking 1 hr/ day everyday
+regular",Nil,"Smoked for 30 yrs (20 cigarettes per day), stopped for 1 month, non-alcoholic",Not on diet control,21.71,0.64,126 (76% of APMHR),7,Low,"CCS Grade II
+NYHA II",M,58,Married,Family,,Non alcoholic,7 times/week,60 mins per session,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,3,10 mins,123,13,"Strengthening exs (15x1set)
+ - both LL 1KG (4exs)
+ - both UL 3lbs (5exs)",15,1,3lbs (5exs),1KG (4exs),,0,0,0,1,0,0,0,1,0,1,0,1,2,2,1,2,0,0,6,1,1,1,1,1,0,1,0,10,3,3,1,15,1
+35901492,"DM
+HPT","Yes, HBPM ranging 120-130/70-80mmhg","Yes, hba1c 5.6% (Feb 2021), HBSM- 5-8",Nil IHD,"prior to angiogram
+- Badminton 2x/week, 2 hours/each time
+- Jogging during weekend
+
+regular",Nil,"Ex- smoker- stopped smoking for a month, previously smoked for 23 years- 20cigarettes/day","On restriction, home cooked food",29.67,0.59,157 bpm ( 88% of max predicted 179 bpm),10.1,Low,CAD (Provisional);,M,44,Married,Family,,Nil,2-3 times/week,10-15 minutes per session,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,3,10 mins,124,10 - 11,"Strengthening exs - 15 x 1set
+ - UL ( 5exs ) 2lbs , RPE :10
+ - LL ( 4exs) 1kg , RPE : 10",15,1,( 5exs ) 2lbs,( 4exs) 1kg,10,1,1,0,1,0,0,0,2,0,0,0,2,2,2,1,2,0,2,1,1,1,1,1,1,0,1,0,10,3,2,1,15,1
+35909460,"HPT
+Childhood asthma
+Dyslipidemia
+PCOS",155/96 on perindopril 2mg OD,Non DM: HbA1C 5.6%,Nil,"Brisk walking 20 mins per day everyday
+
+regular",denied,Nil,Controlled,37.6,0.47,134 (74% of MHR),7,Moderate,"HX of aortic valve replacement, mechanical (New Case) (Provisional);",F,42,Single,Family,Lift landing,,7 times/week,20 mins minutes per session,5,5,5,5,Stable,Independent,Independent,Normal,Normal,Independent,3,10 mins,80,12,,,,,,,0,0,0,1,0,0,1,3,0,1,1,1,2,0,1,2,0,0,2,1,1,1,1,1,1,1,1,10,3,2,1.1,15,1
+35937211,"IHD
+APO secondary recurrent NSTEMI
+HTN
+Triple Vessel disease for CABG",,Non DM HbA1c 5.9%,yes Father passed away in 50s due to IHD,No regular exercise,Minimal,"30 years, just quit since cardiac diagnosis, no relapse, no cravings",Regular diet,21.7,0.43,114 (69% of APMHR),6.7,Moderate,TVD post CABG,M,58,Married,Family,"Stairs : FOS / Steps,",,No,,3,5,5,5,Good,Independent,Independent,Normal,Good,Independent,2,10 mins,93,13,"Strengthening exs (15x1set)
+ - both UL 2lbs (5exs)
+ - both LL 1kg (4exs)",15,1,2lbs (5exs),1kg (4exs),,0,0,1,0,0,0,0,1,1,0,1,1,2,2,1,2,0,0,0,1,1,1,1,1,0,1,1,10,2,2,1,15,1
+35940164,"DM
+Acute anteroseptal MI, Kilip 1",Nil,"Yes, HbA1c: 9.6%",No IHD,"About 6000-8000 steps/day
+
+","Moderate , doing restaurant business",No,"Outside food, more oily food, takes fibers",27,0.47,155 (87 % of MAPHR),11.3,Moderate,Acute ST elevation MI (Confirmed);,M,45,,,,,"About 6000-8000 steps/day
+
+7",,5,5,5,5,Good,Independent,Independent,Normal,Good,Independent,3,10 mins,118,12,"Strengthening exs (15x1set)
+ - both UL 3lbs 5exs
+ - bpth LL 1.5kg 4exs",15,1,3lbs 5exs,1.5kg 4exs,,0,1,0,0,0,0,0,2,0,0,1,2,2,2,2,2,0,0,0,1,1,1,1,1,0,1,1,10,3,3,1.5,15,1
+35958364,"NKMI
+Anterior MI - Killip II",Nil,DM nil HbA1c: 4.6%,yes Positive Family history of IHD or cardiac problem - Brother has IHD and stented,Nil past 4 years,Nil,"Ex-smoker , stopped 4 years ago","Previously no restriction, now more healthy",21,0.59,148 (86% APMHR),10.1,Low,Acute myocardial infarction (New Case) (Provisional);,M,52,Married,Family,,Non alcohol consumer,7 times/week,30 mins minutes per session,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,3,10 mins,107,11,"Strengthening exs :
+ - UL (5exs) , 2lbs , 15reps x 2sets
+ - RPE 11 , No s/s
+ - LL ( 4exs) , 1kg , 15reps
+ - RPE 11 , No s/s",15,2,"(5exs) , 2lbs ","(4exs) , 1kg",11,0,0,1,0,0,0,0,1,0,0,0,2,2,2,1,2,0,0,3,1,1,1,1,1,0,1,0,10,3,2,1,15,2
+35966367,"STEMI
+No chronic diseases",,Nil HBA1c 5.9,yes IHD - father,Play badminton 1-2x per week,No,Ex smoker- stopped 1 month ago,No restriction in diet,23.5,0.65,148 (88% of age predicted max HR),7,Moderate,,M,55,Married,Family,Lift landing,,2x per WEEKDAY(,,5,5,5,5,Stable,Independent,Independent,Normal,Normal,Independent,3,10 mins,117,12,,,,,,,0,0,1,0,0,0,0,1,0,0,0,2,2,2,1,2,0,2,0,1,1,1,1,1,0,1,1,10,3,2,1.1,15,1
+35967871,"Severe 3VD
+HTN",Yes,"Nil, no result in EMR",Nil IHD,"Prior to CABG, did some  slow walking
+",Nil,"Ex smoker -stopped since a month ago, previously smoked for >20 years",On restriction,27.25,0.54,131 (80% of APMHR),10.1,Moderate,Chronic ischemic heart disease (Follow Up) (Confirmed);,M,61,Married,Family,"Stairs : FOS / Steps,",Nil,"Prior to CABG, did some slow walking",30 minutes per session,5,5,5,5,Stable,Independent,Independent,Normal,Normal,Independent,,5 mins,94,13,,,,,,,1,0,0,0,0,0,0,2,0,0,0,1,2,2,1,2,0,0,3,1,1,1,1,1,0,2,1,5,3,2,1.1,15,1
+35983589,"DM
+HPT
+Dyslipidemia
+CAD in 2016 ","Yes, HBPM- 130/80mmhg","Yes, hba1c 6.8% (Nov 2020)",Nil IHD,"Brisk walking daily, walking 10000 steps/day",Nil,"Ex-smoker- stopped smoking for 20 years, previously smoked for 5 years- smoked 6 cigarettes/day",No restriction,23.1,0.59,127 (76% of age predicted max HR),10.1,Moderate,,M,57,Married,Family,,Nil,7 times/week,60 minutes per session,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,3,10 mins,96,11,"Strengthening exs:
+ - UL ( 2lbs) - 15x- 1 set
+ - LL (1kg) - 15x- 1set",15,1, 2lbs,1kg,,1,1,0,0,0,0,0,1,0,1,0,1,2,2,1,2,0,0,6,1,1,1,1,1,0,1,1,10,3,2,1,15,1
+36007264,"DM
+Acute anterior STEMI ","Nil, ward BP ranging - 127-145/86-91mmhg",HbA1C (in Oct 2020)- 8% --> 9%,"yes Patient's mother did CABG at 58 years old, brother did CABG at 60 years old",Nil,Nil,Nil,"Self cooked food, no restriction",30.1,0.55,122 (72% of APMHR),7,Low,,F,55,,,,,,,5,5,5,5,Good,Independent,Independent,Normal,Good,Independent,2,10 mins,94,13,"Strengthening exs (15x1set)
+ - Dumbell 2lbs - 5exs
+ - Sandbag 1kg - 4exs",15,1,2lbs - 5exs,1kg - 4exs,,0,0,1,0,0,0,0,3,0,0,0,1,2,2,2,2,0,0,0,1,1,1,1,1,1,1,0,10,2,2,1,15,1
+36066807,"T2DM > 10 years
+HPT
+Dyslipidemia
+NSTEMI",,HBA1c 9.2%,yes IHD - father,"Gardnening (now at daughter's house, no specific PA)",Nil,,No restriction,22,0.5,115,3.5,Moderate,CAD (Coronary artery disease) (Provisional);,M,64,Married,Family,,,,,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,2,10 mins,97,13,"Strengthening exs (15x1set)
+ - both UL 2lbs (5exs)
+ - both LL 1kg (4exs)
+ - RPE:11",15,1,2lbs (5exs),1kg (4exs),11,0,1,1,0,0,0,0,1,0,1,0,2,1,2,1,2,0,0,0,1,1,1,1,1,0,2,1,10,2,2,1,15,1
+36068962,"Dyslipidemia
+IHD
+IHD - 2VD","Borderline, not on meds",,Nil,"Yes, all sorts of exercise (cycling, jogging, hiking etc)",Nil,Quit smoking since cardiac event (smoked for many years 20 sticks/day + vape),Restrained,23,0.59,144,10.1,Moderate,,M,57,,,,,,,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,3,10 mins,107,13,"Strengthening exs (15x1set)
+ - both UL 3lbs 5exs
+ - both LL 1.5kg 4exs
+ - RPE:13",15,1,3lbs 5exs,1.5kg 4exs,13,0,0,0,0,0,0,0,1,1,1,0,2,2,2,2,2,0,0,0,1,1,1,1,1,0,1,1,10,3,3,1.5,15,1
+36071925,"Dyslipidemia
+IHD
+Inferior STEMI",No,No. HbA1c 5.8,yes Strong FH of IHD. 1st degree relatives (father and brother),Nil,High level due to work and family (pillar of family),"An active smoker till 17.2.2021 (30 pack years), has quit smoking","More restraint since IHD (low salt, fat, and sugar",28,0.59,142 (85% APMHR(167)),7,Low,"CAD, multiple vessel (New Case) (Provisional);",M,55,,,,Does not consume alcohol for many years,,,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,4,10 mins,126,12,"Strengthening exs (15x1set)
+ - both UL 4lbs (5exs)
+ - both LL 1.5kg (4exs)
+ - RPE:",15,1,4lbs (5exs),1.5kg (4exs),,0,0,1,0,0,0,0,2,1,1,0,2,2,2,2,2,0,0,0,1,1,1,1,1,0,1,0,10,4,4,1.5,15,1
+36073505,"CABG
+DM
+HTN",Present,Present. HbA1c 6.1% (22/8/21),"IHD
+- nil","Exercises for 1 hour, 4 days per week. Cycling machine, treadmill, brisk walking","Present, work stress for the last approximately 5 years.","Ex smoker, stopped since 2008, smoked for 4 years before that.",Restricted. Reduces carbs and cholesterols,25.4 -> 22.8,0.62,131bpm (85% of APMHR),8.6,Moderate,Chronic ischemic heart disease (New Case) (Confirmed):- coros TVD;,M,69,Married,Family,,,4 times/week,60 mins per session,5,5,5,5,Stable,Independent,Independent,Normal,Normal,Independent,3,15 mins,86,12,,,,,,,0,0,0,0,1,0,0,1,0,0,0,2,2,2,1,2,0,4,6,1,1,1,1,1,0,2,1,15,3,2,1.1,15,1
+36114533,"Hypothyroid - on Thyroxine 100mg
+Moderate to severe TR
+Paroxysmal AF",Nil,Nil. HbA1c 4.4% on 27/5/21,"yes Siblings with cardiac disorders, 3 with valvular heart disease, 1 with CCF, 1 with IHD","Previously does cycling (machine) for 30 - 45 minutes daily
+
+
+regular",Nil,Nil,Restrict salt and fried food. Occasionally consumes cakes,,0.73,116,9.4,Moderate,Tricuspid insufficiency (Provisional);,F,70,Single,Family,,,2 times/week,40minutes minutes per session,5,5,5,5,Stable,Independent,Independent,Normal,Normal,Independent,1,10 mins,90,12,,,,,,,0,0,1,1,0,0,0,1,0,0,0,2,2,0,1,2,0,2,4,1,1,1,1,1,1,2,1,10,1,2,1.1,15,1
+36147851,"TVD
+CABG",Nil,0.054,yes Mother (CABG done) and brothers (CABG and stenting done),Nil,Nil,Nil,"Not on restriction, home cooked food","Height unsure, weight 65kg",0.5,139 (89% APMHR),7,Low,"CAD, multiple vessel (New Case) (Confirmed",M,66,Married,Family,stairs : FOS / Steps,Social drinker,No regular exercise,,5,5,5,5,Stable,Independent,Independent,Normal,Normal,Independent,3,10 mins,109,,"Strengthening exs (15x1set)
+ - both UL 4lbs (5exs)
+ - both LL 1.5kg (4exs)
+ - RPE:11",15,1,4lbs (5exs),1.5kg (4exs),11,0,0,1,0,0,0,0,3,0,0,0,2,2,2,1,2,2,0,0,1,1,1,1,1,0,2,0,10,3,4,1.5,15,1
+36320903,Anteroseptal MI Killips I,No,Not diabetic -,yes Father k/c/o CAD,No regular exercise,Able to cope with his stress during work,Smoking 10 pack years,,,0.59,157 (88% of APMHR),10.1,Low,,M,46,,,,Nil,,,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,3,10 mins,128,13,"Strengthening exs (15x1set)
+ - both UL 4lbs (5exs)
+ - both LL 1.5kg (4exs)
+ - RPE:11",15,1,4lbs (5exs),1.5kg (4exs),11,0,0,1,0,1,0,0,1,0,0,0,2,2,2,2,2,0,0,0,1,1,1,1,1,0,1,0,10,3,4,1.5,15,1
+36322422,"Inferiorposterior STEMI with RV involvement
+Allergic rash to Streptokinase (resolved)
+Dyslipidaemia",No,No,First degree nothing significant,"No regular exercise previously, post PCI, pt walk for 1hour per day 5x per week (for the past 3 weeks)
+7. Height: 175cm",No stressful event,"Ex-smoker, Smoker > 10 pack years",No diet control,32.69,0.59,176 bpm ( 94 % of age predicted MHR),12.4,Low,"
+",M,35,Married,Family,,,5 times/week,60 mins per session,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,3,10 mins,128,13,"Strengthening exs (15x1set)
+ - both UL 3lbs (5exs)
+ - both LL 1.5kg (4exs)",15,1,3lbs (5exs),1.5kg (4exs),,0,0,0,0,1,0,0,3,0,0,0,2,2,2,1,2,0,5,6,1,1,1,1,1,0,0,0,10,3,3,1.5,15,1
+36357500,"NKMI
+Inferior MI",Nil,,yes Father has IHD,,,,,,0.7,126 bpm (72% of APMHR),10.1,Low,"Acute ischaemic heart disease, unspecified (New Case) (Provisional):- Coder by MRU;",M,49,,,,,,,5,5,5,5,Good,Independent,Independent,Normal,Normal,Independent,3,10 mins,109,11,"Strengthening exs (15x1set)
+ - both UL 2lbs (5exs)
+ - both LL 1kg (4exs)",15,1,2lbs (5exs),1kg (4exs),,0,0,1,0,0,0,0,1,0,0,0,1,2,2,2,2,0,0,0,1,1,1,1,1,0,1,0,10,3,2,1,15,1
+2170868,"IHD - triple vessel disease
+PCI to LAD and LCX done on September 2019","well controlled , Bp today 136/60mmHg ",non diabetic Hba1c- 5.7,"no known case of heart problem within family members , no sudden cardiac death","nil , due to ankle pain",denies of any,"chronic smoker , 10 ciggs / day , just recently stopped since June 2019 after 1st attack",claimed had nutrition consultation with dietician already,25,0.59,120 (74% of MHR),7,moderate,"IHD -NSTEMI - post PCI to LAD & LCX,
+right chronic ankle instability",M,63,married,family,,no,,,5,5,5,5,good,independent,independent,normal,normal,indepenent,2,10 mins,87 bpm,12,,,,,,,0,0,0,0,0,0,0,2,1,0,0,1,2,2,1,2,0,0,0,1,1,1,1,1,0,2,1,10,2,2,1.1,15,1
+2581310,"T2DM - Hba1c 7.3% feb 2020
+
+2/HPT
+3/Dyslipidemia",yes,yes,yes: father and brother passed away at age 60+y due to cardiac arrest,"doing walking/group exercise 90-150min/week
+regular",nil,nil,controlled,30,0.59,151 (94%),5.3,moderate,moderate ( in view of Mets 5.3),F,64,,,,,3-4 times/week,30 mins per session,5,5,5,5,good,independent,independent,normal,normal,indepenent,2,10 mins,104 bpm,13,"(15x1set)
+- both UL (5exs) ",15,1,5exs,,11,1,1,1,1,0,0,1,3,0,1,0,2,1,2,2,2,0,3,3,1,1,1,1,1,1,2,1,10,2,2,1.1,15,1
+3425703,"DM/HPT/Dyslipidemia, 
+2. IHD",yes,Hba1C  - 6.9,,"Low to moderate intensity
+-Taichi 2hours alternate days
+-Used to go to gym until 2 years ago due to bilateral knee pain",,non smoker,no restriction,33,0.59,130 (86% APMHR),6.8,moderate,IHD,M,72,married,family,lift landing,nil,1 time/week,30 mins per session,5,5,4,5,good,independent,independent,limping,normal,indepenent,2,10 mins,100,13,"UL- 1lbs (5exs) 10 reps x 1 set
+RPE:11",10,1,1lbs (5exs),,11,1,1,0,0,0,0,0,3,1,1,0,2,2,2,1,2,0,1,3,1,1,1,0,1,0,2,1,10,2,1,1.1,10,1
+5462860,"DM
+2. HPT
+3. Dyslipidemia
+Umbilical Hernia",yes,"Yes, HbA1c: 9%",nil,"Started 30 minutes daily walking at home
+regular",nil,"yes Social smoker and drinker, still smoking cigar once a month","Outside food more but more home cooked for the past 3 months, takes fibres",26.3,0.59,97 (61% of maximal age predicted heart rate),4.8,moderate,,M,65,married,family,Stairs : 2 FOS / Steps,social drinker,3-5 times/week,30 mins per session,5,5,5,5,good,independent,independent,normal,normal,indepenent,3,10 mins,80,13,,,,,,,1,1,0,1,0,1,0,2,0,1,0,1,1,2,1,2,2,3,3,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+6952070,"HPT, 
+DM,
+Dyslipidemia",yes,HbA1C - 6.8%,nil,"twice a week go for a walk, 1 hour per session (2 hours per week)
+regular"," Nil - retired, enjoy trevelling overseas",,: Small portion of carbs / Biggest portion of vege / 1 serving of white meat / little oil - claims improving weight control on current diet,21.9,0.59,111 (70%),3.9,moderate,NSTEMI post PCI,F,67,single,alone,lift landing,no,2 times/week,60 mins per session,5,5,5,5,good,independent,independent,normal,normal,indepenent,2,10  mins,89,13,,,,,,,1,1,0,1,0,0,0,1,0,1,0,1,1,0,0,2,0,2,6,1,1,1,1,1,1,2,1,10,2,2,1.1,15,1
+7036558,"DM, Hypertension x 21 years",yes BP controlled,HbA1C: 7.7 (**pre-breakfast reading usually high around 8+ mmol),"no, nothing significant","280min slow walking per week
+regular",managable,nil,compliant to diet control,18.95,0.71,128 (85%),7,low,Recurrent USA - Post PCI,F,73,,,,,7 times/week,20-30 mins per session,5,5,5,5,good,independent,independent,normal,normal,indepenent,2,10 mins,93,13,"(15x1set)
+both UL- 2lbs (5exs)",15,1,2lbs (5exs),,,1,1,0,1,0,0,0,1,0,0,0,2,2,2,2,2,0,0,3,1,1,1,1,1,1,2,0,10,2,2,1.1,15,1
+7658567,"T2DM/HPT/Dyslipidaemia, 
+2. Urticaria Papules under Dermatology team f/up",yes,HbA1c: 7.6%,yes Father have IHD done CABG,"nil , due to ankle pain",stress thinking of job,Chronic Smoker but stop for 9 mnths,poorly controlled diet,24,0.67,90 bpm (55% of APMHR),4.6,moderate,IHD,M,60,,,,,,,3,5,5,5,good,independent,independent,normal,normal,indepenent,5,10 mins,60,13,"(15x1set)
+- both LL 1kg (4exs)",15,1,,1kg (4exs),,1,1,1,0,1,0,0,1,0,0,0,0,1,2,2,2,0,0,0,1,1,1,1,1,0,2,1,10,5,2,1,15,1
+8046344,"Severe 3VD CAD involving LMS
+2) HPT
+3) DM ( HbA1c : 6.2 on 16/7/2020)
+4) Dyslipidemia
+5) Gout
+6) H/O bilateral TKR in 2017",yes,,,,,,,,0.59,101 (63% of MHR),3.4,moderate,"IHD -3VD
+- post CABG",M,65,married,family,,nil,,,5,5,5,5,good,independent,independent,normal,normal,indepenent,3,15 mins,86,13,,,,,,,1,0,0,0,0,0,0,1,0,1,0,1,1,2,1,2,0,0,0,1,1,1,1,1,0,2,1,15,3,2,1.1,15,1
+9120440,IHD,,,"yes Parents and brother: Sudden cardiac death (70s,70s, 40s)","Walking 600 metres daily
+-Premorbidly fit sport men
+regular",nil,non smoker,strict,clinically overweight,0.48,100bpm (70% of predicted),3.4,,,M,81,married,family,"stairs"" FOS / Steps","few years ago
+no","everyday
+7",30 mins per session,4,4,4,4,good,independent,independent,normal,Mild kyphotic,indepenent,,10 mins,,,"resisted exercises UL 5 exs,2lb RPE11
+-resisted exercises LL 2 exs,1kg RPE11",,,"5 exs,2lb","2 exs,1kg",11,0,0,1,1,0,0,0,1,1,0,1,1,1,2,1,2,0,0,3,1,1,1,1,0,0,3,1,10,3,2,1,15,1
+9995471,"T2DM
+HTN
+Dyslipidemia",yes,7.5%  - taken at Assunta,yes Family history of IHD,,regular night shifts,2 pack years,no restriction,overweight,0.67,160 (93% of MHR),13.3,low,IHD,M,52,,,,,,,5,5,5,5,good,independent,independent,normal,normal,indepenent,2,10 mins,42-91,9," (15x1set)
+- both UL 2lbs (5exs)
+- both LL 1kg (4exs)
+- RPE: 9",15,1,2lbs (5exs),1kg (4exs),9,1,1,1,0,0,0,0,1,0,1,0,2,2,2,2,2,0,0,0,1,1,1,1,1,0,1,0,10,2,2,1,15,1
+11741403,"T2DM/HPT/Dyslipidaemia
+2. IHD","yes well controlled , today's BP 110/64mmHg",Poor Control T2DM HbA1c: 8.1% ,yes Father have IHD ,"goes for brisk walking 15-20 minutes daily at a park at her residence
+regular",denies,non smoker,claimed she is more cautious and takes care of her food now,clinically overweight,0.73,113 (75% of MHR),7,moderate,,F,72,,,,,7 times/week,10-15 mins per session,,,,,,,,,,,2,10 mins,96,13,"UL- 2lbs (5exs) RPE:12
+LL- 1KG (4exs) RPE:12",,,2lbs (5exs),1KG (4exs),12,1,1,1,1,0,0,0,1,1,0,0,1,2,2,2,2,0,0,1,1,1,1,1,1,1,2,1,10,2,2,1,15,1
+11854070,NKDA,,"
+yes HbA1c 7-8",yes Father have IHD ,"moderate intensity -twice a week of brisk walking; each 2.5km
+regular",yes work,non smoker,no specific prescription,overweight,0.59,(77% APMHR) : 147(91%),10.1,low,IVD- post PCI,M,61,married,family,,,3-4 times/week,120 mins per session,5,5,5,5,good,independent,independent,normal,normal,indepenent,,10 mins,,,"(15x1set)
+both UL- 2lbs (5exs)
+both LL- 1kg (4exs)",15,1,2lbs (5exs),1kg (4exs),,0,1,1,1,1,0,0,1,0,0,0,1,2,2,1,2,0,3,6,1,1,1,1,1,0,2,0,10,3,2,1,15,1
+12081890,"DM
+/Dyslipidemia",NIL,"6.8, on OHA",yes father has heart disease,walking one hour/ one week,nil,nil,"on diet control, on low fat, low salt, diabetic diet, keen for dietitian counselling","28.5, height: 154cm, wt: 67.5kg",0.59,144 (85% of APMHR),7,,"IHD
+-For CRP 2",F,55,married,family,,nil,1 times/week,60 mins per session,5,5,5,5,good,independent,independent,normal,normal,indepenent,2,10 mins,113,12,"UL- 2lbs (5exs) 15 reps x 1 set
+RPE:13",15,1,2lbs (5exs),,13,0,1,1,0,0,0,0,2,0,1,0,2,2,2,1,2,0,1,6,1,1,1,1,1,1,1,1,10,2,2,1.1,15,1
+12376458,"T2DM
+2. HTN","yes, compliant to meds, but BP range always >150mmHg","HbA1c 7.7% , on OHA. ",yes father had ACS at 48yr old. Elder brother had ACS,regular,nil,non smoker,consume less sugary food,28,0.59,108 (67% APMHR),7,moderate,"post CABG, for EST post CRP2",F,63,,,,,,,,,,,,,,,,,3,10 mins,100,13,resisted exercises UL 4exes 3lb RPE13,,,3lb 4exes ,,13,1,1,1,1,0,0,0,2,0,0,0,1,2,2,2,2,0,0,0,1,1,1,1,1,1,2,1,10,3,2,1.1,15,1
+12984458,"Hypertension
+2)Hypercholesterolaemia
+3)Osteoporotic
+IHD
+4)Uterine prolapse previously - perineal repair in 1982 (privately)",yes ,,,,,,,,0.59,80 bpm (55% APMHR),5.6,moderate,IHD,F,79,,,,,,,5,5,5,5,good,independent,independent,normal,normal,indepenent,1,10 mins,88,13,"Strengthening exs (15x1set)
+- sandbag 1kg 4exs",15,1,,1kg 4exs,,1,0,0,0,0,0,0,1,1,0,0,0,1,2,2,2,0,0,0,1,1,1,1,1,1,2,1,10,1,2,1,15,1
+13204731,"Dyslipidemia: under diet control
+Gastritis: had scope done before but unsure result, not on proper medication",,,"family history of stroke (mother)
+no H/O cardiac event in family",,,,,,0.59,164 (93% of max predicted),7,moderate,,F,49,married,family,,no,,30 mins per session,5,5,5,5,good,independent,independent,normal,normal,indepenent,3,10 mins,128,13,"UL 15x for four exercises RPE12
+resisted exercises LL 15X for foru exercises",15,1,4exs,4exs,12,0,0,0,0,0,0,0,1,0,1,0,2,2,2,1,2,0,0,3,1,1,1,1,1,1,1,1,10,3,2,1.1,15,1
+14186168,"DM
+2. Hypertension
+3. Dyslipidemia
+4. Right foot Rays amputation of 3 medial toes (In Assunta Hospital)
+5. Bilateral eyes cataract (Right sided operated in HUKM)",yes,Yes Hba1c : 6.6%,nil,"infrequent walks around housing area, ~10minutes",nil,,"taking fish, meals home cooked by wife",weight loss since op,0.54,106,4.8,moderate to high,,M,78,married,family,no,no,,10 mins per session,5,5,5,5,good,independent,aided,normal,slight thoracis kyphosis,indepenent,12,10 mins,77,1,,,,,,,1,1,0,0,0,0,0,1,0,1,0,2,1,2,1,2,0,0,1,1,1,0,1,0,0,2,1,10,12,2,1.1,15,1
+14684338,ying heart disease since age 9 years old (?rheumatic heart disease,,nil HbA1c 5.4,nil,once a week regular walk for 15min,tolerable,"stopped smoking and alcohol. previously smoked 17 packed years, alcohol: occasional drinker",prefer boil/steam food,"normal height 179cm, weight 68kg",0.59,137 (75%),10.1,moderate,valvular HD post repair (mod risk - EF 45%),F,41,single,family,"stay in Bagan Datoh, Perak
+ has a child aged 17 years old, stay with mother and child",occasional drinker,1 times/week,15 mins per session,5,5,5,5,good,independent,independent,normal,normal,indepenent,13,10 mins,117,3,,,,,,,0,0,0,1,0,0,0,1,0,0,0,1,2,0,1,2,1,1,1,1,1,1,1,1,1,1,1,10,13,2,1.1,15,1
+14903935,,So far mostly<130/80,"Prediabetes, HbA1c: 6%","yes Strong (2 elder brother, 1 sister have IHD, 1 younger brother has stroke)",nil,,"Ex smoker, quit about 40 years ago","Home cooked foot consisting santan/fried food, take fibers, also 2 cups of Nescafe/day","BMI 29.7 (Weight 78kgs, height: 162cm)",0.59,129 (85%),6.5,moderate,Acute MI (Provisional);,M,72,married,family,Stairs : 2 FOS / Steps,,,,5,5,5,5,good,independent,independent,normal,normal,indepenent,12,15 mins,105,3,,,,,,,0,0,1,0,0,0,0,2,0,0,0,2,2,2,1,2,0,0,0,1,1,1,1,1,0,2,1,15,12,2,1.1,15,1
+15091640,,"diagnosed since 2 years+ ago, under RUKE but eventually defaulted medication and follow up - no refollowed up under RUKA",not diabetic,Uncle (no hx of ischemic heart disease among 1st degree relative),nil,nil,Financial / family / single mother,"Salty diet, including instant noodle - portion per say in not an issue, regularly take vegetables, never seen dietitian","BMI: 41 Weight gain almost 10kg in two months, baseline weight 80++kg, now 96kg",0.59,151 bpm ( 84% of THR P rest ),5.7,moderate,CAD,F,45,,,,,,,5,5,5,5,good,independent,independent,normal,normal,indepenent,14,10 mins,115,2,"(15x1set)
+UL- 2lbs (5exs) RPE:11
+LL- 1kg (4exs) RPE:11",15,1,2lbs (5exs),1kg (4exs),11,0,0,0,0,0,0,0,0,0,0,0,2,1,2,2,2,0,0,0,1,1,1,1,1,1,1,1,10,14,2,1,15,1
+16537238,"HPT - under RUKA f/u
+2. TVD
+3. Cholecystitis - incidental finding during usg abdomen in August 2017
+4. CKD
+5. DM -
+6. H/O IHD - 2011: NSTEMI, angiof","yes, slightly raised, recently restarted on perindopril 4mg OD by RUKA on 31/10/19",HbA1c 5.3%,nil,"used to go to the gym daily- threadmill/cycling and resistance exercises, however no exercises noted for past 2 years(patient used to go for competitive weight lifting before - bantamweight category: in house gym tournement 2009)",yes work-related (see below),"ex- smoker, stopped 8 years ago",controlled,"31.16 (latest Weight: 72kg, Height: 152cm)",0.48,(73% APMHR) : 122,10,moderate,NSTEMI,M,57,married,family,,no,,,5,5,5,5,good,independent,independent,normal,normal,indepenent,14,,91,3,static bike R3 90bpm RPE13,,,,,13,1,0,0,0,1,0,1,3,1,0,1,1,2,2,1,2,0,0,0,1,1,1,1,1,0,1,1,10,14,2,1.1,15,1
+20956754,"DM
+Hypertension under RUKA f/up
+3. Dyslipidaemia","yes, systolic range 132-157
+diastolic range 94-99
+HR 72-83",HbA1c  10.2%,no,"play badmintion socially once a week ( 2 hrs, non-continuous)
+
+regular",work related stress,"ex-smoker, last smoking 3 months ago
+- not alcohol consumer",outside food,35,0.59,153 (85% of maximal age predicted heart rate),10,moderate,,M,44,,,,,,,5,5,5,5,good,independent,independent,normal,normal,indepenent,13,10 mins,112,3,,,,,,,1,1,0,1,1,0,0,3,0,0,0,2,2,2,2,2,0,0,0,1,1,1,1,1,0,1,1,10,13,2,1.1,15,1
+23208392,TVG,,,,,,,,,0.62,109 (68% predicted),3.5,moderate,,F,63,married,family,,no,,20 mins per session,5,5,5,5,good,independent,independent,normal,normal,indepenent,13,10 mins,85,1,,,,,,,0,0,0,0,0,0,0,1,0,0,0,1,1,2,1,2,0,0,2,1,1,1,1,1,1,2,1,10,13,2,1.1,15,1
+23246634,"Pan-gastric atrophy and IM - on 2 yearly surveilance
+2/ Hiatus hernia with GERD
+3/ DM - on insulin
+4/ HPT
+5/ Dyslipidemia",yes 126-159/73-92mmHg on tablet bisoprolol 5 mg OD,HbA1c: 7.6%,yes sister had IHD - passed away at 61 years,"nil for the past 2 years, patient has no formal exercise since 2017
+prior to that jogging 3 x a week",nil,Ex-smoker: stopped 15 years ago,"controlled - does not add sugar, salt or have fried food","25.13 (weight: 62.1kg, height: 157.2cm)",0.59,121 (77%),4.1,moderate,"CVD, post CABG ",M,65,married,alone,stairs: FOS/Steps,years,,,5,5,5,5,"Good in sitting
+ Fair in standing",independent,aided: elbow crutches (1 stick),limping,normal,indepenent,13,5 mins,94,2,"(15x1set)
+- both UL- 2lbs (5exs)
+- both LL- 1kg (3exs)",15,1,2lbs (5exs),1kg (3exs),,1,1,1,0,0,0,1,2,0,1,0,1,1,2,0,2,0,0,0,1,1,0,0,1,0,2,1,5,13,2,1,15,1
+24292079,"DM on OHA
+HPT
+IHD
+B/L TKR done
+BE pseudophakia-done at UMMC about 7 yrs ago",yes  ,HbA1C 8.6%,no,nil regular,nil,non smoker,imbalanced ,clinically obese,0.59,121 (79% of max predicted),7,moderate,"CAD - 2VD
+post stenting 4mo
+PreCRP2",F,71,married,family,stairs: FOS/Steps,no,,,5,5,5,5,good,independent,independent,normal,normal,indepenent,,2 mins,68,1,,,,,,,1,1,0,1,0,0,0,1,1,0,0,1,2,2,1,2,0,0,0,1,1,1,1,1,1,2,1,2,3,2,1.1,15,1
+25791230,"DM x >10 years, on OHA
+2. HPT > 10 years
+3. Dyslipidaemia
+4. Ex-chronic Smoker
+5. IHD - SVD with stenting done in 2010 under UMMC, single vessel disease
+6. Peripheral arterial disease under surgical follow-up",yes well controlled,HbA1C: 7.6%,,"nil , claimed afraid to go outside of his house to walk or exercise",,claimed stopped smoking - since 1 year ago,home cooked food,,0.76,113 (73% of MHR),3.5,moderate,IHD with PAD,M,69,,,,,,,5,5,4,4,"sitting: good
+ standing : gair",independent,independent,limping,independent,indepenent,,10 mins,,1,"15x1set)
+both UL - 2LBS (5exs)
+both LL - 1KG (2exs)",15,1,2LBS (5exs),1KG (2exs),,1,1,0,0,0,0,0,1,1,0,0,1,1,2,2,2,0,0,0,1,1,1,0,1,0,2,1,10,3,2,1,15,1
+25818961,"T2DM
+2. Hypertension
+3. CKD stage 3
+4. Dyslipidemia",yes BP control,"T2DM, HbA1c: 7.4%",no,nil,occasionnaly stress with job,non smoker,,,0.59,(67% APMHR) : 101,7,low,"single vessel disease, stented
+Low risk stratification",M,75,,,,,,,5,5,5,5,good,independent,independent,normal,normal,indepenent,13,10 mins,93,2,,,,,,,1,1,0,0,1,0,0,1,0,1,0,1,2,2,2,2,0,0,0,1,1,1,1,1,0,2,0,10,13,2,1.1,15,1
+32456070,") Hypercholesterolemia
+2) Hyperthyroidism - currently euthyroid
+3) Coronary artery disease",,HBA1C 5.6,unsure (patient is adopted),,unsure (patient is adopted),non smoker,Tend to avoid fat / oily food,Clinically normal BMI,0.59,134 (83% of max predicted),7,moderate,Atherosclerotic heart disease (New Case) (Provisional);,F,61,married,family,"Stairs : FOS / Steps,",no,7 times/week,10 mins per sesion,5,5,5,5,good,independent,independent,normal,normal,indepenent,12,10 mins,100,1,,,,,,,0,0,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0,0,1,1,1,1,1,1,1,2,1,10,12,2,1.1,15,1
+32555476,"IHD -3VD
+post - CABG on 24/8/2020
+HPT
+DM",yes  ,Type 2 DM HbA1C: 6.7%,nil,Nil after MCO. Previously did brisk walking every weekend,Manageable High post and contactable 24 hours,nil,not on special diet25.7,,0.65,176 (106% of MHR),10.1,low,"IHD- 3VD
+-post CABG",M,62,married,family,,,7 times/week,30 minutes per session,5,5,5,5,good,independent,independent,normal,normal,indepenent,13,10 mins,131,3,,,,,,,1,1,0,0,0,0,0,1,1,0,0,2,2,2,1,2,0,0,3,1,1,1,1,1,0,2,0,10,13,2,1.1,15,1
+34146128,Post MVR (bioprosthetic valve) with LAA and maze procedure ,"yes, on bisoprolol 2.5mg OD",yes on metformin 500mg BD. Unsure regarding HbA1C,,"brisk walking 50mins/session, 3x/week
+regular",,non smoker,,,0.55,136bpm (86%),4.8,moderate,"Post MVR (bioprosthetic valve) with LAA and maze procedure (30/8/17)
+- MS with AF in heart failure",M,66,married,family,,no,3 times/week,50 mins per session,5,5,5,5,good,independent,independent,normal,normal,indepenent,13,10 mins,92,2,,,,,,,1,1,0,1,0,0,0,1,0,0,0,2,1,2,1,2,0,3,5,1,1,1,1,1,0,2,1,10,13,2,1.1,15,1
+34926958,"HTN - on 1 type antihypertensive (unsure name)
+2. Dyslipidemia
+BPH with moderate hydronephrosis and bil parenchymal disease",yes,,yes strong family history - father died for heart problem < 50 y/o,"once a week, walk at nearby park for 30 minutes
+regular",NIL,,control amount of rice,"appear obese, weight 80 kg , height - unsure",0.45,126/min (81% of APMHR),4.5,moderate,"Inferior MI with right sided and post involvement (Kilip 2) May 2020
+- post primary PCI",M,69,,,,,,,5,5,5,5,good,independent,independent,normal,Slight khypotic,indepenent,13,10 mins,95,2,,,,,,,1,0,1,1,0,0,0,3,0,1,1,2,1,2,2,2,0,0,0,1,1,1,1,0,0,2,1,10,13,2,1.1,15,1
+35148911,"Dyslipidemia
+2. Impaired fasting glucose
+3. IHD - 3VD
+4. PVD",normal,HBA1C 5.8,yes Strong IHD,,nil,non smoker,normal diet,clinically overweight,0.59,127 (83% of max predicted),5.9,moderate,"CAD - post CABG 10weeks
+PAD",M,70,,,,,,,,,,,good,independent,independent,normal,Khypotic posture,indepenent,12,10 mins,76,3,,,,,,,0,0,1,0,0,0,0,1,1,1,0,2,1,2,2,2,0,0,0,1,1,1,1,0,0,2,1,10,12,2,1.1,15,1
+35401566,"T2DM/HPT/Dyslipidaemia
+IHD",yes BP control,HbA1c: 6.1%,yes Strong FHx of IHD,"walk around the housing area, 3km over 35 minutes, speed 85 metre/min 2-3 times per week
+regular",Denies any depression or anxiety,non smoker,Poor dietary habits,Not overweight,0.59,169 (106% of age predicted max HR),10.1,low,,M,64,,,,,1-2 times/week,30 minutes per session,5,5,,,good,independent,independent,normal,good,indepenent,13,10 mins,144,4,"(15x2sets)
+- UL 4lbs (5exs) RPE:12
+- LL 4lbs (4exs) RPE:12",15,2,4lbs (5exs),4lbs (4exs),12,1,0,1,1,0,0,0,1,1,0,0,2,2,2,2,2,0,1,3,1,1,1,1,1,0,2,0,10,13,4,1.1,15,2
+35418653,"HPT/Dyslipidaemia
+IHD",yes BP control,HbA1c: 5.7%,yes brother,"doing static cycle exs at home, spent 3- mins/day 3-4x/week
+regular",Denies any depress,"Ex Chronic Smoker, stop since Jan 2019, gain wt due to increase in appetite",Poor dietary habits,overweight,0.59,164 bpm(98% MHR),9.2,low,IHD,M,58,married,family,,nil,3-4 times/week,40-60 minutes per session,5,5,5,5,good,independent,independent,normal,good,indepenent,13,10 mins,122,5,"(15x1set)
+UL- 4lbs (5exs) RPE:12
+LL- 1.5kg (4exs) RPE:12",15,1,4lbs (5exs),1.5kg (4exs),12,1,0,1,1,0,0,0,1,1,0,0,2,2,2,1,2,0,3,6,1,1,1,1,1,0,1,0,10,13,4,1.5,15,1
+35466790,"T2DM for 20 years
+Dyslipidemia","BP within acceptable range , not hemodynamically supoported",HbA1c - 8.9,nil,"Nil, claimed due to nature of work , working from Monday - Friday",denies depression,non smoker,"started to control his diet, rich in vegetables and fish, less meaty food",,0.52,151 (94%),7,low,IHD,M,63,married,family,,nil,7 times/week,60 minutes per session,5,5,4,4,good,independent,independent,limping,Mild kyphotic,indepenent,,,,,"Strengthening exs both UL
+- 1lbs
+- 15x 1set
+- RPE: 11",15,1,1lbs,,11,0,1,0,0,0,0,0,1,0,1,0,2,2,2,1,2,0,0,6,1,1,1,0,0,0,2,0,10,3,1,1.1,15,1
+35526523,"DM
+Hypertension
+3) Dyslipidemia
+TVD -underwent MICS CABG",yes,yes  ,no,nil,,non smoker,controlled,normal,0.59,106 (69%),7,low,TVD post CABG,M,70,married,family,lift landing,no,,,5,5,5,5,good,independent,independent,independent,slight right scoliosis,indepenent,13,10 mins,84,1,,,,,,,1,1,0,0,0,0,1,1,0,1,0,1,2,2,1,2,0,0,0,1,1,1,1,0,0,2,0,10,13,2,1.1,15,1
+35554525,"CAD
+HOPI",,HBA1C 5.2,"Both parents has DM, HPT","Run for 1 hour twice a week (Army camp) + participation in leisure running activity
+regular",stress at work,Chronic smoker - quit since attack,normal diet,25.4,0.4,171 (91%),,low,Inferior MI with posterior involvement (Killip I),M,37,married,family,"Stairs : FOS / Steps,",nil,3 times/week,5-10 mins per session,5,5,5,5,good,independent,independent,independent,normal,indepenent,,,,,,,,,,,0,0,0,1,1,0,0,2,0,0,2,2,2,2,1,2,0,3,1,1,1,1,1,1,0,0,0,10,3,2,1.1,15,1
+35602088,,,,,,,,,,0.59,113,8,low,,M,66,,,,,,,5,5,5,5,good,independent,independent,independent,normal,indepenent,2,10 mins,100,7,"Strengthening exs (15x1set)
+- both UL 2lbs (5exs)
+- RPE:7",15,1,2lbs (5exs),,7,0,0,0,0,0,0,0,1,0,0,0,2,2,2,2,2,0,0,0,1,1,1,1,1,0,2,0,10,2,2,1.1,15,1
+35633997,"right craniectomy 2' ICB
+
+Mitral valve prolapse diagnosed in 2017",,,yes Positive family history of IHD - father passed away due to heart attack,"brisk walking at park during weekend for 1hr each day ( total 120 min/week)
+regular",,"ex smoker and alcohol consumer
+- last smoke and drink 3 years ago",home cooked meal,"BMI - 19
+Weight 60 kg
+Height 176 cm",0.56,168 (87% of APMHR),12.8,low,Mitral (valve) prolapse (New Case) (Confirmed);,M,30,,,,nil,,,5,5,5,5,good,independent,independent,independent,normal,indepenent,3,10 mins,134,11,"Strengthening exs (15x1set)
+- both LL - Sandbag 4lbs (4exs)
+- both UL - dumbell 3lbs (5exs)",15,1,dumbell 3lbs (5exs),Sandbag 4lbs (4exs),,0,0,1,1,0,0,0,1,0,0,0,2,2,2,2,2,0,0,0,1,1,1,1,1,0,0,0,10,3,3,1.1,15,1
+35711740,"Gout (Mostly bilateral MTP, knee)
+Dyslipidemia",HBPM-108-122/69-81,Nil HbA1c: 5.4,yes Brother has IHD,"Brisk walking daily for 30 minutes each
+regular",,nil,"Home cooked home for the past 3 months, taking fruits and vege,","82.9 kgs, height: 170cm (BMI: 28.7)",0.59,"127 (80% of max, age predicted HR)",9.8,Moderate,Acute coronary syndrome (New Case) (Provisional);,M,66,,,,,,,4,4,5,5,good,independent,independent,independent,normal,indepenent,4,10 mins,116,13,"Strengthening exs both LL/UL
+- LL : 4lbs (4exs) - 15x2set
+- UL: 3 lbs (5 exs) - 15x2sets",15,2,3 lbs (5 exs),4lbs (4exs),,0,0,1,1,0,0,0,2,0,1,0,1,2,2,2,2,0,0,0,1,1,1,1,1,0,2,1,10,4,3,1.1,15,2
+35724768,"DM
+2) HPT
+3) CAS",yes ,yes,,,,,,,0.64,130,10.1,Moderate,Post CABG for TVD,F,61,,,,,,,5,5,5,5,good,independent,independent,independent,normal,indepenent,2,10 mins,108,7,"Strengthening exs (15x1set)
+- 2lbs (4exs)
+- RPE:13",15,1,2lbs (4exs),,13,1,1,0,0,0,0,0,1,0,0,0,2,2,2,2,2,0,0,0,1,1,1,1,1,1,2,1,10,2,2,1.1,15,1
+35733479,"NKDA/NKFA
+Severe MR (Post Mitral valve repair 15/06/2020)",BP: 109/64,fasting blood sugar: 5,No family history of IHD or cardiac problem,"doing home exercise CRP phase I everyday: 5 mins everyday
+
+regular",nil,"yes active smoker, smoking 5-6 ciagarette per day (contemplation stage for quit smoking)
+10 no dyslipidemia: claim blood test done in private lab: nomral","eat home cooked meal, claim health conscious","Obesity
+Weight : 64.8kg
+Height : 187cm
+BMI : 18.5",0.729,141 (88% APMHR),12.8,low,Nonrheumatic mitral valve regurgitation (New Case) (Provisional);,M,30,,,,,,,5,5,5,5,good,independent,independent,independent,normal,indepenent,3,10 mins,141,13,,,,,,,0,0,0,1,0,1,0,1,0,0,0,2,2,2,2,2,0,0,0,1,1,1,1,1,0,0,0,10,3,2,1.1,15,1
+35875071,"Hypertension
+2. Dyslipidemia","yes, Hypertension:home BP monitoring ranging 119-127/50-60 mmhg -compliant",HbA1C- 5.7% ,none,"jogging 3km/day, daily, 1 1/2 hour each in morning and evening
+
+regular",nil,"yes smoking for 50 years, 20 cigarettes/day, Non-alcoholic drinker","home cooked food mainly, used to take oily food","23.9, 65kg, ht: 165cm",0.66,99 (67 of age predicted max HR),7,low,,M,75,married,family,"Stairs : FOS / Steps,",nil,3 times/week,30 mins minutes per session,5,5,5,5,good,independent,independent,independent,normal,indepenent,2,10 mins,80,13,"Strengthening exs
+UL- 2 lbs (5exs), 10 reps x 1 set
+LL- 1 kg (4exs), 10 reps x 1 set
+RPE:10",10,1,2 lbs (5exs),1 kg (4exs),10,1,0,0,1,0,1,0,1,0,1,0,2,2,2,1,2,0,3,3,1,1,1,1,1,0,2,0,10,2,2,1,10,1
+35891647,"DM (Under OHA)
+2. Dyslipidemia
+3. IHD","yes, Hypertension: Norrnally on low side, no giddiness",HbA1c: 7.6%,yes Grandfather/father,"Used to play squas 2-3x/week, badminton and futsal, walking about 5-7km 5times/week","No
+","Quit smoking since May, smoked for about 30 years for 1 pack/day 
+Occasional, normally take beer","Home food more, more fruit, less fatty",24,0.45,111 (63% of APMHR),7.2,Moderate,"IHD
+-Post CABG",M,49,married,family,"Stairs : FOS / Steps,",nil,4 times/week,60 mins minutes per session,5,5,5,5,good,independent,independent,independent,normal,indepenent,2,10 mins,96,12,"UL- 1 lbs (5exs) RPE : 10
+LL- 1 kg (3exs) RPE : 10",,,1 lbs (5exs),1 kg (3exs),10,1,1,1,0,0,0,0,1,1,1,1,1,2,2,1,2,0,4,6,1,1,1,1,1,0,1,1,10,2,1,1,15,1
+245593,"hysterectomy 25 years ago due to menorrhagia
+
+cholecystectomy 20 years ago
+
+Uterine prolapse-ring inserted in March 2019",BP controlled,HbA1C 5.7,No fam hx of CAD,"brisk walking 30mins/day, every day
+regular",NIL,Non smoker,"home cooked meals: 3 regular meals/day, less frying or usage of santan",26.1 (pre obese),0.59,123 (86% APMHR),7,Moderate,,F,81,married,family,FOS/steps,no,7 times/week,30 min per session,5,5,5,5,stable in sitting and standing,Independent,independent,normal,normal,independent,,,,12,,,,,,,0,0,0,1,0,0,0,2,0,0,0,2,2,2,1,2,0,0,3,1,1,1,1,1,1,3,1,10,3,2,1.1,15,1
+543705,,,,,,,,,,0.59,121 (81% max predicted),6.8,Moderate,Post CABG for CRP 2 (moderate risk),F,76,married,family,FOS/steps,no,5 times/week,,5,5,5,5,stable,independent,independent,normal,,indepenednt,,10 mins,,11,,,,,,,0,0,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0,5,0,1,1,1,1,1,1,2,1,10,3,2,1.1,15,1
+600822,"Hx of TIA in 2015 - ? carotid artery stenosis ( on both sides) , admitted to private",,HbA1c 6.3 %,no family Hx of IHD, no regular exercises but does domestic works,,,,,0.59,121 (83% APHR),7,Moderate,IHD - post PCI to LAD,F,80,married,family,lift landing,nil,2 times/weel,45 mins per session,5,5,5,5,normal,independent,independent,normal,normal,indepenednt,2,6 mins,,11,,,,,,,0,0,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0,2,4,1,1,1,1,1,1,3,1,6,2,2,1.1,15,1
+1805045,"Hypertension
+IHD
+Left midbrain stroke with Left INO
+Hx of gastritis",,HbA1c 7.3 % on Insulin and OHA,"Sister had IHD, DM",,in work,"Ex Smoker, stopped 8 years ago",Claims control,25.85,0.59,132 ( 85% of AMPHR),7,moderate,NSTEMI on 7/5/19 - PCI x 2,F,69,single,family,FOS/steps,nil,,,5,5,5,5,good,independent,normal,normal,normal,independent,1,10 mins,102 bpm,10,"UL-2lbs, 5exs, 15reps, 1set",15,1,"2lbs, 5exs",,,0,1,0,0,0,0,0,2,1,0,0,2,2,0,1,2,0,0,0,1,1,1,1,1,1,2,1,10,1,2,1.1,15,1
+2620120,,,,,,,,,,0.59,131 (85% of max predicted 151),7,moderate,post CABG pre CRP2,M,71,married,family,FOS/steps,no,7 times/week,45-60minutes per session,5,5,5,5,stable,independent,independent,normal,normal,independent,,10 mins,101 bpm,13,,,,,,,0,0,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0,0,6,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+3057356,"Worked up for CAD
+sx: near syncopal episode",,,,,,,,,0.59,148bpm (100%),7.2,moderate,"CAD- post PCI to LAD
+
+CRP2",M,81,married,family,FOS/steps,no,4 times/week,55 minutes per session,5,5,5,5,stable,independent,independent,normal,normal,independent,3,5 mins,100 bpm,11,,,,,,,0,0,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0,4,5,1,1,1,1,1,0,3,1,5,3,2,1.1,15,1
+3484491,"HPT
+Impaired Fating Glucose
+Dyslipidemia",,,,,,,,,0.59,123 (78% Max Age Predicted HR),7,low,"Inferior MI, for CRP 2",F,68,married,family,FOS/steps,NIL,,,5,5,5,5,Good,independent,independent,normal,normal,independent,1,10 mins,108 bpm,11,"UL-2lbs, 3exs, 15reps, 1set
+ LL-2kg, 2exs, 15reps, 1set",15,1,"2lbs, 3exs","2kg, 2exs",,0,0,0,0,0,0,0,1,0,1,0,1,2,2,1,2,0,0,0,1,1,1,1,1,1,2,0,10,1,2,2,15,1
+4097807,,,,,,,,,,0.59,113 (75% from max predicted HR),7,Moderate,"3VD, Post CABG",M,73,married,family,,NIL,5 times/week,45-60 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,2,10 mins,93 bpm,11,"UL-2lbs, 5exs, 15reps, 1set
+ LL-1kg sandbag, 2exs, 15reps, 1set",15,1,"2lbs, 5exs","1kg sandbag, 2exs",,0,0,0,0,0,0,0,1,0,0,0,1,2,2,1,2,0,5,6,1,1,1,1,1,0,2,1,10,2,2,1,15,1
+4340701,,"boderline, not in meds",HbA1C 4.9,mother,,NIL,Never smoked,"finely chopped food - small but frequent, with liquid (milk) supplementation",19.65,0.59,148 (98%),10.1,Low,"IHD - 3VD, post PCI",M,72,married,family,,,7 times/week,20 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,3,10 mins,119 bpm,13,"UL (2lbs) - 5exs
+ LL (1KG) - 4exs",,,(2lbs) - 5exs,(1KG) - 4exs,,0,0,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0,0,2,1,1,1,1,1,0,2,0,10,3,2,1,15,1
+4581806,"HPT
+IHD
+PCI in 2000 in PPUM",yes BP on high side today,HBa1C 5.8%%,Father sudden death at 41 y.o,"walking 30 minutes daily , very light intensity
+regular",None,Ex smoker,"imbalance,high calorie - takes Nasi lemak 3x/week",34.85 kg/m2,0.59,127 (max 79%),6.3,Moderate,TVD,M,65,married,family,,NIL,5 times/week,30-45 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,1,10 mins,90 bpm,13,,,,,,,1,0,0,1,0,0,0,0,1,0,0,1,2,2,1,2,0,5,4,1,1,1,1,1,0,2,1,10,1,2,1.1,15,1
+4965140,3VD Post CABG 22/3/19,,,,,,,,,0.59,139 (84%),11.4,Low,"3VD Post CABG
+CRP 2",M,60,married,family,,,1-2 times/week,20-30 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,5,10 mins,110 bpm,13,UL- 2lbs RPE:10,,,2lbs,,10,0,0,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0,1,3,1,1,1,1,1,0,2,0,10,5,2,1.1,15,1
+5155339,"Known case of bladder carcinoma 2003 - 2004
+Prostate Carcinoma 2012 T2N0M0 PSA 12.4 Gleasons 3+3
+Left vocal cord edema",BP control,,no fam hx,none,,"Ex smoker, stopped 10 years ago",vegetarian,clinically pre obese,0.59,106 (77%),4.8,Moderate,3VD all stent,M,87,married,family,,,3 times/week,15-20 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,2,10 mins,89 bpm,13,,,,,,,0,0,0,0,0,0,0,1,0,0,0,1,1,2,1,2,0,3,2,1,1,1,1,1,0,3,1,10,2,2,1.1,15,1
+5221862,"DM/HTN > 10 years under KK Pandamaran
+HPT
+Dyslipidaemia
+IHD with 3VD - not keen for CABG",yes ,HbA1c: 7.8% ,,,,,,,0.59,134 (85%),3.6,Moderate,"IHD
+Post PCI to LAD
+for CRP 2",F,67,married,family,stairs: fos/steps,no,3 times/week,60 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,1,10 mins,87 bpm,13,,,,,,,1,1,0,0,0,0,0,1,1,0,0,2,1,2,1,2,0,3,6,1,1,1,1,1,1,2,1,10,1,2,1.1,15,1
+5732468,IIEF 15,134/89,A1c 5.6%,father had sudden death at age of 50,,nil,"ex smoker, quit 2 months ago","advised on CHO, protein and fibre intake",23,0.5,127,7,Moderate,post CABG,M,70,married,family,stairs: fos/steps,no,7 times/week,20-30 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,,10 mins,90 bpm,12,,,,,,,0,0,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0,0,3,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+6884946,Dyslipidemia,,,,,,,,,0.59,165/min(100% of APHR),10.1,Moderate,IHD,M,59,married,family,lift landing,nil,,,5,5,5,5,Good,independent,independent,normal,normal,independent,5,10 mins,112 bpm,11,"UL 2lbs (5exs) - 15x1set
+ LL 1kg (5exs) - 15x1set",15,1,2lbs (5exs),1kg (5exs),,0,0,0,0,0,0,0,1,0,1,0,2,2,2,1,2,0,0,0,1,1,1,1,1,0,1,1,10,5,2,1,15,1
+6996914,no known past medical illness,BP at rest 119/80,6.2% ( 28/8/2019),"father had history of cardiac problem - already passed away, no other family history of cardiac problem",none,"at the moment, been stress free for past 2 years, previously been stressed in previous job.", used to smoke 6-8 sticks/day for the past 31 years. Patient not smoking since December 2018.,"not balanced diet, however more regular timing","26.68kg/m2 (weight : 83.1kg, height: 177cm)",0.59,125/min(75 % of APHR),9.3,low,TVD post CABG,M,59,marrige,family,,nil,,,5,5,5,5,Good,independent,independent,normal,normal,independent,5,10 mins (extra 5 mins for cooling phase),89 bpm,9,"UL- 3lbs - 5exs (15x1se)t
+ LL- 1kg - 5 exs (15x1set)",15,1,3lbs - 5exs,1kg - 5 exs,,0,0,0,0,1,0,0,0,0,0,0,2,2,2,1,2,0,0,0,1,1,1,1,1,0,1,0,10,5,3,1,15,1
+7203179,"Right breast ca pT2N2(5/23)
+Well Controlled T2DM - Single OHA",NIL,"HbA1c 6.2%, compliant to medication",NIL significant,NONE,"but ongoing stress due to malignancy, husband sometimes scolded patient, still able to cope with stress","sons smoke outside the house, non alcoholic drinker","oily food, less carb, more of protein intake",26.7,0.59,162 (98%),7.5,Moderate,NSTEMI ,F,61,married,family,stairs: fos/steps,"social drinker, no intake for the past 6 months",5 times/week,20-30 mins per session,5,5,5,5,Good,independent,independent,normal,normal,independent,1,10 mins,113 bpm,10,"UL-2lbs, 3exs, 15reps, 2sets
+ LL-2kg, 2exs, 15reps, 2sets",15,2,"2lbs, 3exs","2kg, 2exs",,0,0,0,0,1,0,0,2,0,0,0,2,2,2,1,2,2,5,3,1,1,1,1,1,1,2,1,10,1,2,2,15,2
+8113734,Post VSD closure,,,,,,,,,0.59,133 (73%),10.1,Moderate,Post VSD closure for CRP2,F,41,single,alone,lift landing,no,,,5,5,5,5,Good,independent,independent,normal,normal,independent,3,10 mins,102 bpm,11,,,,,,,0,0,0,0,0,0,0,1,0,0,0,1,2,0,0,2,0,0,0,1,1,1,1,1,1,1,1,10,3,2,1.1,15,1
+8489866,"Trigger fingers both hands - Post steroid injection over Right IF and RF (done on 4/5/2017)
+Hyperlipidaemia
+High tibial Osteotomy, Debridement and Microfracture of medial femoral condyle, Repair left medial meniscus - UMMC 2018",130/79,none,Not significant,"cycling recumbent bike 10mins x twice a week
+regular",NIL,stopped 20 years ago,Controlled,25.8,0.59,153/min ( 92% of max predicted 165 bpm),10.1,Low,TVD post CABG 7/2/2019,M,60,married,family,stairs: fos/steps,nil,2-3 times/week,10-15 mins per session,5,5,5,4,Good,independent,independent,normal,normal,independent,1,10 mins,105 bpm,13,"UL-2lbs, 5exs, 15reps, 1set, RPE-11
+ LL-1kg sandbag, 2exs, 15reps, 1set, RPE-13",15,1,"2lbs, 5exs","1kg sandbag, 2exs",,0,0,0,1,0,0,1,2,0,0,0,2,2,2,1,2,0,2,1,1,1,1,1,1,0,2,0,10,1,2,1,15,1
+8650411,"HPT
+Hand and feet eczema with secondary fungal infection
+Onychomycosis",yes 141/74, hba1c 5.4%,older brother had MI ? unsure age of onset,NIL,retired,"since 20 yrs old, 10-20/day - stopped smoking 1 month",picky with his vegetable,24,0.59,115,7,Moderate,IHD post PCI to LAD,M,64,married,family,,no,,,5,5,5,5,Good,independent,independent,normal,normal,independent,3,10 mins,87 bpm,13,,,,,,,1,0,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0,0,0,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+8728925,"ENT problem - inner ear with tinnitus, on Betaserc but able to tolerate without it now",yes >14 years,11.1,no family hx of cardiac diseases,,work and personal issues,NIL,low sugar diet,22,0.59,126 (76% APMHR),4.6,moderate,"Post PCI to D1
+For CRP II ",F,61,single,family,lift landing,no,7 times/week,30 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,1,10 mins,102 bpm,13,,,,,,,1,1,0,0,0,0,0,1,0,0,0,1,1,0,1,2,0,0,3,1,1,1,1,1,1,2,1,10,1,2,1.1,15,1
+8840245,,,,,,,,,,0.59,136bpm (73%),9.6,low,Post TOF repair- for CRP2 ,F,38,married,family,stairs: fos/steps,NIL,,,5,5,5,5,Good,independent,independent,normal,normal,independent,4,10 mins,108 bpm,9,dumbell exs 2lbs - 5exs (15x1set),15,1,2lbs - 5exs,,,0,0,0,0,0,0,0,1,0,0,0,1,2,2,1,2,0,0,0,1,1,1,1,1,1,0,0,10,4,2,1.1,15,1
+9494294,"NKMI, NKDA",,,,,,still smoking,,,0.59,125 (75% max predicted),7.3,low,"Infero-posterior STEMI Killip I, post PCI to mRCA, for CRP 2, Low risk",M,59,married,family,,nil,3-4 times/week,30 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,4,10 mins,111 bpm,12,UL/LL 4lbs (15x1set),15,1,4lbs,4lbs,,0,0,0,0,0,0,0,1,0,0,0,1,2,2,1,2,0,3,3,1,1,1,1,1,0,1,0,10,4,4,1.1,15,1
+9655832,"IHD
+Bronchial Asthma since childhood",yes,diet control (HbA1c 6.1-6.2),,,,,,,0.59,123(71%) - on beta blocker,7,moderate,"Post PCI March 2019
+for CRP2",M,53,married,family,stairs: fop/steps,no,2 times/week,20 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,,10 minutes,104 bpm,2023-01-13 00:00:00,,,,,,,1,0,0,0,0,0,0,1,1,0,0,1,2,2,1,2,0,2,2,1,1,1,1,1,0,1,1,10,3,2,1.1,15,1
+9912916,"HPT
+IHD with 3VD",yes well controlled,Hb A1C5.6,?sibling passed away from MI at age 70y +,NIL,anxious esp upcoming op,but has exposure to secondhand smoke (husband),usual home cooked,17,0.59,148 (93% APMHR),10.1,low,"Chronic ischaemic heart disease, unspecified (New Case) (Provisional",F,66,married,family,,nil,5 times/week,20-30 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,3,10 min,119-120 bpm,12,,,,,,,1,0,0,0,0,0,0,0,1,0,0,2,2,2,1,2,0,5,3,1,1,1,1,1,1,2,0,10,3,2,1.1,15,1
+11407848,"T2DM
+HPT
+IHD with 2VD",yes,yes,,,,,,,0.59,118bpm (70%),7,moderate,CAD for CRP2,F,56,married,family,,nil,7 times/week,15 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,2,10 mins,95 bpm,11,,,,,,,1,1,0,0,0,0,0,1,1,0,0,1,2,2,1,2,0,0,1,1,1,1,1,1,1,1,1,10,2,2,1.1,15,1
+12303159,"UL
+STEMI 2014 - - stented x1 at PPUM then in Assunta 2014
+Hypertension
+Dyslipidemia",yes,,,"done walking/brisk walk 30 mins for 3 days/week
+
+regular",,stop smoking 3 months ago,,,0.4,161 (100%),10.1,Moderate,"IHD - STEMI 26/3/2019 post PCI, for Pre CRP 2
+ Left Bicipital Tendinitis",M,63,married,family,,no,3 times/week,30 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,3,10 mins,109 bpm,13,,,,,,,1,0,0,1,0,0,0,1,0,1,2,2,2,2,1,2,0,3,3,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+12728478,,under RUKA,under RUKA,,,,,,,0.59,162bpm (100% est max HR),13.1,low,"2VD - for CRP2 (low risk- METS 13.10, HR recovery 16bpm, no ecg change)",M,63,married,family,lift landing,nil,5 times/week,45-60 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,6,10 mins,130 bpm,12,"UL - dumbells exs 4lbs (15x2sets) - elbow flex, punch forward, punch upward
+ LL - sandbag 4lbs (15x2sets) - SLR, hip flex",15,2,dumbells exs 4lbs,sandbag 4lbs,,0,0,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0,5,6,1,1,1,1,1,0,2,0,10,6,4,1.1,15,2
+12870070,"Post CABG for 3VD on 14/3/19
+-post op complicated with costochondirits",,,,,,,,,0.59,146bpm (92%),6.2,moderate,Post CABG for 3VD,M,67,married,family,stairs: fos/steps,nil,6 times/week,45 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,2,10 mins,113 bpm,11,"UL strengthening exs, 2 lbs, 5 exs, 15 reps, 1 set",15,1,"2 lbs, 5 exs",,,0,0,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0,6,4,1,1,1,1,1,0,2,1,10,2,2,1.1,15,1
+14628624,HPT,yes bp controlled,HbA1c 8%,"Father diagnosed IHD at early 50,died due to cardiac problem","cycling 1 hour 1-2x per week
+regular",none,non smoker,took fish but high calorie,28.8kg/m2 (obese BMI ),0.5,111 (68% of max age predicted),5,moderate,IHD (post PCI to LAD),M,62,married,family,,nil,3-4 times/week,30 minutes per session,5,5,5,5,Good,independent,independent,normal,Slight kyphotic,independent,1,10 mins,101 bpm,11,,,,,,,1,0,0,1,0,0,0,0,0,0,0,1,1,2,1,2,0,3,3,1,1,1,1,0,0,2,1,10,1,2,1.1,15,1
+15150930,"HPT
+2. Dyslipidaemia
+3. NSTEMI in 21/2/19",yes  ,,,,,,,,0.59,171bpm (107%),8.8,moderate,"CAD
+stented LAD April 2019",M,60,married,family,,no,7 times/week,30 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,3,10 min,135 bpm,13,,,,,,,1,0,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0,0,3,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+16752325,"Dyslipidaemia
+IHD - hx of admission for ACS 2013, stress test negative, ECG showed PVC
+Anteroseptal MI, KIlip 2 (September 2019)
+Patient post angio done - 20/9/19",,,,,,,,,0.59,118(67%APMHR),7,moderate,CRP2,M,49,married,family,stairs: fos/steps,nil,2-3 times/week,40 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,,10 mins,91 bpm,10,"2 LBS dumbell - 4 exs + 2 sets , RPE 10 
+ 1 kg sandbag - 4 exs + 2 sets , RPE 10",,2,2 LBS dumbell - 4 exs,1 kg sandbag - 4 exs,10,0,0,0,0,0,0,0,1,1,0,0,1,2,2,1,2,0,2,4,1,1,1,1,1,0,1,1,10,3,2,1,15,2
+16785720,"hypercholesterolaemia- not on meds
+Angiogram done 27/6",,,elder brother had MI at the age of <50,"pt is UM rep for football ; trains 3x/week (under Sports Med UMMC)
+regular",nil,non smoker,mostly eat outside food except weekend,29.9,0.59,178 (98%),12.8,low,STEMI (LMS disease),M,46,married,family,stairs: fos/steps,nil,3-4 times/week,20 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,8,10 min,135 bpm,11,"5exs (15x1set)
+ - both UL - 4lbs
+ - both LL - 4lbs",15,1,4lbs 5 exs,4lbs 5 exs,,0,0,0,1,0,0,0,2,0,0,0,2,2,2,1,2,0,3,2,1,1,1,1,1,0,1,0,10,8,4,1.1,15,1
+17294118,"DM
+Dyslipidemia",,HBA1c 8.9%,nil,no regular,nil,ex smoker,homr cooked meals,not obese,0.63,95(68%),4.6,Moderate,STEMI post angiogram,M,85,married,family,stairs: fos/steps,no,7 times/week,5-10 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,1,10 mins,77 bpm,12,static bike 10minutes RPE12 R1 MHR 77bpm,,,,,12,0,1,0,0,0,0,0,1,0,1,0,1,1,2,1,2,0,0,1,1,1,1,1,1,0,3,1,10,1,2,1.1,15,1
+17446732,"HPT
+2. Dyslipidemia
+3. BPH
+4. Bronchial asthma
+5. Allergic rhinitis
+6. Left ankle OA
+BPPV",yes,no HbA1c 5.6,brother 60y + - had angioplasty as well,"daily morning walk; reaches 10K steps/day
+regular",,never smoked; exposure of to secondhand smoke in office,"home cooked, reduced in fat/fried for 20 years",22.25,0.59,131 (88% of max predicted),6.8,moderate,"Single vessel disease, post PCI to LAD",M,77,married,family,stairs: fos/steps,nil,7 times/week,40-60 minutes per session,5,5,5,5,good,independent,independent,normal,normal,independent,5,10 mins,,14,,,,,,,1,0,0,1,0,0,0,1,0,1,0,2,2,2,1,2,0,0,6,1,1,1,1,1,0,2,1,10,5,2,1.1,15,1
+17671639,"Hypertension - was on amlodipine and perindopril
+Asthma - On MDI FLutisone II/II BD,last admission past 4-5 years
+Allergic Rhinitis - on Nasal spray",yes compliance to medication,,sister dx IHD in 45,"occasionally walk to the park but stopped due to frequent asthma attack,doing isometric exercise for knee OA","disturb sleep,husband play with HP till late night and sometimes disturb her sleep,suggest to d/w husband to handle the situation",nil,poor controlled,31.35 kg/m2,0.59,162 (102% APMHR),10,low,Post PCI to RCA - to start CRP II (low risk group),F,66,married,family,stairs: fos/steps,nil,7 times/week,30 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,2,10 mins,120 bpm,12,,,,,,,1,0,0,0,0,0,0,0,0,0,0,2,2,2,1,2,0,0,3,1,1,1,1,1,1,2,0,10,2,2,1.1,15,1
+17817790,"Hodgkin's lymphoma in CR2 since 2012 (under hemato follow up)
+IHD",,,,,,,,,0.59,157 (85% max age predicted),13.4,low,"IHD
+Pre CRP 2",M,46,,,,still consumes alcohol (2 glasses of wine or one can of beer) once a week,,,5,5,5,5,Good,independent,independent,normal,normal,independent,8,10 mins,123 bpm,12,,,,,,,0,0,0,0,0,0,0,1,1,0,0,2,2,2,2,2,0,0,0,1,1,1,1,1,0,1,0,10,8,2,1.1,15,1
+18242952,"DM
+HPT
+Chronic back pain
+Depressive d/o - under psy, on psychotherapy, not on meds
+Left basal ganglia infarct ",yes today's BP 137/54,HbA1C 6.3%,,no regular,main carer for OKU child - physically and PADL semi dependent on J209pt,NON SMOKER,,28.45,0.59,150 (93% predicted),7,Moderate,"post NSTEMI
+Angio: mild CAD",F,64,married,family,,nil,3 times/week,30 mins per session,5,5,5,5,Good,independent,independent,normal,normal,independent,1,10 mins,117 bpm,9,,,,,,,1,0,0,0,0,0,0,2,0,0,0,2,2,2,1,2,0,3,3,1,1,1,1,1,1,2,1,10,1,2,1.1,15,1
+18802273,"TVD (NYHA II CCS II)
+CABG on 13/12/18","yes borderline,sometimes claim BP >160/90",,siblings has IHD,"slow walk daily about 2km
+regular",nil,just stopped after the recent ACS,not controlled,obesity- BMI 29.87 kg/m2,0.59,117 (71% APMHR),7,moderate,TVD,M,60,married,family,,occasionally,7 times/week,30 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,,,,,,,,,,,1,0,0,1,0,0,0,0,0,0,0,1,2,2,1,2,1,0,3,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+22558489,"HTN
+DM",yes,yes,,,,ex smoker- stopped 1 year ago,,,0.59,117 (76%),,moderate,Heart failure with UL CAD,M,70,married,family,,nil,5 times/week,5 minutes per session,5,5,4,4,"Sitting: good
+ Standing: fair",independent,Aided : walking frame,slow stepping gait,normal,independent,1,10 mins,89 bpm,13,,,,,,,1,1,0,0,0,0,0,1,0,0,0,1,2,2,1,2,0,5,0,1,1,0,0,1,0,2,1,10,1,2,1.1,15,1
+22621156,"NKDA NKFA
+TVD (NYHA II CCS II)",,"HBA1 C 6.9% , Poorly controlled , reflo 5.3",,"claim he did walking every day (total) 3000 steps with interval of rest , a normal pace walking
+
+regular",managable,"chronic smoker, 2 box per day, already stop smoking since op .","low sugar low salt,",27,0.59,121 bpm (75% of max predicted 160bpm),7,moderate,TVD Post CABG,M,65,married,family,stairs: fos/steps,no,7 times/week,30 ? minutes per session,5,5,5,5,Good,independent,independent,normal,slight scoliosis to left,independent,1,10 mins,85 bpm,13,,,,,,,0,1,0,1,0,0,0,2,0,0,0,1,2,2,1,2,0,0,3,1,1,1,1,0,0,2,1,10,1,2,1.1,15,1
+24451371,"Dyslipidaemia
+IHD - anginal symptoms since feb 2018
+HOPI",,,,,,,,,0.59,118 (72% APMHR),10.4,low,post CABG,M,66,married,familly,stairs: fos/steps,no,,,5,5,5,5,,,,,,,3,10 mins,105 bpm,12,resisted exercises UL 1.3 kg 4exercises alt 1set,,1,1.3 kg 4exs,,,0,0,0,0,0,0,0,1,1,0,0,1,2,2,2,2,0,0,0,1,1,1,1,1,0,2,0,10,3,2,1.1,15,1
+25163825,"HTN
+2. Dyslipidaemia
+3. Hx left renal calculi",yes BP well controlled,A1c 6.4%,nil,,,nil,controlled,,0.66,121,6.8,moderate,"TVD post CABG 1/11/2018
+Pre CRP II EST",M,76,married,familly,stairs: fos/steps,,5-6 times/week,30 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,1,10 mins,100 bpm,12,,,,,,,1,0,0,0,0,0,1,1,0,0,0,2,2,2,2,2,0,5,3,1,1,1,1,1,0,2,1,10,1,2,1.1,15,1
+26266997,"Lateral MI killip 1
+HPT
+IHD
+BPH
+DM ",yes well controlled,HbA1c 5.7,,"daily brisk walking for at least 30mins, once weekly tai chi
+
+regular",nil,nil,"balanced diet, less oily food, low sugar and salt","lean, no increase in weigth recently",0.59,,,,"IHD ,2 vessels D/S
+post PCI over D1",M,70,single,family,,nil,5-6 times/week,10-15 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,1,10 mins,119 bpm,11,,,,,,,1,0,0,1,0,0,0,1,1,0,0,2,2,0,1,2,0,5,1,1,1,1,1,1,0,2,1,10,1,2,1.1,15,1
+26272830,"DM - 2 yrs on OHA
+2. HPT
+3. Dyslipidaemia
+stroke
+Benign colonic polyp","yes compliance to medication , BP reducing in trend from previous",hba1c 7.1% - under study for comparison between olive and coconut oil,father IHD,"brisk walk,1-2 h perday
+regular",high due to work + NGO involvement,quit >20 years ago,oily food (mamak) and chocolate before operation,"BMI 25.3 ----> post op BMI 23.8 , weight 64.8 --> 24.36",0.61,131 bpm (84% of max predicted 155bpm),7,low,TVD - post CABG (post CABG 4 months),M,70,married,family,stairs: fos/steps,nil,1 time/week,30 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,2,10 mins,107 bpm,13,"UL- 2 lbs, 5 exs, 15 reps, 1 set, RPE-12
+ LL- 1 kg sandbag, 3 exs, 15 reps, 1 set, RPE-13",15,1,"2 lbs, 5 exs","1 kg sandbag, 3 exs",13,1,1,0,1,0,0,0,1,0,0,0,2,2,2,1,2,0,1,3,1,1,1,1,1,0,2,0,10,2,2,1,15,1
+26288109,Gout,,"nil , HBA 1c 5.7%",nil significant,not done for 1 year,managable,Active smoker- stopped 3 months ago,imbalanced diet,26.15,0.65,121 (70% APMHR),7,moderate,"Pre CRP EST : mod risk
+Rt trigger point",M,63,married,family,lift landing,nil,2-3 times/week,15 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,2,10 mins,100 bpm,9,"UL strengthening exs, 2lbs dumbell, 5exs, 15reps, 1set
+ LL strengthening exs, 1kg sandbag, 2exs, 15reps, 1set",15,1,"2lbs dumbell, 5exs","1kg sandbag, 2exs",,0,0,0,0,0,0,0,2,0,0,0,1,2,2,1,2,0,2,1,1,1,1,1,1,0,2,1,10,2,2,1,15,1
+28104676,HPT/Dyslipidaemia,yes,,,,,,,,0.59,157bpm (99%) ,13.4,low,CAD - conservative mx for CRP2 (low risk),M,67,married,family,stairs: fos/steps,nil,1 time/week,20 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,5,10 mins,91 bpm,9,"UL- 2lbs - 5exs (15x1set)
+ LL- 1kg - 5 exs (15x1set)",15,1,2lbs - 5exs,1kg - 5 exs,,1,0,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0,1,2,1,1,1,1,1,0,2,0,10,5,2,1,15,1
+28113314,"DM
+2. AVR in 2011, on warfarin f/up INR Clinic at UMMC
+3. CVA in April 2019",,yes,,,,,,,0.59,141 (88%),7,low,"NSTEMI Post PCI, for CRP 2, low risk",M,66,married,family,"Stairs : 40 FOS / Steps,",nil,5 times/week,30 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,,,,,,,,,,,0,1,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0,5,3,1,1,1,1,1,0,2,0,10,3,2,1.1,15,1
+28392868,"HPT
+ Dyslipidaemia - no recent lipid available in system",yes,,distant relatives have CAD,No regular exercise,doing PHD now,non smoker,home cooked meals,,0.59,137bpm (78%) - on bisoprolol,10.1,moderate,"Post PCI - pre CRP2
+moderate (unstented LCx)",F,51,married,family,,nil,,,5,5,5,5,Good,independent,independent,normal,normal,independent,,10 mins,99 bpm,12,"UL-3lbs, 5exs, 15reps, 1set",15,1,"3lbs, 5exs",,,1,0,0,0,0,0,0,1,0,0,0,1,2,2,1,2,0,0,0,1,1,1,1,1,1,1,1,10,3,3,1.1,15,1
+28655044,NKMI,,,,,,,,,0.59,153 (100%),7,moderate,for Hosp Base CRP 2 for 4 weeks (in view logistic & financial),M,72,married,family,,,,,5,5,5,5,Good,independent,independent,normal,normal,independent,3,10 mins,122,13,"(15X2set)
+ UL-3lbs - 5exs RPE:11
+ LL-lkg - 4exs RPE:11",15,2,3lbs - 5exs,1kg - 4exs,11,0,0,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0,0,0,1,1,1,1,1,0,2,1,10,3,3,1,15,2
+31363849,"NKMI
+Anterior STEMI Killip 1","not known to have high BP before, current BP:90-100/60-70",A1c 6.7%,brother (done CABG) at age of 60,,nil,nil,not controlled,moderate built,0.45,116bpm (73% of APHR),7.8,moderate,IHD post PCI,M,67,married,family,stairs: fos/steps,nil,5-6 times/week,5-10 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,1,10 mins,87,11,"UL-2lbs, 3exs, 15reps, 1set
+ RPE-8",15,1,"2lbs, 3exs",,8,0,1,0,0,0,0,0,1,0,0,1,1,2,2,1,2,0,5,1,1,1,1,1,1,0,2,1,10,1,2,1.1,15,1
+31948684,"T2DM diagnosed in 2013 during admission for perianal fistula
+History of EUA + rigid sigmoidoscopy + I&D for perianal abscess in 2013 in PPUM",,yes,,,,,,,0.59,"150bpm(85 % of maximal, age predicted heart rate)",,low,IHD,M,50,married,family,"stairs: fos/steps
+ lift landing",nil,1-2 times/week,20 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,,,,,,,,,,,0,1,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0,1,2,1,1,1,1,1,0,1,0,10,3,2,1.1,15,1
+32065848,"UL
+HPT -under KK Bentong
+Glaucoma -under PPUM",yes BP well controlled,HBA1C 5.5%,father,,has adult OKU daughter (learning disability),nil,home-cooked,slim build,0.59,120 (82% APMHR),9.4,moderate,NSTEMI post PCI,M,79,married,family,,nil,3-4 times/week,10-15 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,2,10 mins,96,13,"(15x1set)
+ - UL 2lbs - 5exs RPE:11
+ - LL 1kg - 4exs RPE:11",15,1,2lbs - 5exs,1kg - 4exs,11,1,0,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0,3,1,1,1,1,1,1,0,2,1,10,2,2,1,15,1
+33502400,"DM
+Dyslipideamia
+BPH
+Right renal cyst - on uro follow up
+ Newly diagnosed BA",,"yes on diet control, latest Hba1c 6.3% (15/5/2019)",,,,ex smoker ,,,0.59,164 (100% max HR),10.1,low,"NSTEMI, post event 2/12",M,62,married,family,,nil,2 times/week,60 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,8,10 mins,122,11,"Dumbell exs 4lbs (15x1set)- elbow flex/punch forward/upward
+ Sandbag 4lbs (15x1set)- hip flex/SLR",15,1,4lbs ,4lbs ,,0,1,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0,2,6,1,1,1,1,1,0,2,0,10,8,4,1.1,15,1
+33507476,"Anteroseptal STEMI
+--> Post PCI LAD Thrombus (2/7/2019)
+hypercholestaeroalemia
+2. Internal haemorrhoids without complication",,,,,,,,,0.59,146bpm (96% of APHR),12.9,moderate,"Post STEMI, LAD stented - for CRP2",M,72,married,family,stairs: fos/steps,rarely,7 times/week,60 minutes per session,5,5,5,5,good,independent,independent,normal,normal,independent,2,10 mins,110,13,"UL-2lbs, 5exs, 15reps, 1set
+ LL-1kg sandbag, 2exs, 15reps, 2sets",15,1,"2lbs, 5exs","1kg sandbag, 2exs",,0,0,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0,0,6,1,1,1,1,1,0,2,1,10,2,2,1,15,1
+33829700,"HPT
+DM
+triple vessel disease","yes on high side in ward , possible due to pain",HBA 1 c 6.1 % - good control,,,managable,ex smoker,"start to take care of his diet since 1 year ago, cut down cholesterol food and sugar","not appear overweight , weight 69 kg",0.57,139 /min,7,moderate,Post CABG for TVD - for CRP II,M,77,married,family,,social drinker,7 times/week,20 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,1,10 mins,99,11,"Strengthening exs, 2lbs, 5exs, 15reps, 1set",15,1,"2lbs, 5exs",,,1,0,0,0,0,0,0,2,0,0,0,2,2,2,1,2,2,0,2,1,1,1,1,1,0,2,1,10,1,2,1.1,15,1
+33869327,"IHD
+HPT",yes,,,,,,,,0.59,97 (64%),7.2,moderate,post CABG for CRP2- moderate risk,M,72,married,family,stairs: fos/steps,no,,,5,5,5,5,Good,independent,independent,normal,normal,independent,,10 mins,75,13,,,,,,,1,0,0,0,0,0,0,1,1,0,0,1,2,2,1,2,0,0,0,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+33938052,"Post CABG for 3VD
+Dyslipidemia
+Left Et dysfunction. Right SNHL 
+3VD Vessel Disease",,,,,,,,,0.59,103 (65% pred max HR - likely due to Bisoprolol on board),7,low-moderate,"EST post CABG
+For CRP2 (low-moderate risk)
+TRO DM/UTI - pr not keen for blood taking and UFEME testing today. Claims will be seeing RUKA for regular TCA tomorrow",M,66,married,family,,nil,4-5 times/week,30 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,,,,,,,,,,,0,0,0,0,0,0,0,1,0,1,0,1,2,2,1,2,0,4,3,1,1,1,1,1,0,2,0,10,3,2,1.1,15,1
+34433675,"DM
+2. HPT
+3. IHD poor EF - 25% (Nov 2018)",yes,yes,,,,,,,0.59,144bpm (89% of pred max HR),7.2,low,3VD post CABG - low risk,M,64,married,family,stairs: fos/steps,no,,,5,5,5,5,Good,independent,independent,normal,normal,independent,3,,124,12,,,,,,,1,1,0,0,0,0,0,1,1,0,0,2,2,2,1,2,0,0,0,1,1,1,1,1,0,2,0,10,3,2,1.1,15,1
+34532744,HPT/BPH,yes,,,,,,,,0.59,143 (97%),7,moderate,"IHD Post PCI to LAD Pre CRP 2, Mod Risk",M,76,married,family,,no,,,5,5,5,5,Good,independent,independent,normal,normal,independent,1,10 mins,95,12,,,,,,,1,0,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0,0,0,1,1,1,1,1,0,2,1,10,1,2,1.1,15,1
+35018219,"hpt
+intermittent BA",yes,nil,father had MI at age 60,,"have oncalls, low stress level",20 yrs hx,"unhealthy, oily food",25.6,0.59,164 ( 91 % from APHR ),9.8,low,IHD post PCI to LAD,M,46,married,family,,nil,1 time/week,30-40 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,1,10 mins,112,12,"Strengthening exs, 2lbs, 3exs, 15reps, 1set",15,1,"2lbs, 3exs",,,1,0,0,0,1,0,0,2,0,0,0,2,2,2,1,2,0,1,4,1,1,1,1,1,0,1,0,10,1,2,1.1,15,1
+35040959,"DM
+2. HPT
+ 3. CAD- 3VD",yes,yes,,,,,,,0.59,137bpm (85%),7.8,moderate,CAD- pre CRP2,M,64,married,family,"Stairs : FOS / Steps,",,,,5,5,5,5,Good,independent,independent,normal,normal,independent,3,10 mins,108,10,,,,,,,1,1,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0,0,0,1,1,1,1,1,0,2,1,10,3,2,1.1,15,1
+35069310,"TVD with LMS involvement
+E/ A For angiogram
+Normal LMCA",,,,,,,,,0.59,146 (89% APMHR),10.5,moderate,Post EST For CRP 2,F,60,married,family,"Stairs : FOS / Steps,",no,7 times/weel,,5,5,5,5,Good,independent,independent,normal,normal,independent,1,10 mins,105,11,,,,,,,0,0,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0,0,0,1,1,1,1,1,1,2,1,10,1,2,1.1,15,1
+35110280,HPT/Dyslipidaemia,yes,,,,,,,,0.59,142 (86%),10.1,low,"Severe MR - post MIS MVR July 2019 , CRP 2 Low Risk",M,59,married,family,,nil,1 time/week,30 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,5,10 mins,125,13,"(15X1set)
+ both UL- 2lbs (RPE:10)
+ both LL- 1kg (RPE:10)",15,1,2lbs,1kg,10,1,0,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0,1,3,1,1,1,1,1,0,1,0,10,5,2,1,15,1
+35116494,"IHD
+- stented x 1 in Hosp Assunta on 24/9/2018
+- PPCI to LAD for anterior MI
+2. Dyslipidemia",130/90,no,nil,"walk 3-4 km per day, badminton game 2 times per week
+
+regular",nil,"30y pack year, now still smoking 5 cigarates per day, peer influence,",uncontrolled,23,0.59,151 (94% of APHR),10.1,moderate,IHD post PCI,M,64,married,family,"Stairs : 20 FOS / Steps,",1-2 times per year,4-5 times/week,30 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,1,10 mins,113,11,"dumbbell 2 LBS , 2 sets x 4 exs , RPE 11",,2,2 LBS 4 exs,,11,0,0,0,1,0,0,0,1,1,1,0,2,2,2,1,2,0,4,3,1,1,1,1,1,0,2,1,10,1,2,1.1,15,2
+35142126,"Dyslipidemia
+2) Stopped smoking for more than 10 years
+3) Strong family history of IHD",,,,,,,,,0.59,129bpm (79%),11.5,,IHD post CABG on the 20/3/19,M,61,married,family,,,7 times/weel,30-60 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,1,10 mins,102,9,"UL-2lbs, 5exs, 15reps, 1set
+ LL- 1kg, 2exs, 15reps, 2sets",15,1,"2lbs, 5exs","1kg, 2exs",,0,0,0,0,0,0,0,1,1,1,0,1,2,2,1,2,0,0,6,1,1,1,1,1,0,2,1,10,1,2,1,15,1
+35149929,H/o NSTEMI complicated with decompensated CCF,nil,Nil. Hba1c 5.7,Family history of heart disease. Father has IHD,Doing Qi-Gong,no,Ex-smoker. 20 pack year. ,home-cooked and outside food,,0.59,138 (91% of max predicted 151,7,moderate,"H/o NSTEMI complicated with decompensated CCF
+For CRP 2",M,73,married,family,"Stairs : 20 FOS / Steps,",no,,,5,5,5,5,Good,independent,independent,normal,normal,independent,2,15 mins,110,13,,,,,,,0,0,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0,0,0,1,1,1,1,1,0,2,1,15,2,2,1.1,15,1
+35159840,"Post Angio + Primary PCI (done on 7/2/19)
+CKD",,,,,,,,,0.59,136bpm (83%),,moderate,CAD for CRP2,M,61,single,alone,lift lanidng,nil,,,5,5,5,5,Good,independent,independent,normal,normal,independent,2,10 mins,95,11,"UL strengthening exs, 2 lbs, 5 exs, 15 reps, 1 set",15,1,"2 lbs, 5 exs",,,0,0,0,0,0,0,0,1,0,0,0,2,2,0,0,2,0,0,0,1,1,1,1,1,0,2,1,10,2,2,1.1,15,1
+35166864,"Dyslipidaemia
+2. gout
+3. ?AFib
+4. cervical spondylosis",nil,nil,nil of note,nil done premorbidly,long working hours previously,non smoker,unhelathy diet - take outside food,27,0.59,153 ( 95% of APHR ),10.1,low,"TVD , post CABG 8 weeks",M,65,married,family,lift lanidng,occasionally,7 times/weel,40-60 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,3,10 mins,91,9,"UL- 3 lbs, 3 exs, 10x, 2 sets
+ RPE: 11",10,2,"3 lbs, 3 exs",,11,0,0,0,0,0,0,0,2,0,0,0,2,2,2,1,2,1,0,6,1,1,1,1,1,0,2,0,10,3,3,1.1,10,2
+35222107,"NKMI, Premorbidly well",well control bp,nil,no,nil,,non smoker,taking home cooked diet,22,0.66,126bpm (78%),7,moderate,"Stanford A Aortic Dissection complicated with Rt Subcortical Ischemia, post event 2/12 with good motor recovery",F,64,,,,,,,5,5,5,5,Good,independent,independent,normal,normal,independent,4,10 mins,95,11,,,,,,,0,0,0,0,0,0,0,1,0,0,0,1,2,2,2,2,0,0,0,1,1,1,1,1,1,2,1,10,4,2,1.1,15,1
+35236601,PCI to LAD (primary PCI) for anterior MI in March 2019,,,,,,,,,0.59,152bpm (92%),10.1,low,"PCI to LAD (primary PCI) for anterior MI in March 2019
+- for CRP2 (low risk)",M,73,married,family,stairs:FOS/Steps,no,1 times/week,240 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,3,10 mins,108,12,,,,,,,0,0,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0,1,6,1,1,1,1,1,0,2,0,10,3,2,1.1,15,1
+35238225,,,,,,,,,,0.59,104% APMHR,,low,"Post ASD closure
+Pre CRP2
+Imp: low risk",M,33,single,with family,,nil,3 times/week,15-20 minutes per session,5,5,5,5,Good,independent,independent,normal,normal,independent,3,10 mins,163,11,"UL-3lbs, 5exs, 15reps, 1set
+ LL-1kg sandbag, 2exs, 15reps, 3sets",15,1,"3lbs, 5exs","1kg sandbag, 2exs",,0,0,0,0,0,0,0,1,0,0,0,2,2,0,1,2,0,3,2,1,1,1,1,1,0,0,0,10,3,3,1,15,1
+35238339,"IHD, dx in 2017",nil,nil,No Family H/o IHD,NIL,stress at work,"Chronic Smoker, 15 sticks/day - stopped",home base cook,Normal,0.49,131 (77% of max predicted),10.1,moderate,TVD post CABG,M,56,married,family,"Stairs : FOS / Steps,",no,,,5,5,5,5,Good,independent,independent,normal,normal,independent,2,10 mins,101,13,,,,,,,0,0,0,0,1,0,0,1,1,0,1,1,2,2,1,2,0,0,0,1,1,1,1,1,0,1,1,10,2,2,1.1,15,1
+35245773,"DM since 2004 on OHA - going GP and KPJ klang for follow up
+HTN
+Hypercholestrolaemia",yes well controlled,yes no results ,FHx of IHD- brother and father had IHD,"walking every 4 days a week , for 45 minutes , stretching and breathing exs 10 minutes
+
+regular",none,,"home cooked food, less oily food, change to brown rice and smart balance oil",22,0.64,136 ( 88% of max age predicted),7.6,low,TVD post CABG for CRP 2,M,71,married,family,"Stairs : FOS / Steps,",no,4 times/week,,5,5,5,5,Good,independent,independent,normal,normal,independent,3,10 mins,111,,,,,,,,1,1,0,1,0,0,0,1,0,0,0,2,2,2,1,2,0,4,0,1,1,1,1,1,0,2,0,10,3,2,1.1,15,1
+35260756,Post AVR on 17/4/19,,,,,,,,,0.75,150bpm (79%)bpm - on bisoprolol,11.6,low,CRP 2,M,36,married,family,"Stairs : FOS / Steps,",nil,,,5,5,5,5,Good,independent,independent,normal,normal,independent,2,10 mins,120,13,"UL-3lbs, 5exs, 15reps, 1set
+ LL-1kg sandbag, 2exs, 15reps, 2sets",15,1,"3lbs, 5exs","1kg sandbag, 2exs",,0,0,0,0,0,0,0,1,0,0,0,1,2,2,1,2,0,0,0,1,1,1,1,1,0,0,0,10,2,3,1,15,1
+35309581,"Dyslipidemia
+Gastritis",range 90-100/60-70,HBA 1C 5.9,father passed away 2 heart d/s at 80y/o,"morning walk 15 minutes per day , with stretching , 105 min/week
+
+regular",,"ex smoker , stop > 10 yrs",imbalance diet,17.25,0.59,142 (88%) attenuated by b-blocker,13.4,low,Post PCI to dLAD,M,63,married,family,"Stairs : FOS / Steps,",occasional drinker,6 times/week,15 minutes per session,5,5,5,5,stale,independent,independent,normal,normal,independent,3,10 mins,108,11,"4 exercises UL and 4 exercises LL RPE12 , 1.3kg",,,4exs,1.3kg 4exs,12,0,0,0,1,0,0,0,0,0,1,0,2,2,2,1,2,1,6,1,0,1,1,1,1,0,2,0,10,3,2,1.3,15,1
+35331148,3VD - post PCI on 16/4/19,,Hb A1C 5.1%/non smoker,No family hx,"Active lifestyle, well controlled diet, regular exercises 30mins/day","
+working as insurance agent
+",,,22,0.59,105 (66% APMHR),8.1,moderate,3VD - post PCI for CRP 2 - Moderate Risk,F,66,married,family,,nil,3-4 times/week,30-40 minutes per session,5,5,5,5,good,independent,independent,normal,normal,independent,2,10 min,84,13,,,,,,,0,0,0,1,0,0,0,1,0,0,0,1,2,2,1,2,0,3,4,1,1,1,1,1,1,2,1,10,2,2,1.1,15,1
+35383384,"Newly Dx Dyslipidaemia
+2. Vision problem (Tunnel Vision) - appt with ophthal Hosp Shah Alam on 1/8/19",,HbA1c: 5.1%,no,used to play basketball regularly before started work,"work responsibiities, work hours (2pm to 10pm) 6 days/week",Chronic smoker: 13 pack years; used to smoke 1/2 to 1 pack daily,not well control,21,0.59,144 (76% of max predicted),10.1,low,"STEMI, post PCI ~2/12",M,34,single,family,Stairs : FOS / Steps,no,,,5,5,5,5,good,independent,independent,normal,normal,independent,3,10 mins,111,13,,,,,,,0,0,0,1,0,0,0,1,0,0,0,1,2,0,1,2,0,0,0,1,1,1,1,1,0,0,0,10,3,2,1.1,15,1
+35443681,"NSTEMI, on 30/7/19
+- done PCI to RCA, LCx, LAD
+- was admitted to UMSC for NSTEMI
+- done ECHO, claim EF normal
+Newly Dx T2DM on MTF XR",control,yes,Fhx of IHD,nil,at workplace,non smoker,home cooked diet,25,0.59,163 (103%),9.1,low,IHD,M,68,married,family,,no,7 times/week,15 minutes per session,5,5,5,5,good,independent,independent,normal,normal,independent,3,10 mins,124,13,,,,,,,0,1,0,0,0,0,0,2,0,0,0,2,2,2,1,2,0,0,1,1,1,1,1,1,0,2,0,10,3,2,1.1,15,1
+35507404,Post PCI to LAD (indication: unstable angina),"none. no meds for BP, today's BP 142/67",,nil regular,sedentary,nil,Ex chronic heavy smoking - now has stopped smoking since Sept 2019,,clinicaaly obese,0.59,(91% APMHR) : 144,10.1,low,CAD,M,66,married,family,"Stairs : FOS / Steps,",nil,2-3 times/week,40 minutes per session,5,5,5,5,good,independent,independent,normal,normal,independent,,10 mins,117,12,"UL strengthening exs 2 LBS - 4 exs x 2 sets , RPE 11",,2,2 LBS - 4 exs,,11,0,0,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0,2,4,1,1,1,1,1,0,2,0,10,3,2,1.1,15,2
+35521298,DM and dyslipidemia ,,yes,,,,,,,0.5,(98% APMHR) : 176,11.7,low,Inferior MI: post PCI,M,46,married,family,,,3-4 times/week,30 minutes per session,5,5,5,5,good,independent,independent,normal,normal,independent,6,10 mins,144,13,"(15x1set)
+ UL- 4lbs (5exs) RPE:11
+ LL- 4lbs (4exs) RPE:11",15,1,4lbs (5exs),4lbs (4exs),11,0,1,0,0,0,0,0,1,0,1,0,2,2,2,1,2,0,3,3,1,1,1,1,1,0,1,0,10,6,4,1.1,15,1
+18554199,"T2DM
+HPT
+Gouty arthritis","yes Bp normal range,compliance",yes improving HbA1c 9 --> 6,yes family h/x brother,"twice weekly in DEMC - did cycling ,step for 1 hour
+regular",yes stress during working,non smoker,like curry cook with fish,28.7 (pre-obese),0.6,114 ( 70% of max predicted HR ),7,moderate,,M,64,Marriage,With Family,Stairs : FOS / Steps,Nil,1 times/week,10 minutes per session,5 of 5,5 of 5,5 of 5,5 of 5,Good,Independent,Independent,Normal,Normal,Independent,1,10mins,91bpm,13,"2lbs, 5exs, 15reps, 1set",15,1,"2lbs, 5exs",,,1,1,1,1,1,0,0,2,0,0,0,1,2,2,1,2,0,1,1,1,1,1,1,1,0,2,1,10,1,2,1.1,15,1
+22066292,"HPT for 10 years
+Gouty arthritis",yes  ,,,,,,,,0.4,114,7,moderate,"2VD 
+inferior MI
+PCI done for CRP II
+moderate risk",M,56,,,Stairs : FOS / Steps,Nil,1-2 times/week,20 minutes per session,5 of 5,5 of 5,4 of 5,4 of 5,Good,Independent,Independent,Normal,Normal,Independent,3,5mins,88bpm,11,"2lbs, 5 exs , 15 reps",15,1,"2lbs, 5exs",,,1,0,0,0,0,0,0,1,0,0,2,2,2,2,2,2,0,1,2,1,1,1,1,1,0,1,1,5,3,2,1.1,15,1
+9740031,TVD,,HbA1c 8.4%,yes mother has IHD,used to play football at young age,nil specific,stopped since March 2018,imbalanced,24.5,0.59,123 (74% of age predicted),4.8,,TVD,M,60,Marriage,With Family,"Lift-landing, Stairs : FOS / Steps,",Occasionally,3 times/week,25 minutes per session,5 of 5,5 of 5,5 of 5,5 of 5,Good,Independent,Independent,Normal,Normal,Independent,1,10 mins,90bpm,11,"2lbs, 5exs, 15reps, 1set",15,1,"2lbs, 5exs",,,0,1,1,0,0,0,0,1,0,0,0,1,1,2,1,2,1,3,2,1,1,1,1,1,0,2,1,10,1,2,1.1,15,1
+13055345,"premorbidly NYHA I, with no known medical illness",,,,,,,,,0.59,127 (78% APMHR),7,moderate ,IHD post PCI to RCA,M,61,Marriage,With Family,"Lift-landing, Stairs : FOS / Steps,",NIL,2-3 times/week,10-15 minutes per session,5 of 5,5 of 5,5 of 5,5 of 5,Good,Independent,Independent,Normal,Normal,Independent,2,10 mins,88bpm,11,"2lbs, 5exs, 15reps, 1set",15,1,"2lbs, 5exs",,,0,0,0,0,0,0,0,1,0,0,0,1,2,2,1,2,0,2,1,1,1,1,1,1,0,2,1,10,2,2,1.1,15,1
+18088716,"Underlying Mitral Valve Stenosis
+AF",yes on atenolol 50mg od,NIL,,"no regular exercise, depends on physical activty as housewife",NIL specific,NIL,not balanced,steady,0.59,148 (89%),7.1,moderate ,"MS post replacement
+AF
+moderate risk for exercise training",F,60,Marriage,With Family,Stairs : FOS / Steps,no,,25 minutes per session,5 of 5,5 of 5,5 of 5,5 of 5,Good,Independent,Independent,Normal,Normal,Independent,1,10 mins,112bpm,12,,,,,,,1,0,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0,0,2,1,1,1,1,1,1,2,1,10,1,2,1.1,15,1
+26429080,"DM
+HPT
+OSA
+Temporarily reduced LV systolic function due to sepsis 
+Stroke with left hemiparesis
+Obesity",,HbA1c 6.8,yes h/o IHD but CVD positive,"treadmill 10mins , 3-4 times per week, RPE 10
+regular",managable,non smoker but exposed to passive smoke ,"not meticulous regarding diet, eats what is available",38,0.19,127 (69% age predicted),10.1,moderate ,"heart failure secondary to sepsis - resolved
+
+established CVD (stroke) with multiple CV risk factors",M,41,,,,,,20 minutes per session,,,,,,,,,,,1,10 mins,95bpm,12,resisted exercises both UL 1.8kg 3exercises RPE12,,,1.8lbs 3exs,,12,0,1,1,1,0,0,0,3,0,0,2,1,2,2,2,2,0,0,2,1,1,1,1,1,0,1,1,10,1,1.8,1.1,15,1
