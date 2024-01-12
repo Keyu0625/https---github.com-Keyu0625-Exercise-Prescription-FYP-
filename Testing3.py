@@ -495,6 +495,7 @@ def prescribe_exercise():
 
 
 if __name__ == '__main__':
+    st.title("Risk Assessment and Exercise Prescription")
     if 'stage' not in st.session_state:
         st.session_state.stage = 0
 
