@@ -401,6 +401,7 @@ def prescribe_exercise():
     
     
     st.subheader('RECUMBENT BIKE PRESCRIPTION', divider='blue')
+    st.write("*## Recommmend using bike at physio gym*")
     
     for target_var, predicted_value in zip(targets1, predicted_outputs1[0]):
         unit = ""  
@@ -485,7 +486,9 @@ def prescribe_exercise():
             st.write(f"{target_var}: {int(predicted_value)}")
 
     st.caption("You are required to do strengthening exercise for both upper limb and lower limb following the weight , the number of repetitions and number of sets suggested")
+    st.title("Kindly reminder")
     st.subheader("Please perform warm up 10 mins before the exercise and cool down 10 mins after the exercise")
+    st.subheader("Make sure your heart rate does not exceed maximum heart rate")
 
 
 
