@@ -10,6 +10,7 @@ from sklearn.model_selection import train_test_split
 
 df = pd.read_excel("C:\\Users\\USER\\OneDrive - Universiti Malaya\\FYP\\Dataset\\cleaned_data_removedmoredata.xlsx")
 
+
 selected_columns = ['cleaned_risk_type','cleaned_hypertension','cleaned_diabetes_mellitus','cleaned_familyhx',
                     'cleaned_exercise','cleaned_stress','cleaned_smoking','cleaned_diet','cleaned_bmi',
                     'ischemia','dyslipidemia','ejection_fraction','cleaned_peak_hr','cleaned_mets',
