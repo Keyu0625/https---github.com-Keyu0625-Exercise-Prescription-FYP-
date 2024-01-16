@@ -313,8 +313,12 @@ def risk_and_fill_data():
 
     predicted_class = classifier.predict(pd.DataFrame(user_data2))
     predicted_label = 'Low Risk' if predicted_class == 0 else 'Moderate Risk'
+    # Choose a color based on the predicted label
+    color = 'green' if predicted_label == 'Low Risk' else 'red'
 
-    st.write(f'Predicted Risk Level: {predicted_label}')
+    st.markdown(f'<p style="color:{color}; font-size:20px;">Predicted Risk Level: {predicted_label}</p>', unsafe_allow_html=True)
+    
+    #st.markdown(f':red [Predicted Risk Level: {predicted_label}]')
 
     maximum_hr = st.number_input("Enter you maximum heart rate")
 
@@ -327,9 +331,9 @@ def risk_and_fill_data():
     
     st.session_state.user_data['risk'] = predicted_label
 
-
+    st.divider()
     ################ FOR RECUMBENT EXERCISE PRESCRIPTION ##################
-    st.markdown("**Kindly fill in for exercise prescription**")    
+    st.markdown(":red[**Kindly fill in for exercise prescription**]")    
     
     
     st.session_state.user_data['bmi'] = st.selectbox(
