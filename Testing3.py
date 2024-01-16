@@ -203,14 +203,14 @@ def submit_button():
         index = None,
         placeholder = "Select your choice",
     )
-    st.write('APMHR = Age Predicted Maximum Heart Rate')
+    st.caption(':blue[APMHR = Age Predicted Maximum Heart Rate]')
     st.session_state.user_data['peak_hr'] = st.selectbox(
         'What is your peak heart rate precentage?',
         ('Less than 60% APMHR','60% to 80% APMHR','More than 80% APMHR'),
         index = None,
         placeholder = "Select your choice",
     )
-    st.write('METs = metabolic equivalents')
+    st.caption(':blue[METs = metabolic equivalents]')
     st.session_state.user_data['mets'] = st.selectbox(
         'What is your MET value?',
         ('Lower than 3','3 to 6','Higher than 6'),
@@ -240,7 +240,7 @@ def submit_button():
         ('Yes','No'),
         index = None,
     )
-    st.write('Gait = The pattern you walk')
+    st.caption(':blue[Gait = The pattern you walk]')
     st.session_state.user_data['gait'] = st.selectbox(
         'Normal or abnormal gait?',
         ('Normal','Abnormal'),
