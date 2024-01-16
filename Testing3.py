@@ -146,6 +146,13 @@ def check_and_set_state():
     else:
         st.warning("Please fill in all the required data.")
 
+def check_and_set_state1():
+    if all(value is not None for value in st.session_state.user_data.values()):
+        set_state(2)
+    else:
+        st.warning("Please fill in all the required data.")
+
+
 if 'user_data' not in st.session_state:
     st.session_state.user_data = {}
 
@@ -353,8 +360,10 @@ def risk_and_fill_data():
         ("Yes","No"),
         index = None,
         )
-                                    
-    st.button("Prescribe", on_click=set_state, args=[2])
+    
+    if st.button("Prescribe", on_click=check_and_set_state1):
+        check_and_set_state1()                                
+    #st.button("Prescribe", on_click=set_state, args=[2])
 
 def prescribe_exercise():
     user_data = st.session_state.user_data
