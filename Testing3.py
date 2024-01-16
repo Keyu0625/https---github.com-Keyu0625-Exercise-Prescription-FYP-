@@ -229,11 +229,10 @@ def submit_button():
         index = None,
         placeholder = "Select your choice",
     )
-    st.session_state.user_data['functional_activity'] = st.selectbox(
+    st.session_state.user_data['functional_activity'] = st.radio(
         'Are you able to perform daily activites by your own?',
-        ('No (Dependent)','Yes (Independent)'),
+        ('Yes (Independent)','No (Dependent)'),
         index = None,
-        placeholder = "Select your choice",
     )
     st.session_state.user_data['walking'] = st.radio(
         'Are you able to walk by your own?',
@@ -317,10 +316,14 @@ def risk_and_fill_data():
 
     st.write(f'Predicted Risk Level: {predicted_label}')
 
+    maximum_hr = st.number_input("Enter you maximum heart rate")
+
     if predicted_label == 'Moderate Risk':
         st.write('Target heart rate = Maximum heart rate x 50%')
+        st.write(f"Your target heart rate = {maximum_hr * 0.5} bpm")
     else:
         st.write('Target heart rate = Maximum heart rate x 60%')
+        st.write(f"Your target heart rate = {maximum_hr * 0.6} bpm")
     
     st.session_state.user_data['risk'] = predicted_label
 
