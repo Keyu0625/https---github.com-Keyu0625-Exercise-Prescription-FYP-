@@ -356,7 +356,7 @@ def risk_and_fill_data():
         )
     st.session_state.user_data['exercise_habit_frequency'] = st.selectbox(
         "Exercise habit frequency (times/week)",
-        ("0","1","2","3","4","5","6","7"),
+        ("0","1","2","3","4","5","6","7 or more than that"),
         placeholder = "Select your choice",
         index = None,
         )
@@ -416,11 +416,12 @@ def prescribe_exercise():
     #st.write(sample_input1)
     predicted_outputs1 = multi_output_model1.predict(pd.DataFrame(sample_input1, columns=selected_feature_names1))
     
-    st.title("Kindly reminder")
-    st.subheader("Please perform warm up 10 mins before the exercise and cool down 10 mins after the exercise")
-    st.subheader("Make sure your heart rate does not exceed maximum heart rate")
-    st.subheader('RECUMBENT BIKE PRESCRIPTION', divider='blue')
-    st.write("*## Recommmend using bike at physio gym*")
+    st.subheader("Kindly reminder:")
+    st.markdown(f'<p style="color:blue; font-size:22px;">Please perform warm up 10 mins before the exercise and cool down 10 mins after the exercise</p>', unsafe_allow_html=True)
+    st.markdown(f'<p style="color:blue; font-size:22px;">Make sure your heart rate does not exceed maximum heart rate</p>', unsafe_allow_html=True)
+    
+    st.subheader('RECUMBENT BIKE PRESCRIPTION', divider='gray')
+    st.write(":red[*## Recommmend using bike at physio gym*]")
     
     for target_var, predicted_value in zip(targets1, predicted_outputs1[0]):
         unit = ""  
@@ -485,24 +486,24 @@ def prescribe_exercise():
     sample_input2 = user_data_strengthening.values.tolist()
     predicted_outputs2 = multi_output_model2.predict(pd.DataFrame(sample_input2, columns=selected_feature_names2))
 
-    st.subheader('STRENGTHENING EXERCISE PRESCRIPTION', divider='blue')
+    st.subheader('STRENGTHENING EXERCISE PRESCRIPTION', divider='gray')
 
-    st.write("*## You are required to do strengthening exercise for both upper limb and lower limb following the weight , the number of repetitions and number of sets suggested*")
+    st.markdown(":red[*## You are required to do strengthening exercise for both upper limb and lower limb following the weight , the number of repetitions and number of sets suggested*]")
 
     for target_var, predicted_value in zip(targets2, predicted_outputs2[0]):
         unit = ""
         if target_var == 'cleaned_ul_weight':
             unit = " lbs"
-            st.write(f"Strengthening exercise weight for Upper Limb: {int(predicted_value)}{unit}")
+            st.write(f"Weight for Upper Limb: {int(predicted_value)}{unit}")
         elif target_var == 'cleaned_ll_weight':
             unit = " kg"
-            st.write(f"Strengthening exercise weight for Lower Limb : {int(predicted_value)}{unit}")
+            st.write(f"Weight for Lower Limb : {int(predicted_value)}{unit}")
         elif target_var == 'cleaned_strengthening_rep':
             unit = " repetitions"
-            st.write(f"Number of repetitions for strengthening exercise: {int(predicted_value)}{unit}")
+            st.write(f"Number of repetitions: {int(predicted_value)}{unit}")
         elif target_var == 'cleaned_strengthening_set':
             unit = " sets"
-            st.write(f"Number of sets for strengthening exercise: {int(predicted_value)}{unit}")
+            st.write(f"Number of sets: {int(predicted_value)}{unit}")
         else:
             st.write(f"{target_var}: {int(predicted_value)}")
 
