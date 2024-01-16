@@ -489,6 +489,8 @@ def prescribe_exercise():
             st.write(f"Number of sets for strengthening exercise: {int(predicted_value)}{unit}")
         else:
             st.write(f"{target_var}: {int(predicted_value)}")
+
+    st.button("Done", on_click=set_state, args=[0])
     
     
 
