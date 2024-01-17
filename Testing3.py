@@ -224,7 +224,7 @@ def submit_button():
         placeholder = "Select your choice",
     )
     st.session_state.user_data['alcoholic'] = st.selectbox(
-        'Do you drink?',
+        'Do you drink alcohol?',
         ('No','Yes Im an occasional drinker','Yes Im a social drinker'),
         index = None,
         placeholder = "Select your choice",
